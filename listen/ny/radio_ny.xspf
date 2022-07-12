@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+		<track>
+			<title>570AM - WMCA</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WMCAAMAAC.aac</location>
+		</track>
+		<track>
+			<title>620AM - WSNR</title>
+			<location>http://ags.abinet.com:8800/dr.mp3</location>
+		</track>
+		<track>
+			<title>660AM - WFAN</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAMAAC.aac</location>
+		</track>
+		<track>
+			<title>710AM - WOR</title>
+			<location>http://stream.revma.ihrhls.com/zc5874.mp3</location>
+		</track>
+		<track>
+			<title>770AM - WABC</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAMAAC.aac</location>
+		</track>
+		<track>
+			<title>820AM - WNYC</title>
+			<location>http://am820.wnyc.org/wnycam</location>
+		</track>
+		<track>
+			<title>880AM - WCBS</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAMAAC.aac</location>
+		</track>
+		<track>
+			<title>930AM - WPAT</title>
+			<location>http://mobilestream1.serverroom.us:9772/;stream.mp3/playlist.m3u8</location>
+		</track>
+		<track>
+			<title>970AM - WNYMAM -</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WNYMAMAAC.aac</location>
+		</track>
+		<track>
+			<title>1010AM - WINS</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WINSAMAAC.aac</location>
+		</track>
+		<track>
+			<title>1030AM - WWGB</title>
+			<location>http://ic1.christiannetcast.com/wwgb.m3u</location>
+		</track>
+		<track>
+			<title>1050AM - WEPN</title>
+			<location>https://live.wostreaming.net/direct/goodkarma-wepnamaac-ibc</location>
+		</track>
+		<track>
+			<title>1100AM - WHLI</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WHLIAMAAC.aac</location>
+		</track>
+		<track>
+			<title>1130AM - WBBR</title>
+			<location>https://26103.live.streamtheworld.com:443/WBBRAM</location>
+		</track>
+		<track>
+			<title>1280AM - WADO</title>
+			<location>https://live.wostreaming.net/direct/univision-wadoamaac-imc1</location>
+		</track>
+		<track>
+			<title>1380AM - WBTK</title>
+			<location>http://ic1.christiannetcast.com/wbtk.m3u</location>
+		</track>
+		<track>
+			<title>88.1FM - WCWP</title>
+			<location>https://wcwp.liu.edu/hls-live/livepkgr/_wcwpfmhls_/wcwpfmhls/livestream.m3u8</location>
+		</track>
+		<track>
+			<title>88.3FM - WBGO</title>
+			<location>http://wbgo.streamguys.net/wbgo</location>
+		</track>
+		<track>
+			<title>88.7FM - WRHU</title>
+			<location>http://streamwrhu.net:8500/wrhu.mp3</location>
+		</track>
+		<track>
+			<title>88.9FM - WSIA</title>
+			<location>http://vorbis.wsia.fm:8000/wsia.mp3</location>
+		</track>
+		<track>
+			<title>89.1FM - WFDU</title>
+			<location>http://peridot.streamguys1.com:5350/iheart</location>
+		</track>
+		<track>
+			<title>89.2FM - WNYU</title>
+			<location>http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3</location>
+		</track>
+		<track>
+			<title>89.9FM - WKCR</title>
+			<location>https://wkcr.streamguys1.com/live</location>
+		</track>
+		<track>
+			<title>90.7FM - WFUV</title>
+			<location>https://onair.wfuv.org/onair-hi</location>
+		</track>
+		<track>
+			<title>92.1FM - WLNG</title>
+			<location>http://sc7.shoutcaststreaming.us:8100/stream</location>
+		</track>
+		<track>
+			<title>92.3FM - WNYL</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFMAAC.aac</location>
+		</track>
+		<track>
+			<title>92.7FM - WFME</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EASTAAC.aac</location>
+		</track>
+		<track>
+			<title>93.1FM - WPAT</title>
+			<location>https://live.wostreaming.net/direct/sbsystems-wpatfmaac-imc1</location>
+		</track>
+		<track>
+			<title>93.9FM - WNYC</title>
+			<location>http://fm939.wnyc.org/wnycfm</location>
+		</track>
+		<track>
+			<title>95.5FM - WPLJ</title>
+			<location>https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8</location>
+		</track>
+		<track>
+			<title>96.3FM - WXNY</title>
+			<location>https://live.wostreaming.net/direct/univision-wxnyfmaac-imc1</location>
+		</track>
+		<track>
+			<title>96.7FM - WKLV</title>
+			<location>https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8</location>
+		</track>
+		<track>
+			<title>97.1FM - WQHT</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac</location>
+		</track>
+		<track>
+			<title>97.9FM - WSKQ</title>
+			<location>https://live.wostreaming.net/direct/sbsystems-wskqfmaac-imc1</location>
+		</track>
+		<track>
+			<title>98.7FM - WEPN</title>
+						<location>http://live.wostreaming.net/direct/espn-wepnmp3-32</location>
+		</track>
+		<track>
+			<title>99.5FM - WBAI</title>
+			<location>http://stream.wbai.org:8000/wbai_128</location>
+		</track>
+		<track>
+			<title>100.3FM - WHTZ</title>
+			<location>http://stream.revma.ihrhls.com/zc1469.mp3</location>
+		</track>
+		<track>
+			<title>101.1FM - WCBS</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFMAAC.aac</location>
+		</track>
+		<track>
+			<title>101.9FM - WFAN</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM</location>
+		</track>
+		<track>
+			<title>102.7FM - WNEW</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWFM.mp3</location>
+		</track>
+		<track>
+			<title>103.5FM - WKTU</title>
+			<location>http://stream.revma.ihrhls.com/zc5874.mp3</location>
+		</track>
+		<track>
+			<title>104.3FM - WAXQ</title>
+			<location>http://stream.revma.ihrhls.com/zc1465.mp3</location>
+		</track>
+		<track>
+			<title>105.1FM - WWPR</title>
+			<location>http://stream.revma.ihrhls.com/zc1477.mp3</location>
+		</track>
+		<track>
+			<title>105.9FM - WQXR</title>
+			<location>http://stream.wqxr.org/wqxr</location>
+		</track>
+		<track>
+			<title>106.3FM - WYMK</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EAST_SC.aac</location>
+		</track>
+		<track>
+			<title>106.7FM - WLTW</title>
+			<location>http://stream.revma.ihrhls.com/zc1477.mp3</location>
+		</track>
+		<track>
+			<title>107.1FM - WWZY</title>
+			<location>https://live.wostreaming.net/direct/press-wwzyfmaac-ibc1</location>
+		</track>
+	</trackList>
+</playlist>

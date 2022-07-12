@@ -1,0 +1,62 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="47"/>
+		<author/>
+		<title>Ottfox</title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/WMCAAMAAC.aac/570AM - WMCA"/>
+			<media src="http://ags.abinet.com:8800/dr.mp3/620AM - WSNR"/>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAMAAC.aac/660AM - WFAN"/>
+			<media src="http://stream.revma.ihrhls.com/zc5874.mp3/710AM - WOR"/>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAMAAC.aac/770AM - WABC"/>
+			<media src="http://am820.wnyc.org/wnycam/820AM - WNYC"/>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAMAAC.aac/880AM - WCBS"/>
+			<media src="http://mobilestream1.serverroom.us:9772/;stream.mp3/playlist.m3u8/930AM - WPAT"/>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/WNYMAMAAC.aac/970AM - WNYMAM - "/>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/WINSAMAAC.aac/1010AM - WINS"/>
+			<media src="http://ic1.christiannetcast.com/wwgb.m3u/1030AM - WWGB"/>
+			<media src="https://live.wostreaming.net/direct/goodkarma-wepnamaac-ibc/1050AM - WEPN"/>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/WHLIAMAAC.aac/1100AM - WHLI"/>
+			<media src="https://26103.live.streamtheworld.com:443/WBBRAM/1130AM - WBBR"/>
+			<media src="https://live.wostreaming.net/direct/univision-wadoamaac-imc1/1280AM - WADO"/>
+			<media src="http://ic1.christiannetcast.com/wbtk.m3u/1380AM - WBTK"/>
+			<media src="https://wcwp.liu.edu/hls-live/livepkgr/_wcwpfmhls_/wcwpfmhls/livestream.m3u8/88.1FM - WCWP"/>
+			<media src="http://wbgo.streamguys.net/wbgo/88.3FM - WBGO"/>
+			<media src="http://streamwrhu.net:8500/wrhu.mp3/88.7FM - WRHU"/>
+			<media src="http://vorbis.wsia.fm:8000/wsia.mp3/88.9FM - WSIA"/>
+			<media src="http://peridot.streamguys1.com:5350/iheart/89.1FM - WFDU"/>
+			<media src="http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3/89.2FM - WNYU"/>
+			<media src="https://wkcr.streamguys1.com/live/89.9FM - WKCR"/>
+			<media src="https://onair.wfuv.org/onair-hi/90.7FM - WFUV"/>
+			<media src="http://sc7.shoutcaststreaming.us:8100/stream/92.1FM - WLNG"/>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFMAAC.aac/92.3FM - WNYL"/>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EASTAAC.aac/92.7FM - WFME"/>
+			<media src="https://live.wostreaming.net/direct/sbsystems-wpatfmaac-imc1/93.1FM - WPAT"/>
+			<media src="http://fm939.wnyc.org/wnycfm/93.9FM - WNYC"/>
+			<media src="https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8/95.5FM - WPLJ"/>
+			<media src="https://live.wostreaming.net/direct/univision-wxnyfmaac-imc1/96.3FM - WXNY"/>
+			<media src="https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8/96.7FM - WKLV"/>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac/97.1FM - WQHT"/>
+			<media src="https://live.wostreaming.net/direct/sbsystems-wskqfmaac-imc1/97.9FM - WSKQ"/>
+			<media src="http://live.wostreaming.net/direct/espn-wepnmp3-32/98.7FM - WEPN"/>
+			<media src="http://stream.wbai.org:8000/wbai_128/99.5FM - WBAI"/>
+			<media src="http://stream.revma.ihrhls.com/zc1469.mp3/100.3FM - WHTZ"/>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFMAAC.aac/101.1FM - WCBS"/>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM/101.9FM - WFAN"/>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWFM.mp3/102.7FM - WNEW"/>
+			<media src="http://stream.revma.ihrhls.com/zc5874.mp3/103.5FM - WKTU"/>
+			<media src="http://stream.revma.ihrhls.com/zc1465.mp3/104.3FM - WAXQ"/>
+			<media src="http://stream.revma.ihrhls.com/zc1477.mp3/105.1FM - WWPR"/>
+			<media src="http://stream.wqxr.org/wqxr/105.9FM - WQXR"/>
+			<media src="https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EAST_SC.aac/106.3FM - WYMK"/>
+			<media src="http://stream.revma.ihrhls.com/zc1477.mp3/106.7FM - WLTW"/>
+			<media src="https://live.wostreaming.net/direct/press-wwzyfmaac-ibc1/107.1FM - WWZY"/>
+		</seq>
+	</body>
+</smil>
