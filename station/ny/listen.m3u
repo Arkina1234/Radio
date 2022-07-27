@@ -1,26 +1,22 @@
 #EXTM3U
 #EXTINF:0,570 AM - WMCA
-https://playerservices.streamtheworld.com/api/livestream-redirect/WMCAAMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMCAAMAAC.
 #EXTINF:0,620 AM - WSNR
 http://ags.abinet.com:8800/dr.mp3
 #EXTINF:0,660 AM - WFAN
-https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAMAAC
 #EXTINF:0,710 AM - WOR
 http://stream.revma.ihrhls.com/zc5874.mp3
 #EXTINF:0,770 AM - WABC
-https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAMAAC
 #EXTINF:0,820 AM - WNYC
 http://am820.wnyc.org/wnycam
 #EXTINF:0,880 AM - WCBS
-https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAMAAC.aac
-#EXTINF:0,930 AM - WPAT
-http://mobilestream1.serverroom.us:9772/;stream.mp3/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAMAAC
 #EXTINF:0,970 AM - WNYM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WNYMAMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNYMAMAAC
 #EXTINF:0,1010 AM - WINS
-https://playerservices.streamtheworld.com/api/livestream-redirect/WINSAMAAC.aac
-#EXTINF:0,1030 AM - WWGB
-http://ic1.christiannetcast.com/wwgb.m3u
+https://playerservices.streamtheworld.com/api/livestream-redirect/WINSAMAAC
 #EXTINF:0,1050 AM - WEPN
 https://live.wostreaming.net/direct/goodkarma-wepnamaac-ibc
 #EXTINF:0,1100 AM - WHLI
@@ -29,12 +25,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WHLIAMAAC.aac
 https://26103.live.streamtheworld.com:443/WBBRAM
 #EXTINF:0,1280 AM - WADO
 https://live.wostreaming.net/direct/univision-wadoamaac-imc1
-#EXTINF:0,1380 AM - WBTK
-http://ic1.christiannetcast.com/wbtk.m3u
 #EXTINF:0,88.1 FM - WCWP
 https://wcwp.liu.edu/hls-live/livepkgr/_wcwpfmhls_/wcwpfmhls/livestream.m3u8
 #EXTINF:0,88.3 FM - WLIW
-https://playerservices.streamtheworld.com/api/livestream-redirect/WLIWFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLIWFMAAC
 #EXTINF:0,88.7 FM - WRHU
 http://streamwrhu.net:8500/wrhu.mp3
 #EXTINF:0,88.9 FM - WSIA
@@ -52,7 +46,7 @@ http://sc7.shoutcaststreaming.us:8100/stream
 #EXTINF:0,92.3 FM - WNYL
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFMAAC.aac
 #EXTINF:0,92.7 FM - WFME
-https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EASTAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EASTAAC
 #EXTINF:0,93.1 FM - WPAT
 https://live.wostreaming.net/direct/sbsystems-wpatfmaac-imc1
 #EXTINF:0,93.9 FM - WNYC
@@ -64,7 +58,7 @@ https://live.wostreaming.net/direct/univision-wxnyfmaac-imc1
 #EXTINF:0,96.7 FM - WKLV
 https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8
 #EXTINF:0,97.1 FM - WQHT
-https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC
 #EXTINF:0,97.9 FM - WSKQ
 https://live.wostreaming.net/direct/sbsystems-wskqfmaac-imc1
 #EXTINF:0,98.7 FM - WEPN
@@ -74,11 +68,11 @@ http://stream.wbai.org:8000/wbai_128
 #EXTINF:0,100.3 FM - WHTZ
 http://stream.revma.ihrhls.com/zc1469.mp3
 #EXTINF:0,101.1 FM - WCBS
-https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFM
 #EXTINF:0,101.9 FM - WFAN
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM
 #EXTINF:0,102.7 FM - WNEW
-https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWFM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWFM
 #EXTINF:0,103.5 FM - WKTU
 http://stream.revma.ihrhls.com/zc5874.mp3
 #EXTINF:0,104.3 FM - WAXQ
@@ -88,6 +82,6 @@ http://stream.revma.ihrhls.com/zc1477.mp3
 #EXTINF:0,105.9 FM - WQXR
 http://stream.wqxr.org/wqxr
 #EXTINF:0,106.3 FM - WYMK
-https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EAST_SC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_EAST_SC
 #EXTINF:0,106.7 FM - WLTW
 http://stream.revma.ihrhls.com/zc1477.mp3
