@@ -1,0 +1,10 @@
+720 AM - WGN
+https://prod-34-82-202-65.wostreaming.net/wgnam-wgnammp3-imc2
+780 AM - WBBM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBBMAM.mp3
+96.3 FM - WBBM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBBMFM.mp3
+98.7 FM - WFMT
+http://wfmt.streamguys1.com/main
+104.3 FM - WBMX
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBMXFM.mp3
