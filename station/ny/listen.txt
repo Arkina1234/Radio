@@ -21,7 +21,7 @@ https://live.wostreaming.net/direct/goodkarma-wepnamaac-ibc
 1100 AM - WHLI
 https://playerservices.streamtheworld.com/api/livestream-redirect/WHLIAMAAC.aac
 1130 AM - WBBR
-https://26103.live.streamtheworld.com:443/WBBRAM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC48.aac
 1280 AM - WADO
 https://live.wostreaming.net/direct/univision-wadoamaac-imc1
 
