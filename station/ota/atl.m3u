@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0,TheMessage
+http://shoutcast.ibn.org:8000/.mp3
+#EXTINF:0,949Bull
+http://ample.revma.ihrhls.com/zc2829.mp3
+#EXTINF:0,Z1057
+http://ample.revma.ihrhls.com/zc749.mp3
+#EXTINF:0,Power961
+http://ample.revma.ihrhls.com/zc741.mp3
+#EXTINF:0,TheBeat
+http://ample.revma.ihrhls.com/zc3209.mp3
+#EXTINF:0,Patrón
+http://ample.revma.ihrhls.com/zc4451.mp3
+#EXTINF:0,LMM
+https://crystalout.surfernetwork.com:8001/WCHK-AM_MP3
+#EXTINF:0,BIZTALK
+http://64.78.234.165:8030/BizTalkRadio
