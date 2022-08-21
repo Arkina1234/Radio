@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0,WSTW
+https://playerservices.streamtheworld.com/api/livestream-redirect/WSTWFMAAC
+#EXTINF:0,WDEL
+https://playerservices.streamtheworld.com/api/livestream-redirect/WDELAMAAC
+#EXTINF:0,WXCY
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXCYFMAAC
+#EXTINF:0,WBOC
+https://live.wostreaming.net/direct/wboc-wbocfmaac-ibc2
+#EXTINF:0,WAAI
+https://live.wostreaming.net/direct/wboc-waaifmmp3-ibc2
+#EXTINF:0,Big
+https://live.wostreaming.net/direct/wboc-wgbgfmaac-ibc2
+#EXTINF:0,The Duck
+https://live.wostreaming.net/direct/wboc-wtdkfmmp3-ibc2
+#EXTINF:0,The Beach
+https://live.wostreaming.net/direct/wboc-wzbhfmaac-ibc2no
+#EXTINF:0,WMGM Rocks
+https://us2.maindigitalstream.com/ssl/WMGM
+#EXTINF:0,Kool
+https://us2.maindigitalstream.com/ssl/KTKU
+#EXTINF:0,WOND
+https://us2.maindigitalstream.com/ssl/WOND
+#EXTINF:0,SportsBet
+https://us2.maindigitalstream.com/ssl/WBSS
+#EXTINF:0,Eagle
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAFLFMAAC
+#EXTINF:0,The Wave
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAVDFMAAC
+#EXTINF:0,The Chicken
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCHKFMAAC
+#EXTINF:0,Cool
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNCLAMAAC
