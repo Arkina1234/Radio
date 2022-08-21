@@ -1,11 +1,11 @@
 Thunder
-https://prod-54-166-200-161.wostreaming.net/press-wkmkfmmp3-ibc1
+https://live.wostreaming.net/manifest/press-wkmkfmmp3-ibc1
 B985
-https://prod-54-166-200-161.wostreaming.net/press-wbbofmmp3-ibc1
+https://live.wostreaming.net/manifest/press-wbbofmmp3-ibc1
 TheBoss
-https://prod-54-166-200-161.wostreaming.net/press-wwzyfmmp3-ibc1
+https://live.wostreaming.net/manifest/press-wwzyfmmp3-ibc1
 1410AM
-https://prod-54-166-200-161.wostreaming.net/press-whtgammp3-ibc1
+https://live.wostreaming.net/manifest/press-whtgammp3-ibc1
 WDNJ
 https://ic2.sslstream.com/wdnj-fm
 KCBN
