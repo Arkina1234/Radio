@@ -1,0 +1,45 @@
+570AM WWRC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WWRCAMAAC.aac
+630AM WSBN
+https://playerservices.streamtheworld.com/api/livestream-redirect/WSBNAMAAC.aac
+700AM WDMV
+https://hls.gvstream.live/usa/lajefa700.stream/playlist.m3u8
+780AM WAVA
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAVAAMAAC.aac
+900AM WACA
+http://stream.zeno.fm/a1s86ymequeuv
+920AM WURA
+http://95.179.131.207:9300/listen.mp3
+980AM WTEM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WTEMAMAAC
+1030AM WWGB
+https://147.135.84.27:80/wwgb-am
+1050AM WBQH
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBQHAM.mp3
+1120AM WUST
+http://ample.revma.ihrhls.com/zc8726.mp3
+1190AM WCRW
+https://ice5.securenetsystems.net/WUST
+1220AM WFAX
+https://ice64.securenetsystems.net/WFAX
+1260AM WQOF
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYCBAMAAC
+1450AM WOL
+https://playerservices.streamtheworld.com/api/livestream-redirect/WOLAMAAC
+1460AM WKDV
+http://195.154.182.222:26814/listen.mp3
+1480AM WPWC
+https://us2new.listen2myradio.com:2199/live.mp3?typeportmount=s2_8068_stream_861196421
+1500AM WFED
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFEDAM.mp3
+1540AM WDON
+https://live.turadio.stream:7016/veaHD
+1560AM WKIK
+https://www.streamvortex.com:8444/s/11020
+1580AM WJFK
+https://playerservices.streamtheworld.com/api/livestream-redirect/WJFKAMAAC
+
+100.7FM WFAX
+https://stream.zeno.fm/wuecf39qc18uv
+102.9FM WKIK
+https://www.streamvortex.com:8444/s/11020
