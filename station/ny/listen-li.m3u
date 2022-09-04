@@ -8,7 +8,7 @@ http://sc7.shoutcaststreaming.us:8100/stream
 #EXTINF:0,95.3FM WHFM
 https://cmg.streamguys1.com/lon1023/lon1023.mp3
 #EXTINF:0,98.5FM WBON
-https://26443.live.streamtheworld.com/WBONFM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBONFM.mp3
 #EXTINF:0,102.5FM WBAZ
 https://live.wostreaming.net/manifest/longisland-wbazfmmp3-ibc1
 #EXTINF:0,107.1FM WLIR
