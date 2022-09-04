@@ -64,12 +64,12 @@ https://ic2.sslstream.com/wgts-an
 https://ais-sa1.streamon.fm/7028_48k.aac
 97.1FM WASH
 98.7FM WMZQ-FM
-99.1FM WDCH-FM	
+99.1FM WDCH-FM
 99.5FM WIHT
 100.3FM WBIG-FM
 100.7FM WFAX
 https://stream.zeno.fm/wuecf39qc18uv
-101.1FM WWDC	
+101.1FM WWDC
 102.3FM WMMJ
 102.9FM WKIK
 https://www.streamvortex.com:8444/s/11020
@@ -77,12 +77,13 @@ https://www.streamvortex.com:8444/s/11020
 103.9FM WTLP
 104.1FM WPRS-FM
 105.1FM WAVA-FM
-https://15113.live.streamtheworld.com/WAVAFMAAC.aac?country=PH&dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=89af43d9-8bf6-44e2-c41f-db25b2b151af
-105.9FM WMAL-FM	
+https://15113.live.streamtheworld.com/WAVAFMAAC.aac
+105.9FM WMAL-FM
+https://19313.live.streamtheworld.com/WMALFMAAC.aac
 106.7FM WJFK-FM
-107.3FM WLVW	
+107.3FM WLVW
 107.7FM WWWT-FM
-107.9FM WLZL	
+107.9FM WLZL
 
 KHB 36
 https://wxradio.org/VA-Manassas-KHB36
