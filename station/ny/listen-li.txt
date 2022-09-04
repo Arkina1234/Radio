@@ -6,7 +6,7 @@ https://27063.live.streamtheworld.com:443/WNPRFM.mp3
 http://sc7.shoutcaststreaming.us:8100/stream
 95.3FM WHFM
 https://cmg.streamguys1.com/lon1023/lon1023.mp3
-98.5FM W ON
+98.5FM WBON
 https://26443.live.streamtheworld.com/WBONFM.mp3
 102.5FM WBAZ
 https://live.wostreaming.net/manifest/longisland-wbazfmmp3-ibc1
