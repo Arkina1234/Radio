@@ -40,19 +40,28 @@ https://www.streamvortex.com:8444/s/11020
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJFKAMAAC
 
 87.7FM WDCN-LD
+https://s6.yesstreaming.net:17022/stream
 88.5FM WAMU
+https://hd1.wamu.org
 89.3FM WPFW
+https://streams.pacifica.org:9000/wpfw_128
 89.9FM WPIR
+https://positivealtradio.streamguys1.com/wper
 90.1FM WCSP-FM
+https://20593.live.streamtheworld.com:443/CSPANRADIO.mp3
 90.5FM WMUC-FM
+http://wmuc.umd.edu:8000/wmuc-hq
 90.9FM WETA
+https://26283.live.streamtheworld.com:443/WETAFM.mp3
 91.9FM WGTS
+https://ic2.sslstream.com/wgts-an
 92.7FM WDCJ
 93.9FM WKYS
 94.3FM WLZV
 94.7FM WIAD
 95.5FM WPGC-FM
 96.3FM WHUR-FM
+https://ais-sa1.streamon.fm/7028_48k.aac
 97.1FM WASH
 98.7FM WMZQ-FM
 99.1FM WDCH-FM	
@@ -68,6 +77,7 @@ https://www.streamvortex.com:8444/s/11020
 103.9FM WTLP
 104.1FM WPRS-FM
 105.1FM WAVA-FM
+https://15113.live.streamtheworld.com/WAVAFMAAC.aac?country=PH&dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=89af43d9-8bf6-44e2-c41f-db25b2b151af
 105.9FM WMAL-FM	
 106.7FM WJFK-FM
 107.3FM WLVW	
