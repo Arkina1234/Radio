@@ -1,7 +1,7 @@
 88.3FM WLIW
-https://26293.live.streamtheworld.com/WLIWFM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLIWFM.mp3
 91.3FM WRLI
-https://27063.live.streamtheworld.com:443/WNPRFM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNPRFM.mp3
 92.1FM WLNG
 http://sc7.shoutcaststreaming.us:8100/stream
 95.3FM WHFM
@@ -11,6 +11,6 @@ https://26443.live.streamtheworld.com/WBONFM.mp3
 102.5FM WBAZ
 https://live.wostreaming.net/manifest/longisland-wbazfmmp3-ibc1
 107.1FM WLIR
-https://27033.live.streamtheworld.com:443/WABCAM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAM.mp3
 WXM 80
 https://wxradio.org/NY-Riverhead-WXM80
