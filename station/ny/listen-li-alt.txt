@@ -1,15 +1,36 @@
+1370AM WLID
+http://panel.streamenviron.com:8100/stream.mp3
+1390AM WRIV
+http://sc03.warpradio.com:8618/;stream.mp3
+1570AM WFTU
+https://ice64.securenetsystems.net/WFTU
 88.3FM WLIW
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLIWFM.mp3
+88.9FM WFRS
+https://ais-sa3.cdnstream1.com/2640_64.aac
+90.3FM WHPC
+https://whpc.streamguys1.com/whpc
 91.3FM WRLI
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNPRFM.mp3
 92.1FM WLNG
 http://sc7.shoutcaststreaming.us:8100/stream
+92.9FM WEHM
+https://live.wostreaming.net/manifest/longisland-wehmfmmp3-ibc1
+94.3FM WWSK
+https://playerservices.streamtheworld.com/api/livestream-redirect/WWSKFM.mp3
 95.3FM WHFM
 https://cmg.streamguys1.com/lon1023/lon1023.mp3
+96.7FM WEHN
+https://live.wostreaming.net/manifest/longisland-wehmfmmp3-ibc1
+97.5FM WALK-FM
 98.5FM WBON
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBONFM.mp3
 102.5FM WBAZ
 https://live.wostreaming.net/manifest/longisland-wbazfmmp3-ibc1
+103.9FM WRCN-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRCNFM.mp3
+106.1FM WBLI
+https://cmg.streamguys1.com/lon1061/lon1061.mp3
 107.1FM WLIR
 https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAM.mp3
 WXM 80
