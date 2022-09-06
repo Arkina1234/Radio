@@ -1,32 +1,34 @@
 #EXTM3U
 #EXTINF:0,570AM WMCA
-https://playerservices.streamtheworld.com/api/livestream-redirect/WMCAAMAAC.
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMCAAM
 #EXTINF:0,620AM WSNR
 http://ags.abinet.com:8800/dr.mp3
 #EXTINF:0,660AM WFAN
-https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAMAAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM
 #EXTINF:0,710AM WOR
 http://ample.revma.ihrhls.com/zc5874
 #EXTINF:0,770AM WABC
-https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAMAAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAM
 #EXTINF:0,820AM WNYC
 http://am820.wnyc.org/wnycam
 #EXTINF:0,880AM WCBS
-https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAMAAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAM
 #EXTINF:0,970AM WNYM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WNYMAMAAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNYMAM
 #EXTINF:0,1010AM WINS
-https://playerservices.streamtheworld.com/api/livestream-redirect/WINSAMAAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WINSAM
 #EXTINF:0,1050AM WEPN
-https://live.wostreaming.net/direct/goodkarma-wepnamaac-ibc
+https://live.wostreaming.net/direct/goodkarma-wepnammp3-ibc
 #EXTINF:0,1100AM WHLI
-https://playerservices.streamtheworld.com/api/livestream-redirect/WHLIAMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WHLIAM
 #EXTINF:0,1130AM WBBR
-https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC48.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAM
 #EXTINF:0,1160AM WVNJ
 https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAIN.mp3
+#EXTINF:0,1190AM WLIB
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLIBAM
 #EXTINF:0,1230AM WFAS
-https://playerservices.streamtheworld.com/api/livestream-redirect/WFASAMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFASAM
 #EXTINF:0,1280AM WADO
 https://live.wostreaming.net/direct/univision-wadoamaac-imc1
 #EXTINF:0,1330AM WWRV
@@ -42,7 +44,7 @@ http://ph1.ministeriotv.com:8004/stream
 #EXTINF:0,1560AM WFME
 https://ais-sa3.cdnstream1.com/2640_64.aac
 #EXTINF:0,1600AM WWRL
-https://ample.revma.ihrhls.com/zc8772/63_1gr4rj2ja1rxl02/playlist.m3u8
+https://ample.revma.ihrhls.com/zc8772
 #EXTINF:0,1660AM WWRU
 https://ais-edge50-live365-dal02.cdnstream.com/a04335
 #EXTINF:0,88.1FM WCWP
@@ -51,8 +53,6 @@ https://wcwp.liu.edu/hls-live/livepkgr/_wcwpfmhls_/wcwpfmhls/livestream.m3u8
 http://wbgo.streamguys.net/wbgo
 #EXTINF:0,88.3HD2 WBGO
 http://wbgo.streamguys.net/thejazzstream
-#EXTINF:0,88.3HD3 WBGO
-https://arkina1234.github.io/Radio/live/signal-fm1.mp3
 #EXTINF:0,88.7FM WRHU
 http://streamwrhu.net:8500/wrhu.mp3
 #EXTINF:0,88.9FM WSIA
@@ -77,58 +77,110 @@ https://npr-ice.streamguys1.com/live.mp3
 http://146.111.118.62:8000/radio
 #EXTINF:0,90.7HD1 WFUV
 https://onair.wfuv.org/onair-hi
+#EXTINF:0,90.7HD2 MUSIC
+https://music.wfuv.org/music-hi
 #EXTINF:0,91.1FM WFMU
 http://stream0.wfmu.org/freeform-128k
 #EXTINF:0,92.3HD1 WNYL
-https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFMAAC.aac
-#EXTINF:0,92.7FM WFME
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFM
+#EXTINF:0,92.3HD2 WNYL-HD2
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLHD2
+#EXTINF:0,92.3HD3 KNX-HD2
+https://playerservices.streamtheworld.com/api/livestream-redirect/KNXHD2
+#EXTINF:0,92.7FM WFME-FM
 https://ais-sa3.cdnstream1.com/2640_64.aac
-#EXTINF:0,93.1HD1 WPAT
+#EXTINF:0,93.1HD1 WPAT-FM
 https://live.wostreaming.net/direct/sbsystems-wpatfmaac-imc1
+#EXTINF:0,93.1HD2 WPAT-HD2
+https://radio.worldkast.com:2000/stream/8042
 #EXTINF:0,93.5HD1 WVIP
 https://rocket.surfernetwork.com:10001/live/wvip_aac/playlist.m3u8
-#EXTINF:0,93.9HD1 WNYC
+#EXTINF:0,93.5HD2 WVOX
+https://rocket.surfernetwork.com:10001/live/wvox_aac/playlist.m3u8
+#EXTINF:0,93.9HD1 WNYC-FM
 http://fm939.wnyc.org/wnycfm
-#EXTINF:0,93.9HD2 WQXR
+#EXTINF:0,93.9HD2 WQXR-FM
 http://stream.wqxr.org/wqxr
 #EXTINF:0,93.9HD3 WNYC-AM
 http://am820.wnyc.org/wnycam
 #EXTINF:0,94.7HD1 WXBK
-https://playerservices.streamtheworld.com/api/livestream-redirect/WXBKFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXBKFM
+#EXTINF:0,94.7HD2 WXBK
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXBKHD2
 #EXTINF:0,95.5HD1 WPLJ
 https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8
-#EXTINF:0,96.3HD1 WXNY
+#EXTINF:0,95.5HD2 KL90S
+https://emf-hls.streamguys1.com/k-love-90s-aac-64k/playlist.m3u8
+#EXTINF:0,95.5HD3 AIR1
+https://emf-hls.streamguys1.com/air1-live-aac-64k/playlist.m3u8
+#EXTINF:0,95.5HD4 WRDR
+https://bridge-libstrm.radioca.st/stream
+#EXTINF:0,96.3HD1 WXNY-FM
 https://live.wostreaming.net/direct/univision-wxnyfmaac-ibc1
+#EXTINF:0,96.3HD2 WADO-AM
+https://live.wostreaming.net/direct/univision-wadoamaac-imc1
+#EXTINF:0,96.3HD3 RUSREK
+https://securestreams5.autopo.st:1844/stream
+#EXTINF:0,96.3HD4 FREEDM
+https://us9.maindigitalstream.com/ssl/freedomfm
 #EXTINF:0,96.7FM WARW
 https://emf-hls.streamguys1.com/air1-live-aac-64k/playlist.m3u8
 #EXTINF:0,97.1FM WQHT
-https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC
-#EXTINF:0,97.9FM WSKQ
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFM
+#EXTINF:0,97.9FM WSKQ-FM
 https://live.wostreaming.net/direct/sbsystems-wskqfmaac-imc1
 #EXTINF:0,98.3FM WKJY
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKJYFM_SC
-#EXTINF:0,98.7FM WEPN
+#EXTINF:0,98.7FM WEPN-FM
 http://live.wostreaming.net/direct/espn-wepnmp3-32
+#EXTINF:0,99.1HD1 WAWZ
+https://pillar.streamguys1.com/HD1
+#EXTINF:0,99.1HD2 WAWZ
+https://pillar.streamguys1.com/HD2
+#EXTINF:0,99.1HD3 WAWZ
+https://pillar.streamguys1.com/HD3
 #EXTINF:0,99.5FM WBAI
 http://stream.wbai.org:8000/wbai_128
 #EXTINF:0,100.3FM WHTZ
 http://ample.revma.ihrhls.com/zc1469
 #EXTINF:0,100.7FM WHUD
-https://playerservices.streamtheworld.com/api/livestream-redirect/WHUDFMAAC.aac
-#EXTINF:0,101.1HD1 WCBS
-https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFMAAC.aac
-#EXTINF:0,101.9HD1 WFAN
-https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAMAAC.aac
-#EXTINF:0,102.7HD1 WNEW
-https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WHUDFM
+#EXTINF:0,101.1HD1 WCBS-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFM
+#EXTINF:0,101.1HD2 WCBS-AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAM
+#EXTINF:0,101.1HD3 WCBS-HD3
+https://ais-sa5.cdnstream1.com/b92108_64aac
+#EXTINF:0,101.9HD1 WFAN-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM
+#EXTINF:0,101.9HD1 CBSSR
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBSSPORTS
+#EXTINF:0,101.9HD1 BETQL
+https://playerservices.streamtheworld.com/api/livestream-redirect/BETQLNETWORK
+#EXTINF:0,102.7HD1 WNEW-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWFM
+#EXTINF:0,102.7HD2 WNEW-HD2
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWHD2
+#EXTINF:0,102.7HD3 WINS-AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WINSAM
 #EXTINF:0,103.5HD1 WKTU
-http://stream.revma.ihrhls.com/zc5874
+http://ample.revma.ihrhls.com/zc5874
+#EXTINF:0,103.5HD2 PRIDE
+http://ample.revma.ihrhls.com/zc3949
+#EXTINF:0,103.5HD3 BREEZE
+http://ample.revma.ihrhls.com/zc8143
 #EXTINF:0,103.9FM WFAS
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNBMFM.mp3
 #EXTINF:0,104.3HD1 WAXQ
 http://ample.revma.ihrhls.com/zc1465
-#EXTINF:0,105.1HD1 WWPR
+#EXTINF:0,104.3HD2 WOR
+http://ample.revma.ihrhls.com/zc5874
+#EXTINF:0,105.1HD1 WWPR-FM
 http://ample.revma.ihrhls.com/zc1477
+#EXTINF:0,105.1HD1 WWPR-HD2
+http://ample.revma.ihrhls.com/zc6495
+#EXTINF:0,105.1HD1 WWRL-AM
+https://ample.revma.ihrhls.com/zc8772
 #EXTINF:0,105.9HD1 WQXR-FM
 http://stream.wqxr.org/wqxr
 #EXTINF:0,105.9HD2 WQXR-FM
@@ -138,6 +190,8 @@ https://ais-sa3.cdnstream1.com/2640_64.aac
 #EXTINF:0,106.7FM WLTW
 http://ample.revma.ihrhls.com/zc1477
 #EXTINF:0,107.1FM WXPK
-https://playerservices.streamtheworld.com/api/livestream-redirect/WXPKFMAAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXPKFM
 #EXTINF:0,107.5HD1 WBLS
-https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFM
+#EXTINF:0,107.5HD2 WLIB
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLIBAM
