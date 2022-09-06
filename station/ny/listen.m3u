@@ -83,9 +83,9 @@ https://music.wfuv.org/music-hi
 http://stream0.wfmu.org/freeform-128k
 #EXTINF:0,92.3HD1 WNYL
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFM
-#EXTINF:0,92.3HD2 WNYL-HD2
+#EXTINF:0,92.3HD2 NWAR
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLHD2
-#EXTINF:0,92.3HD3 KNX-HD2
+#EXTINF:0,92.3HD3 KNXHD2
 https://playerservices.streamtheworld.com/api/livestream-redirect/KNXHD2
 #EXTINF:0,92.7FM WFME-FM
 https://ais-sa3.cdnstream1.com/2640_64.aac
