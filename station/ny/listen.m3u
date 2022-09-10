@@ -153,9 +153,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAM.mp3
 https://ais-sa5.cdnstream1.com/b92108_64aac
 #EXTINF:0,101.9HD1 WFAN-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM.mp3
-#EXTINF:0,101.9HD1 CBSSR
+#EXTINF:0,101.9HD2 CBSSR
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBSSPORTS.mp3
-#EXTINF:0,101.9HD1 BETQL
+#EXTINF:0,101.9HD3 BETQL
 https://playerservices.streamtheworld.com/api/livestream-redirect/BETQLNETWORK.mp3
 #EXTINF:0,102.7HD1 WNEW-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWFM.mp3
@@ -177,15 +177,15 @@ http://ample.revma.ihrhls.com/zc1465.mp3
 http://ample.revma.ihrhls.com/zc5874.mp3
 #EXTINF:0,105.1HD1 WWPR-FM
 http://ample.revma.ihrhls.com/zc1477.mp3
-#EXTINF:0,105.1HD1 WWPR-HD2
+#EXTINF:0,105.1HD2 WWPR-HD2
 http://ample.revma.ihrhls.com/zc6495.mp3
-#EXTINF:0,105.1HD1 WWRL-AM
+#EXTINF:0,105.1HD3 WWRL-AM
 https://ample.revma.ihrhls.com/zc8772.mp3
 #EXTINF:0,105.9HD1 WQXR-FM
 http://stream.wqxr.org/wqxr
 #EXTINF:0,105.9HD2 WQXR-FM
 https://q2stream.wqxr.org/q2.aac
-#EXTINF:0,106.3HD1 WYMK
+#EXTINF:0,106.3FM WYMK
 https://ais-sa3.cdnstream1.com/2640_64.aac
 #EXTINF:0,106.7HD1 WLTW
 http://ample.revma.ihrhls.com/zc1477.mp3
