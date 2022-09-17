@@ -1,0 +1,47 @@
+Canal M
+http://s4.streammonster.com:8460/;stream.mp3
+VOAR
+https://www.lighthousefm.org/listen-live/
+OZ-FM
+http://s7.voscast.com:10876/OZFM#.mp3?ver=13963
+CBHA
+http://www.cbc.ca/ns/
+CJAD 800
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJADAMAAC.aac
+CILQ
+https://corus.leanstream.co/CILQFM?args=web_01&startTime=1663409877
+CFNY
+http://player.edge.ca/
+CBLA
+http://www.cbc.ca/liveradio/popup/index.html?networkKey=cbc_radio_one&programKey=toronto
+CBL
+http://www.cbc.ca/liveradio/popup/index.html?networkKey=cbc_music&programKey=toronto
+CityNews 680
+https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8?environment=web&args=web_01
+CJCL
+CJRT
+WRN FM
+http://184.71.87.162:8000/?1663411089721
+CFMZ
+CFRB
+WBUR
+http://wbur-sc.streamguys.com/wbur
+KUOW 94.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/KUOWFM_HIGH_MP3.mp3?dist=kuow
+AMI-audio
+CKRY
+CBU-AM
+CBU-FM
+RFI
+WAHSA
+CKAC
+WKND 99.5
+CBFX-FM
+CBF
+CBUF
+CFRW
+TSN Radio
+Radio Herz
+CHUM-AM
+CHUM-FM
+
