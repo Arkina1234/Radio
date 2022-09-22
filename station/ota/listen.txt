@@ -1,3 +1,5 @@
+Phoenix AZ - KAET-DT 8.5: KBAQ
+https://kbaq.streamguys1.com/kbaq_mp3_128
 Atlanta GA - WANN-CD 32.11: TheMessage
 http://shoutcast.ibn.org:8000/.mp3
 Atlanta GA - WANN-CD 32.12: 949Bull
@@ -14,7 +16,7 @@ Atlanta GA - WANN-CD 32.17: LMM
 https://crystalout.surfernetwork.com:8001/WCHK-AM_MP3
 Atlanta GA - WANN-CD 32.18: BIZTALK
 http://64.78.234.165:8030/BizTalkRadio
-Portland OR P - KOPB-TV 10.4: OPB-FM
+Portland OR - KOPB-TV 10.4: OPB-FM
 https://ais-sa3.cdnstream1.com/2440_128.mp3
 Jackson MS - WMPN-TV 29.4: WMPN FM
 http://18153.live.streamtheworld.com:80/WMPNHD3_128.mp3?burst-time=17
