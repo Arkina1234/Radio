@@ -1,46 +1,52 @@
-Phoenix AZ - KAET-DT 8.5: KBAQ
+KBAQ
 https://kbaq.streamguys1.com/kbaq_mp3_128
-Atlanta GA - WANN-CD 32.11: TheMessage
-http://shoutcast.ibn.org:8000/.mp3
-Atlanta GA - WANN-CD 32.12: 949Bull
+K-LOVE
+https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8
+KCSM
+http://ice5.securenetsystems.net/KCSM
+WCCV
+http://shoutcast.ibn.org:8000/audio.mp3
+WUBL
 http://ample.revma.ihrhls.com/zc2829.mp3
-Atlanta GA - WANN-CD 32.13: Z1057
+WBZY
 http://ample.revma.ihrhls.com/zc749.mp3
-Atlanta GA - WANN-CD 32.14: Power961
+WWPW
 http://ample.revma.ihrhls.com/zc741.mp3
-Atlanta GA - WANN-CD 32.15: TheBeat
+WRDG
 http://ample.revma.ihrhls.com/zc3209.mp3
-Atlanta GA - WANN-CD 32.16: Patrón
+PATRON
 http://ample.revma.ihrhls.com/zc4451.mp3
-Atlanta GA - WANN-CD 32.17: LMM
+LMM
 https://crystalout.surfernetwork.com:8001/WCHK-AM_MP3
-Atlanta GA - WANN-CD 32.18: BIZTALK
+BIZTALK
 http://64.78.234.165:8030/BizTalkRadio
-Portland OR - KOPB-TV 10.4: OPB-FM
+OPBFM
 https://ais-sa3.cdnstream1.com/2440_128.mp3
-Jackson MS - WMPN-TV 29.4: WMPN FM
-http://18153.live.streamtheworld.com:80/WMPNHD3_128.mp3?burst-time=17
-Jackson MS - WMPN-TV 29.4: WMPN FM
+WMPN
 http://26253.live.streamtheworld.com:80/WMPNFM_56.mp3?burst-time=17
-Middletown NY - WJLP-DT 33.11: Thunder
+WKMK
 https://live.wostreaming.net/manifest/press-wkmkfmmp3-ibc1
-Middletown NY - WJLP-DT 33.12: B985
+WBBO
 https://live.wostreaming.net/manifest/press-wbbofmmp3-ibc1
-Middletown NY - WJLP-DT 33.13: TheBoss
+WWZY
 https://live.wostreaming.net/manifest/press-wwzyfmmp3-ibc1
-Middletown NY - WJLP-DT 33.14: 1410AM
+WHTG
 https://live.wostreaming.net/manifest/press-whtgammp3-ibc1
-Newton NJ - WMBC 63.8: WDNJ
+WDNJ
 https://ic2.sslstream.com/wdnj-fm
-Newton NJ - WMBC 63.9: KCBN
+KCBN
 https://streamer.radio.co/sc8fe32068/listen
-Newton NJ - WMBC 63.11: WWGB
+WWGB
 https://147.135.84.27:80/wwgb-am
-Newton NJ - WMBC 63.12: WBTK
+WBTK
 https://147.135.84.27:80/wbtk-am
-Cleveland OH - WVIZ-DT 25.7: WKSU
+WKSU
 https://stream.wksu.org/wksu1-128
-Cleveland OH - WVIZ-DT 25.8: WCLV
+WCLV
 https://ideastream.streamguys1.com/wclv.mp3
-Cleveland OH - WVIZ-DT 25.9: CSCN
+CSCN
 http://audio1.ideastream.org/CSCN
+KLNV
+https://live.wostreaming.net/direct/univision-klnvfmaac-imc2
+KHUTDT5
+http://peridot.streamguys.com:5360/live
