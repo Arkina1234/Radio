@@ -50,3 +50,5 @@ KLNV
 https://live.wostreaming.net/direct/univision-klnvfmaac-imc2
 KHUTDT5
 http://peridot.streamguys.com:5360/live
+KUER-FM
+http://kuer.streamguys1.com/high_icy
