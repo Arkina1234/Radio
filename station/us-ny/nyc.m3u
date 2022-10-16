@@ -108,7 +108,7 @@ https://live.amperwave.net/manifest/audacy-wxbkfmaac-imc?apv=a2&source=webA2
 #EXTINF:0,94.7HD2 WXBK
 https://live.amperwave.net/manifest/audacy-wxbkhd2aac-imc?apv=a2&source=webA2
 #EXTINF:0,95.5HD1 WPLJ
-https://emf-hls.streamguys1.com/k-love-live-aac-64k/playlist.m3u8
+https://emf-hls-a.streamguys1.com/seg001271-h128/playlist.m3u8?listeningSessionID=62c5fd3203bb7abc_8765134_K2rrfdHV_NzUuMTAyLjUyLjE0MQ!!_0000000uww0&downloadSessionID=0
 #EXTINF:0,95.5HD2 KL90S
 https://emf-hls.streamguys1.com/k-love-90s-aac-64k/playlist.m3u8
 #EXTINF:0,95.5HD3 AIR1
@@ -148,7 +148,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WHUDFM.mp3
 #EXTINF:0,101.1HD1 WCBS-FM
 https://live.amperwave.net/manifest/audacy-wcbsfmaac-imc?apv=a2&source=webA2
 #EXTINF:0,101.1HD2 WCBS-AM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAM.mp3
+https://live.amperwave.net/manifest/audacy-wcbsamaac-imc?apv=a2&source=webA2
 #EXTINF:0,101.1HD3 WCBS-HD3
 https://ais-sa5.cdnstream1.com/b92108_64aac
 #EXTINF:0,101.9HD1 WFAN-FM
