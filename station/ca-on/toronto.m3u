@@ -1,77 +1,72 @@
-88.1FM CIND-FM
+#EXTM3U
+#EXTINF:0,88.1FM CIND-FM
 https://cob-ais.leanstream.co/CINDFM-MP3
-88.3FM WCOU
-https://fln01.sslstream.com/fln-familylife-aac
-88.7FM WBFO
-https://playerservices.streamtheworld.com/api/livestream-redirect/WBFOFM.mp3
-88.9FM CIRV
+#EXTINF:0,88.9FM CIRV
 https://ice9.securenetsystems.net/CIRVFM
-89.9FM WBKV
-https://emf-hls-a.streamguys1.com/seg001271-h128/playlist.m3u8?listeningSessionID=62c5fd3203bb7abc_8765134_K2rrfdHV_NzUuMTAyLjUyLjE0MQ!!_0000000uww0&downloadSessionID=0
-89.5FM CIUT
+#EXTINF:0,89.5FM CIUT
 https://ice23.securenetsystems.net/CIUT
-90.3FM CJBC
+#EXTINF:0,90.3FM CJBC
 https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8
-91.1M CJRT
+#EXTINF:0,91.1FM CJRT
 https://jazzfm91.streamb.live/SB00009
-91.9FM CHIN-1
+#EXTINF:0,91.9FM CHIN-1
 http://ice7.securenetsystems.net/CHINAM
-92.1FM WZDV
+#EXTINF:0,92.1FM WZDV
 http://ice64.securenetsystems.net/DOVEMAIN
-92.5FM CKIS
+#EXTINF:0,92.5FM CKIS
 http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/tor925.stream/icy
-92.5HD2 CKIS
+#EXTINF:0,92.5HD2 CKIS
 http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/tor680.stream/icy
-92.5HD3 CKIS
+#EXTINF:0,92.5HD3 CKIS
 http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/tor590.stream/icy
-93.5FM CFXJ
+#EXTINF:0,93.5FM CFXJ
 https://newcap.leanstream.co/CFXJFM-MP3
-94.1FM CBL
+#EXTINF:0,94.1FM CBL
 http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_tor
-95.9FM CJKX-FM-2
+#EXTINF:0,95.9FM CJKX-FM-2
 https://playerservices.streamtheworld.com/api/livestream-redirect//CJKXFMAAC.aac
-95.9HD2 CJKX-HD2-2
+#EXTINF:0,95.9HD2 CJKX-HD2-2
 https://stream2.statsradio.com:8152/stream
-95.9HD3 CJKX-HD3-2
+#EXTINF:0,95.9HD3 CJKX-HD3-2
 https://playerservices.streamtheworld.com/api/livestream-redirect//CKDOFMAAC.aac
-96.9FM CKHC
+#EXTINF:0,96.9FM CKHC
 https://humber.leanstream.co/CKHCFM-MP3
-97.3FM CHBM
+#EXTINF:0,97.3FM CHBM
 https://newcap.leanstream.co/CHBMFM-MP3
-98.1FM CHFI
+#EXTINF:0,98.1FM CHFI
 http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/tor981.stream/icy
-98.7FM CKFG
+#EXTINF:0,98.7FM CKFG
 https://ice64.securenetsystems.net/CKFG
-99.1FM CBLA
+#EXTINF:0,99.1FM CBLA
 http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tor
-99.9FM CKFM
+#EXTINF:0,99.9FM CKFM
 http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKFMFMAAC.aac
-99.9HD2 CKFM
+#EXTINF:0,99.9HD2 CKFM
 http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFRBAMAAC.aac
-99.9HD3 CKFM
+#EXTINF:0,99.9HD3 CKFM
 http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAMAAC.aac
-100.7FM CHIN
+#EXTINF:0,100.7FM CHIN
 https://ice7.securenetsystems.net/CHINFM
-100.3FMCJSA
+#EXTINF:0,100.3FM CJSA
 https://live.cmr24.net/CMR/CMR-HQ/icecast.audio
-100.3HD2 CJSA
+#EXTINF:0,100.3HD2 CJSA
 https://live.cmr24.net/CMR/TamilHD-HQ/icecast.audio
-100.3HD3 CJSA
+#EXTINF:0,100.3HD3 CJSA
 https://live.cmr24.net/CMR/Desi_Music-HQ/icecast.audio
-100.3HD4 CJSA
+#EXTINF:0,100.3HD4 CJSA
 https://live.cmr24.net/CMR/Punjabi-HQ/icecast.audio
-102.7FM CJRK
+#EXTINF:0,102.7FM CJRK
 http://174.142.215.249:9966/;type=mp3;
-103.9FM CIRR
+#EXTINF:0,103.9FM CIRR
 https://ice7.securenetsystems.net/CIRR
-104.5FM CHUM
+#EXTINF:0,104.5FM CHUM
 http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMFMAAC.aac
-105.1FM CHOQ
+#EXTINF:0,105.1FM CHOQ
 https://ice9.securenetsystems.net/CHOQ
-105.5FM CHRY
+#EXTINF:0,105.5FM CHRY
 https://ice7.securenetsystems.net/CHRY
-106.5FM CFPT-FM
+#EXTINF:0,106.5FM CFPT-FM
 https://ice10.securenetsystems.net/CFPT
-107.1FM CILQ
+#EXTINF:0,107.1FM CILQ
 https://corus.leanstream.co/CILQFM
 
