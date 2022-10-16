@@ -26,7 +26,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAM.mp3
 #EXTINF:0,1160AM WVNJ
 https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAIN.mp3
 #EXTINF:0,1190AM WLIB
-https://playerservices.streamtheworld.com/api/livestream-redirect/WLIBAM.mp3
+https://venic.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WLIBAM.mp3
 #EXTINF:0,1230AM WFAS
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFASAM.mp3
 #EXTINF:0,1280AM WADO
@@ -192,8 +192,8 @@ http://ample.revma.ihrhls.com/zc1477.mp3
 #EXTINF:0,106.7HD2 IHRBDWY
 http://ample.revma.ihrhls.com/zc7378.mp3
 #EXTINF:0,107.1FM WXPK
-https://playerservices.streamtheworld.com/api/livestream-redirect/WXPKFM.mp3
+https://venic.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WXPKFM.mp3
 #EXTINF:0,107.5HD1 WBLS
-https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFM.mp3
+https://venic.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFM.mp3
 #EXTINF:0,107.5HD2 WLIB
-https://playerservices.streamtheworld.com/api/livestream-redirect/WLIBAM.mp3
+https://venic.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WLIBAM.mp3
