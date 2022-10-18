@@ -3,15 +3,28 @@
 https://fln01.sslstream.com/fln-familylife-aac
 #EXTINF:0,88.7FM WBFO
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBFOFM.mp3
+#EXTINF:0,88.7HD2 BRIDGE
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBFO_THE_BRIDGEAAC.aac
 #EXTINF:0,89.9FM WBKV
 https://emf-hls-a.streamguys1.com/seg001271-h128/playlist.m3u8?listeningSessionID=62c5fd3203bb7abc_8765134_K2rrfdHV_NzUuMTAyLjUyLjE0MQ!!_0000000uww0&downloadSessionID=0
+91.3FM WBNY
+http://136.183.9.38:3307/;
 92.1FM WZDV
+http://ice64.securenetsystems.net/DOVEMAIN
 92.9FM WBUF
+https://live.wostreaming.net/manifest/townsquare-wbuffmaac-ibc3
+92.9HD2 WBUF
+https://fln01.sslstream.com/fln-familylife-aac
 93.7FM WBLK
+https://live.wostreaming.net/manifest/townsquare-wblkfmaac-ibc3
 94.5FM WNED-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNEDFM.mp3
 96.1FM WMSX
-96.9FM WGRF 
+https://live.wostreaming.net/manifest/townsquare-wmsxfmaac-ibc3
+96.9FM WGRF
+https://playerservices.streamtheworld.com/api/livestream-redirect/WGRFFMAAC.aac
 98.5FM WKSE
+https://live.amperwave.net/manifest/audacy-wkseamaac-imc?apv=a2&source=webA2
 99.5FM WDCX-FM
 https://18073.live.streamtheworld.com/WDCXFMAAC.aac
 https://18073.live.streamtheworld.com/WDCXHD2AAC.aac
@@ -20,4 +33,5 @@ https://18073.live.streamtheworld.com/WDCXHD2AAC.aac
 103.3FM WEDG
 104.1FM WHTT-FM
 106.5FM WYRK
+https://live.wostreaming.net/manifest/townsquare-wyrkfmaac-ibc3
 107.7FM WLKK
