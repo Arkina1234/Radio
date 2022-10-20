@@ -1,23 +1,36 @@
 #EXTM3U
 560AM WIND
+https://playerservices.streamtheworld.com/api/livestream-redirect/WINDAMAAC
 640AM WMFN
+http://ample.revma.ihrhls.com/zc8666.aac
 670AM WSCR
+https://live.amperwave.net/manifest/audacy-wscramaac-imc?apv=a2&source=webA2
 720AM WGN
 http://stream.abacast.net/manifest/wgnam-wgnamaac-ibc2
-750AM WNDZ
 780AM WBBM
 https://live.amperwave.net/manifest/audacy-wbbmamaac-imc?apv=a2&source=webA2
 820AM WCPT
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCPTAM_SBM
 890AM WLS
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC
 930AM WKBM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAIN.mp3
 950AM WNTD
+https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAIN.mp3
 1000AM WMVP
+https://live.wostreaming.net/manifest/goodkarma-wmvpammp3-ibc1
 1030AM WNVR
+https://s1.reliastream.com/proxy/polskieradio?mp=/stream
 1080AM WNWI
+http://wnwi.birach.com:9002/;
 1110AM WXES
+https://s9.voscast.com:9349/xstream
 1160AM WYLL
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYLLAMAAC
 1200AM WRTO
+https://live.wostreaming.net/manifest/univision-wrtoamaac-imc1
 1220AM WKRS
+https://live.wostreaming.net/manifest/alphacorporate-wkrsammp3-ibc4
 1230AM WJOB
 1240AM WSBC
 1270AM WWCA
