@@ -108,11 +108,11 @@ https://live.amperwave.net/manifest/audacy-wxbkfmaac-imc?apv=a2&source=webA2
 #EXTINF:0,94.7HD2 WXBK
 https://live.amperwave.net/manifest/audacy-wxbkhd2aac-imc?apv=a2&source=webA2
 #EXTINF:0,95.5HD1 WPLJ
-https://emf-hls-a.streamguys1.com/seg001271-h128/playlist.m3u8?listeningSessionID=62c5fd3203bb7abc_8765134_K2rrfdHV_NzUuMTAyLjUyLjE0MQ!!_0000000uww0&downloadSessionID=0
+https://maestro.emfcdn.com/stream_for/k-love/web/aac
 #EXTINF:0,95.5HD2 KL90S
-https://emf-hls.streamguys1.com/k-love-90s-aac-64k/playlist.m3u8
+https://maestro.emfcdn.com/stream_for/k-love-90s/web/aac
 #EXTINF:0,95.5HD3 AIR1
-https://emf-hls.streamguys1.com/air1-live-aac-64k/playlist.m3u8
+https://maestro.emfcdn.com/stream_for/air1/web/aac
 #EXTINF:0,95.5HD4 WRDR
 https://bridge-libstrm.radioca.st/stream
 #EXTINF:0,96.3HD1 WXNY-FM
