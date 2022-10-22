@@ -2,7 +2,7 @@
 560AM WIND
 https://playerservices.streamtheworld.com/api/livestream-redirect/WINDAMAAC
 640AM WMFN
-http://ample.revma.ihrhls.com/zc8666.aac
+http://ample.revma.ihrhls.com/zc8666
 670AM WSCR
 https://live.amperwave.net/manifest/audacy-wscramaac-imc?apv=a2&source=webA2
 720AM WGN
@@ -32,78 +32,153 @@ https://live.wostreaming.net/manifest/univision-wrtoamaac-imc1
 1220AM WKRS
 https://live.wostreaming.net/manifest/alphacorporate-wkrsammp3-ibc4
 1230AM WJOB
-1240AM WSBC
-1270AM WWCA
+https://ais-edge50-live365-dal02.cdnstream.com/a48145
 1300AM WRDZ
+https://s1.reliastream.com/proxy/polskieradio?mp=/stream
 1320AM WKAN
+https://ice23.securenetsystems.net/WKAN
 1330AM WKTA
+https://stream.ethnicmedia.us/stream
 1340AM WJOL
-1370AM WLTH
+https://live.wostreaming.net/manifest/alphacorporate-wjolamaac-ibc2
 1390AM WGRB
+https://ample.revma.ihrhls.com/zc845
 1410AM WRMN
+https://ice24.securenetsystems.net/WRMN
 1420AM WIMS
+https://wims.streamguys1.com:80/live-aac-32k
 1490AM WEUR
-1500AM WAKE
+https://usa19.fastcast4u.com:3870/;?type=http&nocache=1659423619
 1500AM WPJX
+http://67.212.238.178:7039/;;?1666425917439
 1510AM WWHN
+http://50.193.67.234:8000/stream
 1530AM WCKG
+https://ice7.securenetsystems.net/WCKG
 1570AM WBGX
+https://ic2.sslstream.com/wbgx?rnd=248
 1590AM WCGO
+https://ice23.securenetsystems.net/WCGO
 1690AM WVON
+https://ample.revma.ihrhls.com/zc5304
 
-87.7FM WRME-LD
+87.7FM WRME-LP
+https://live.amperwave.net/manifest/audacy-wmyxhd2aac-imc?apv=a2&source=webA2
 88.1FM WCRX
-88.1FM2 WLRA
-88.3FM WZRD
-88.3FM2 WXAV
-88.5FM WHPK
+http://wcrx.streamguys1.com/live
+88.3FM WXAV
+https://ic2.sslstream.com/wxav-fm?rnd=5345
 88.7FM WLUW
+https://wluw.streamguys1.com/stream.mp3
 88.9FM WMXM
-89.1FM WOKL
-89.1FM2 WONC
+http://wmxm.streamguys1.com/live
+89.1FM WONC
+http://webcast.wonc.org:8000/wonclive-128s.mp3
 89.3FM WNUR-FM
+https://n11.rcs.revma.com/w4pmmfkdx4zuv
 89.7FM WONU
+https://mist.olivet.edu/shine128
+89.7HD2 WONU
+https://mist.olivet.edu/brilla128
+89.7HD3 WONU
+https://mist.olivet.edu/shineworship128
 90.1FM WMBI-FM
+https://24233.live.streamtheworld.com/WMBIFM.mp3
+90.1HD2 WMBI-HD2
+https://24233.live.streamtheworld.com/IM_2.mp3
+90.1HD3 WMBI-HD3
+https://24233.live.streamtheworld.com/WMBIAM.mp3
 90.9FM WDCB
+https://wdcb-ice.streamguys1.com/wdcb128
 91.1FM WBEW
+https://stream.wbez.org/vocalo128
 91.5FM WBEZ
-91.7FM WZKL
+https://stream.wbez.org/wbez64-web.aac
+91.5HD2 VOCLO
+https://stream.wbez.org/vocalo128
 92.3FM WPWX
+https://24363.live.streamtheworld.com/WPWXFMAAC.aac
 92.5FM WCLR
-92.7FM WCPY
+https://maestro.emfcdn.com/stream_for/k-love/web/mp3
 93.1FM WXRT
+https://live.amperwave.net/manifest/audacy-wxrtfmaac-ibc?apv=a2&source=webA2
+93.1HD2 WXRT
+https://live.amperwave.net/manifest/audacy-wxrthd2aac-ibc?apv=a2&source=webA2
 93.5FM WVIV-FM
+https://live.wostreaming.net/manifest/univision-wvivfmaac-imc1
 93.9FM WLIT-FM
+http://ample.revma.ihrhls.com/zc853
+93.9HD2 WLIT-HD2
+http://ample.revma.ihrhls.com/zc8143
 94.3FM WAWE
+https://maestro.emfcdn.com/stream_for/air1/web/mp3
 94.7FM WLS-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC
+94.7HD2 WLS-AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC
 95.1FM WIIL
+https://live.wostreaming.net/manifest/alphacorporate-wiilfmaac-ibc4
 95.5FM WCHI-FM
+http://ample.revma.ihrhls.com/zc857
+95.5HD2 WCHI-HD2
+http://ample.revma.ihrhls.com/zc8731
+95.5HD3 WCHI-HD3
+http://ample.revma.ihrhls.com/zc4846
 95.9FM WERV-FM
+https://live.wostreaming.net/manifest/alphacorporate-wervfmaac-ibc4
 96.3FM WBBM-FM
-https://live.amperwave.net/manifest/audacy-wbbmamaac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-wbbmfmaac-imc?apv=a2&source=webA2
+96.3HD2 WBBM-HD2
+https://live.amperwave.net/manifest/audacy-knxhd2aac-imc?apv=a2&source=webA2
 96.7FM WSSR
+https://live.wostreaming.net/manifest/alphacorporate-wssrfmaac-ibc2
+96.7HD2 WJOL
+https://live.wostreaming.net/manifest/alphacorporate-wjolamaac-ibc2
 96.9FM WWDV
+https://18433.live.streamtheworld.com:443/WDRVFM.mp3
 97.1FM WDRV
+https://18433.live.streamtheworld.com:443/WDRVFM.mp3
 97.9FM WCKL
 98.3FM WCCQ
 98.7FM WFMT
 http://wfmt.streamguys1.com/main
 99.5FM WUSN
+https://live.amperwave.net/manifest/audacy-wusnfmaac-imc?apv=a2&source=webA2
+99.5HD2 WUSN
+https://live.amperwave.net/manifest/audacy-wusnhd2aac-imc?apv=a2&source=webA2
 99.9FM WYHI
 100.3FM WSHE-FM
+https://17793.live.streamtheworld.com:443/WSHEFM.mp3
 100.7FM WRXQ
 101.1FM WKQX
+https://playerservices.streamtheworld.com/api/livestream-redirect/WKQXFMAAC
+101.1HD2 WLUP
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLUPFMAAC
 101.9FM WTMX
+https://25013.live.streamtheworld.com:443/WTMXFM.mp3
 102.3FM WXLC
 102.3FM2 WYCA
 102.7FM WVAZ
+http://ample.revma.ihrhls.com/zc865
+102.7HD2 WMFN
+http://ample.revma.ihrhls.com/zc8666
 103.1FM WPNA-FM
 103.5FM WKSC-FM
+http://ample.revma.ihrhls.com/zc849
 104.3FM WBMX
-https://playerservices.streamtheworld.com/api/livestream-redirect/WBMXFMAAC
+https://live.amperwave.net/manifest/audacy-wbmxfmaac-imc?apv=a2&source=webA2
+104.3HD2 WBMX
+https://live.amperwave.net/manifest/audacy-wscramaac-imc?apv=a2&source=webA2
 104.7FM WCFL
 105.1FM WOJO
+https://live.wostreaming.net/manifest/univision-wojofmaac-imc1
+http://104.6.216.93:8000/chitown
+https://live.wostreaming.net/manifest/univision-wrtoamaac-imc1
 105.9FM WCFS-FM
+https://live.amperwave.net/manifest/audacy-wcfshd2aac-imc?apv=a2&source=webA2
 106.3FM WSRB
+106.7FM WPPN
+https://live.wostreaming.net/manifest/univision-wppnfmaac-imc1
 107.5FM WGCI-FM
+http://ample.revma.ihrhls.com/zc841
 107.9FM WLEY-FM
