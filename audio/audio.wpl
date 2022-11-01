@@ -1,0 +1,28 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="13"/>
+		<author/>
+		<title>Public Audio</title>
+	</head>
+	<body>
+		<seq>
+			<media src="http://chicagolighthouse.streamguys1.com/Live/Chicagoland Radio Information Service"/>
+			<media src="http://audio1.ideastream.org/CSCN/Cleveland Sight Center Network"/>
+			<media src="http://peridot.streamguys.com:5360/live/Sight into Sound"/>
+			<media src="https://stream.iknow.technology/proxy/irismain?mp=/live/IRIS Des Moines"/>
+			<media src="https://stream.iknow.technology/proxy/irisfortdodge?mp=/irisfortdodge/IRIS Fort Dodge"/>
+			<media src="https://stream.iknow.technology/proxy/irismasoncity?mp=/irismasoncity/IRIS Mason City"/>
+			<media src="http://amber.streamguys.com:5230/live/Minnesota Radio Talking Book Network"/>
+			<media src="http://streaming.kansaspublicradio.org:8000/audioreader/Kansas Audio-Reader Network"/>
+			<media src="http://184.188.96.244:8080/wrbh.mp3/WRBH"/>
+			<media src="https://ice64.securenetsystems.net/WYPL/Memphis Public Library Reading Radio"/>
+			<media src="https://kjzz.streamguys1.com/sunsounds_aac_256/Sun Sounds Tempe"/>
+			<media src="https://kjzz.streamguys1.com/sstucson_mp3_64/Sun Sounds Tucson"/>
+			<media src="https://kjzz.streamguys1.com/ssflagstaff_mp3/Sun Sounds Flagstaff"/>
+		</seq>
+	</body>
+</smil>
