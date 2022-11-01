@@ -10,19 +10,19 @@
 	</head>
 	<body>
 		<seq>
-			<media src="http://chicagolighthouse.streamguys1.com/Live/Chicagoland Radio Information Service"/>
-			<media src="http://audio1.ideastream.org/CSCN/Cleveland Sight Center Network"/>
-			<media src="http://peridot.streamguys.com:5360/live/Sight into Sound"/>
-			<media src="https://stream.iknow.technology/proxy/irismain?mp=/live/IRIS Des Moines"/>
-			<media src="https://stream.iknow.technology/proxy/irisfortdodge?mp=/irisfortdodge/IRIS Fort Dodge"/>
-			<media src="https://stream.iknow.technology/proxy/irismasoncity?mp=/irismasoncity/IRIS Mason City"/>
-			<media src="http://amber.streamguys.com:5230/live/Minnesota Radio Talking Book Network"/>
-			<media src="http://streaming.kansaspublicradio.org:8000/audioreader/Kansas Audio-Reader Network"/>
-			<media src="http://184.188.96.244:8080/wrbh.mp3/WRBH"/>
-			<media src="https://ice64.securenetsystems.net/WYPL/Memphis Public Library Reading Radio"/>
-			<media src="https://kjzz.streamguys1.com/sunsounds_aac_256/Sun Sounds Tempe"/>
-			<media src="https://kjzz.streamguys1.com/sstucson_mp3_64/Sun Sounds Tucson"/>
-			<media src="https://kjzz.streamguys1.com/ssflagstaff_mp3/Sun Sounds Flagstaff"/>
+			<media src="http://chicagolighthouse.streamguys1.com/Live"/>
+			<media src="http://audio1.ideastream.org/CSCN"/>
+			<media src="http://peridot.streamguys.com:5360/live"/>
+			<media src="https://stream.iknow.technology/proxy/irismain?mp=/live"/>
+			<media src="https://stream.iknow.technology/proxy/irisfortdodge?mp=/irisfortdodge"/>
+			<media src="https://stream.iknow.technology/proxy/irismasoncity?mp=/irismasoncity"/>
+			<media src="http://amber.streamguys.com:5230/live"/>
+			<media src="http://streaming.kansaspublicradio.org:8000/audioreader"/>
+			<media src="http://184.188.96.244:8080/wrbh.mp3"/>
+			<media src="https://ice64.securenetsystems.net/WYPL"/>
+			<media src="https://kjzz.streamguys1.com/sunsounds_aac_256"/>
+			<media src="https://kjzz.streamguys1.com/sstucson_mp3_64"/>
+			<media src="https://kjzz.streamguys1.com/ssflagstaff_mp3"/>
 		</seq>
 	</body>
 </smil>
