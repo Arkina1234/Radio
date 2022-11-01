@@ -1,5 +1,15 @@
 Chicagoland Radio Information Service
 http://chicagolighthouse.streamguys1.com/Live
+Cleveland Sight Center Network
+http://audio1.ideastream.org/CSCN
+Sight into Sound
+http://peridot.streamguys.com:5360/live
+IRIS Des Moines
+https://stream.iknow.technology/proxy/irismain?mp=/live
+IRIS Fort Dodge
+https://stream.iknow.technology/proxy/irisfortdodge?mp=/irisfortdodge
+IRIS Mason City
+https://stream.iknow.technology/proxy/irismasoncity?mp=/irismasoncity
 Minnesota Radio Talking Book Network
 http://amber.streamguys.com:5230/live
 Kansas Audio-Reader Network
