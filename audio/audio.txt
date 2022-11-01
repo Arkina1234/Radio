@@ -1,0 +1,16 @@
+Chicagoland Radio Information Service
+http://chicagolighthouse.streamguys1.com/Live
+Minnesota Radio Talking Book Network
+http://amber.streamguys.com:5230/live
+Kansas Audio-Reader Network
+http://streaming.kansaspublicradio.org:8000/audioreader
+WRBH
+http://184.188.96.244:8080/wrbh.mp3
+Memphis Public Library Reading Radio
+https://ice64.securenetsystems.net/WYPL
+Sun Sounds Tempe
+https://kjzz.streamguys1.com/sunsounds_aac_256
+Sun Sounds Tucson
+https://kjzz.streamguys1.com/sstucson_mp3_64
+Sun Sounds Flagstaff
+https://kjzz.streamguys1.com/ssflagstaff_mp3
