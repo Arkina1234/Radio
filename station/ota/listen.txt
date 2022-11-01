@@ -1,17 +1,53 @@
+KUSD-TV 2.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFM.mp3?burst-time=17
+KUSD-TV 2.6
+https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDHD2.mp3?burst-time=17
+WDVZ-CD 3.3 APR
+https://playerservices.streamtheworld.com/api/livestream-redirectl/WUAL_HD1.mp3?uuid=xfne35c9e
 KAET 8.5 KBAQ
 https://kbaq.streamguys1.com/kbaq_mp3_128
 KUHT 8.5
 http://peridot.streamguys.com:5360/live
+WSIU-TV 8.5 WSIU-FM
+https://peridot.streamguys1.com:5235/wsiu-hd1?uuid=xhgp8bsu
+KUEN 9.91 KUER-FM
+http://kuer.streamguys1.com/high_icy
 KOPB-TV 10.4 OPB-FM
 https://ais-sa3.cdnstream1.com/2440_128.mp3
+KBYU-TV 11.2 BYURDIO
+https://radio.byub.org/byuradio/byuradio_aac
+KBYU-TV 11.3 KBYUFM
+https://radio.byub.org/classical89/classical89_aac
+WINK-TV 11.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WHELFM
+WINK-TV 11.4
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAROFM
+WINK-TV 11.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFSXFM
+WINK-TV 11.6
+https://playerservices.streamtheworld.com/api/livestream-redirect/WINKFM
+WINK-TV 11.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/WTLQFM
+WINK-TV 11.8
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFFYFM
+KINC 15.6 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRRNFMAAC_SBM?sbmid=4dcd9e50-654d-48e2-b18d-b8af54be1fd6
+KHSC-LD 16.1 KJOI-FM
+https://streaming1.kkdjfresno.com:9018/;
+WXXI-TV 22.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3
 WVIZ 25.7 WKSU
 https://stream.wksu.org/wksu1-128
 WVIZ 25.8 WCLV
 https://ideastream.streamguys1.com/wclv.mp3
 WVIZ 25.9 CSCN
 http://audio1.ideastream.org/CSCN
+KOHA-LD 27.4 KBBX-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KBBXFMAAC
 WMPN-TV 29.4 WMPN-FM
-http://26253.live.streamtheworld.com:80/WMPNFM_56.mp3?burst-time=17
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMPNFM_56.mp3?burst-time=17
+WNED-TV 31.10
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNEDFM.mp3
 WANN-CD 32.11 94.9-2
 http://shoutcast.ibn.org:8000/audio.mp3
 WANN-CD 32.12 949BULL
@@ -36,8 +72,11 @@ WJLP 33.13 TheBoss
 https://live.wostreaming.net/manifest/press-wwzyfmmp3-ibc1
 WGCT-CD 39.8 RADIO
 http://s1.voscast.com:10452/stream
+WEIU-TV 51.6 HITMIX
+http://139.67.162.45:1139/1
 KPJK 60.6 PJKJAZZ
-http://ice5.securenetsystems.net/KCSMWMBC-TV 63.8 WDNJ
+http://ice5.securenetsystems.net/KCSM
+WMBC-TV 63.8 WDNJ
 https://ic2.sslstream.com/wdnj-fm
 WMBC-TV 63.9 KCBN
 https://streamer.radio.co/sc8fe32068/listen
