@@ -124,7 +124,11 @@ https://securestreams5.autopo.st:1844/stream
 #EXTINF:0,96.3HD4 FREEDM
 https://us9.maindigitalstream.com/ssl/freedomfm
 #EXTINF:0,96.7FM WARW
-https://emf-hls.streamguys1.com/air1-live-aac-64k/playlist.m3u8
+https://maestro.emfcdn.com/stream_for/air1/web/aac
+#EXTINF:0,96.7HD2 KL2000S
+https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac
+#EXTINF:0,96.7HD3 KMRO
+http://ice10.securenetsystems.net/KMRO
 #EXTINF:0,97.1FM WQHT
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC
 #EXTINF:0,97.9FM WSKQ-FM
