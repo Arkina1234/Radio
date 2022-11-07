@@ -1,18 +1,16 @@
-https://streams.audio.wgbh.org/wgbh
-http://wbur-sc.streamguys.com/wbur
-http://wumb.streamguys1.com/wumb919fast
-WXRV
-http://72.13.83.130:8010/;
-http://playerservices.streamtheworld.com/api/livestream-redirect/WWRCAMAAC
-
 88.1	WMBR	Freeform/eclectic (MIT) (Walker Memorial Basement Radio)
 88.9	WERS	Eclectic (Emerson College)
 89.7	WGBH	Boston's Local NPR (Public/News/Talk)
+https://streams.audio.wgbh.org/wgbh
 90.3	WZBC	Freeform radio/Democracy Now! (Boston College)
+http://amber.streamguys.com:4860/;stream/1
 90.9	WBUR-FM	NPR (Public/News/Talk) (Boston University)
+http://wbur-sc.streamguys.com/wbur
 91.5	WMFO	College radio/Freeform (Tufts University)
 91.9	WUMB-FM	Public/Folk (UMass Boston)
+http://wumb.streamguys1.com/wumb919fast
 92.5	WXRV	Adult album alternative
+http://72.13.83.130:8010/;wxrv
 92.9	WBOS	Classic rock
 93.7	WEEI-FM	Sports
 94.5	WJMN	Mainstream urban (Jam'n 94-5)
