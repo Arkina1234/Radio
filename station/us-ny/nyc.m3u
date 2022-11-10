@@ -196,8 +196,8 @@ http://ample.revma.ihrhls.com/zc1477
 #EXTINF:0,106.7HD2 IHRBDWY
 http://ample.revma.ihrhls.com/zc7378
 #EXTINF:0,107.1FM WXPK
-https://venic.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WXPKFM.mp3
+https://cors-anywhere.arkina1234.repl.co/playerservices.streamtheworld.com/api/livestream-redirect/WXPKFM.mp3
 #EXTINF:0,107.5FM WBLS
-https://venic.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFM.mp3
+https://cors-anywhere.arkina1234.repl.co/playerservices.streamtheworld.com/api/livestream-redirect/WBLSFM.mp3
 #EXTINF:0,107.5HD2 WLIB
-https://venic.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WLIBAM.mp3
+https://cors-anywhere.arkina1234.repl.co/playerservices.streamtheworld.com/api/livestream-redirect/WLIBAM.mp3
