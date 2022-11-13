@@ -1,10 +1,18 @@
+KUTX 98.9
 https://kut.streamguys1.com/kutx-free
-https://streams.audio.wgbh.org/wgbh
+Jazz 24/7
+https://streams.audio.wgbh.org/Jazz24-7
+WNRN
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNRNFM_128_SC.mp3
+Vocalo
 https://stream.wbez.org/vocalo128
-http://kera-ice.streamguys.us/kxtlive64aacplus
+KXT 91.7
+https://kera.streamguys1.com/kxtlive128
+Indie 102.3
 https://stream1.cprnetwork.org/cpr3_lo
+105.5 The Colorado Sound
 https://kunc.streamguys1.com/kjac
+KAFM
 http://peridot.streamguys.com:5280/kafm
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTFM_SC.mp3
 https://live.wostreaming.net/manifest/publictv19-ktbgfmaac-imc1
