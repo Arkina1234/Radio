@@ -14,14 +14,25 @@ https://stream1.cprnetwork.org/cpr3_lo
 https://kunc.streamguys1.com/kjac
 KAFM
 http://peridot.streamguys.com:5280/kafm
-https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTFM_SC.mp3
+JME The Independent
+https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_HD4.mp3
+The Bridge
 https://live.wostreaming.net/manifest/publictv19-ktbgfmaac-imc1
+KCRW Eclectic-24
 https://kcrw.streamguys1.com/kcrw_192k_mp3_e24_internet_radio
+88Nine Radio Milwaukee
 http://radiomilwaukee.streamguys.net/live
+WMOT
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMOTFM.mp3
+WNXP
 https://wpln.streamguys1.com/wnxpfm.mp3
+90.7 WFUV
 https://onair.wfuv.org/onair-hi
+88.5 XPN
 https://wxpnhi.xpn.org/xpnhi
+WRTI Jazz
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3
-https://edg-iad-wunc-ice.streamguys1.com/wunc-hd2-128-mp3.m3u
+WUNC HD2
+https://edg-iad-wunc-ice.streamguys1.com/wunc-hd2-128-mp3
+Classical KING-FM
 http://classicalking.streamguys1.com/king-fm-mp3
