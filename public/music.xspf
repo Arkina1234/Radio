@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+		<track>
+			<title>KUTX 98.9</title>
+			<location>https://kut.streamguys1.com/kutx-free</location>
+		</track>
+		<track>
+			<title>Jazz 24/7</title>
+			<location>https://streams.audio.wgbh.org/Jazz24-7</location>
+		</track>
+		<track>
+			<title>WNRN</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WNRNFM_128_SC.mp3</location>
+		</track>
+		<track>
+			<title>Vocalo</title>
+			<location>https://stream.wbez.org/vocalo128</location>
+		</track>
+		<track>
+			<title>KXT 91.7</title>
+			<location>https://kera.streamguys1.com/kxtlive128</location>
+		</track>
+		<track>
+			<title>Indie 102.3</title>
+			<location>https://stream1.cprnetwork.org/cpr3_lo</location>
+		</track>
+		<track>
+			<title>105.5 The Colorado Sound</title>
+			<location>https://kunc.streamguys1.com/kjac</location>
+		</track>
+		<track>
+			<title>KAFM</title>
+			<location>http://peridot.streamguys.com:5280/kafm</location>
+		</track>
+		<track>
+			<title>JME The Independent</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_HD4.mp3</location>
+		</track>
+		<track>
+			<title>The Bridge</title>
+			<location>https://live.wostreaming.net/manifest/publictv19-ktbgfmaac-imc1</location>
+		</track>
+		<track>
+			<title>KCRW Eclectic-24</title>
+			<location>https://kcrw.streamguys1.com/kcrw_192k_mp3_e24_internet_radio</location>
+		</track>
+		<track>
+			<title>88Nine Radio Milwaukee</title>
+			<location>http://radiomilwaukee.streamguys.net/live</location>
+		</track>
+		<track>
+			<title>WMOT</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WMOTFM.mp3</location>
+		</track>
+		<track>
+			<title>WNXP</title>
+			<location>https://wpln.streamguys1.com/wnxpfm.mp3</location>
+		</track>
+		<track>
+			<title>90.7 WFUV</title>
+			<location>https://onair.wfuv.org/onair-hi</location>
+		</track>
+		<track>
+			<title>88.5 XPN</title>
+			<location>https://wxpnhi.xpn.org/xpnhi</location>
+		</track>
+		<track>
+			<title>WRTI Jazz</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3</location>
+		</track>
+		<track>
+			<title>WUNC HD2</title>
+			<location>https://edg-iad-wunc-ice.streamguys1.com/wunc-hd2-128-mp3</location>
+		</track>
+		<track>
+			<title>Classical KING-FM</title>
+			<location>http://classicalking.streamguys1.com/king-fm-mp3</location>
+		</track>
+	</trackList>
+</playlist>
