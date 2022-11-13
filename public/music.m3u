@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:0,KUTX 98.9
+https://kut.streamguys1.com/kutx-free
+#EXTINF:0,Jazz 24/7
+https://streams.audio.wgbh.org/Jazz24-7
+#EXTINF:0,WNRN
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNRNFM_128_SC.mp3
+#EXTINF:0,Vocalo
+https://stream.wbez.org/vocalo128
+#EXTINF:0,KXT 91.7
+https://kera.streamguys1.com/kxtlive128
+#EXTINF:0,Indie 102.3
+https://stream1.cprnetwork.org/cpr3_lo
+#EXTINF:0,105.5 The Colorado Sound
+https://kunc.streamguys1.com/kjac
+#EXTINF:0,KAFM
+http://peridot.streamguys.com:5280/kafm
+#EXTINF:0,JME The Independent
+https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_HD4.mp3
+#EXTINF:0,The Bridge
+https://live.wostreaming.net/manifest/publictv19-ktbgfmaac-imc1
+#EXTINF:0,KCRW Eclectic-24
+https://kcrw.streamguys1.com/kcrw_192k_mp3_e24_internet_radio
+#EXTINF:0,88Nine Radio Milwaukee
+http://radiomilwaukee.streamguys.net/live
+#EXTINF:0,WMOT
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMOTFM.mp3
+#EXTINF:0,WNXP
+https://wpln.streamguys1.com/wnxpfm.mp3
+#EXTINF:0,90.7 WFUV
+https://onair.wfuv.org/onair-hi
+#EXTINF:0,88.5 XPN
+https://wxpnhi.xpn.org/xpnhi
+#EXTINF:0,WRTI Jazz
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3
+#EXTINF:0,WUNC HD2
+https://edg-iad-wunc-ice.streamguys1.com/wunc-hd2-128-mp3
+#EXTINF:0,Classical KING-FM
+http://classicalking.streamguys1.com/king-fm-mp3
