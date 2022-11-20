@@ -1,0 +1,12 @@
+KPFA
+https://streams.kpfa.org:8443/kpfa
+KPFK
+https://ic1.sslstream.com:80/kpfk-fm
+KPFT
+https://streams.pacifica.org:9000/live_128
+KPFT HD2
+https://streams.pacifica.org:9000/HD3_128
+WBAI
+https://streams.pacifica.org:9000/wbai_128
+WPFW
+https://streams.pacifica.org:9000/wpfw_128
