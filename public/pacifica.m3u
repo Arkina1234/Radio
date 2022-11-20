@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,KPFA
+https://streams.kpfa.org:8443/kpfa
+#EXTINF:0,KPFK
+https://ic1.sslstream.com:80/kpfk-fm
+#EXTINF:0,KPFT
+https://streams.pacifica.org:9000/live_128
+#EXTINF:0,KPFT HD2
+https://streams.pacifica.org:9000/HD3_128
+#EXTINF:0,WBAI
+https://streams.pacifica.org:9000/wbai_128
+#EXTINF:0,WPFW
+https://streams.pacifica.org:9000/wpfw_128
