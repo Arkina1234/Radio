@@ -146,7 +146,7 @@ https://pillar.streamguys1.com/HD3
 #EXTINF:0,99.5FM WBAI
 http://stream.wbai.org:8000/wbai_128
 #EXTINF:0,100.3FM WHTZ
-http://ample.revma.ihrhls.com/zc1469.mp3
+http://ample.revma.ihrhls.com/zc1469
 #EXTINF:0,100.7FM WHUD
 https://playerservices.streamtheworld.com/api/livestream-redirect/WHUDFM.mp3
 #EXTINF:0,101.1FM WCBS-FM
@@ -170,21 +170,21 @@ https://live.amperwave.net/manifest/audacy-winsamaac-imc?apv=a2&source=webA2
 #EXTINF:0,103.5FM WKTU
 http://ample.revma.ihrhls.com/zc5874
 #EXTINF:0,103.5HD2 PRIDE
-http://ample.revma.ihrhls.com/zc3949
+https://stream.revma.ihrhls.com/zc3949/hls.m3u8
 #EXTINF:0,103.5HD3 BREEZE
-http://ample.revma.ihrhls.com/zc8143
+https://stream.revma.ihrhls.com/zc8143/hls.m3u8
 #EXTINF:0,103.9FM WFAS
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNBMFM.mp3
 #EXTINF:0,104.3FM WAXQ
 http://ample.revma.ihrhls.com/zc1465
 #EXTINF:0,104.3HD2 WOR
-http://ample.revma.ihrhls.com/zc5874
+https://stream.revma.ihrhls.com/zc5874/hls.m3u8
 #EXTINF:0,105.1FM WWPR-FM
 http://ample.revma.ihrhls.com/zc1481
 #EXTINF:0,105.1HD2 WWPR-HD2
-http://ample.revma.ihrhls.com/zc6495
+https://stream.revma.ihrhls.com/zc6495/hls.m3u8
 #EXTINF:0,105.1HD3 WWRL-AM
-https://ample.revma.ihrhls.com/zc8772
+https://stream.revma.ihrhls.com/zc8772/hls.m3u8
 #EXTINF:0,105.9FM WQXR-FM
 http://stream.wqxr.org/wqxr
 #EXTINF:0,105.9HD2 WQXR-FM
@@ -194,7 +194,7 @@ https://ais-sa3.cdnstream1.com/2640_64.aac
 #EXTINF:0,106.7FM WLTW
 http://ample.revma.ihrhls.com/zc1477
 #EXTINF:0,106.7HD2 IHRBDWY
-http://ample.revma.ihrhls.com/zc7378
+https://stream.revma.ihrhls.com/zc7378/hls.m3u8
 #EXTINF:0,107.1FM WXPK
 https://cors-anywhere.arkina1234.repl.co/playerservices.streamtheworld.com/api/livestream-redirect/WXPKFM.mp3
 #EXTINF:0,107.5FM WBLS
