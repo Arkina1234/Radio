@@ -81,11 +81,11 @@ https://onair.wfuv.org/onair-hi
 https://music.wfuv.org/music-hi
 #EXTINF:0,91.1FM WFMU
 http://stream0.wfmu.org/freeform-128k
-#EXTINF:0,92.3FM WNYL
-https://live.amperwave.net/manifest/audacy-wnylfmaac-imc?apv=a2&source=webA2
-#EXTINF:0,92.3HD2 WNYL
-https://live.amperwave.net/manifest/audacy-wnylhd2aac-imc?apv=a2&source=webA2
-#EXTINF:0,92.3HD3 WNYL
+#EXTINF:0,92.3FM WINS-FM
+https://live.amperwave.net/manifest/audacy-winsamaac-imc?apv=a2&source=webA2
+#EXTINF:0,92.3HD2 WINS-HD2
+https://live.amperwave.net/manifest/audacy-winshd2aac-imc?apv=a2&source=webA2
+#EXTINF:0,92.3HD3 WINS-HD3
 https://live.amperwave.net/manifest/audacy-knxhd2aac-imc?apv=a2&source=webA2
 #EXTINF:0,92.7FM WFME-FM
 https://ais-sa3.cdnstream1.com/2640_64.aac
