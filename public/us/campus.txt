@@ -1,0 +1,20 @@
+Anchorage AK: KRUA
+https://22963.live.streamtheworld.com/KRUAFMAAC.aac
+Phoenix AZ: KASC
+https://cp2.shoutcheap.com:18042/stream
+Fayetteville AR: KXUA
+http://kxuasrv.uark.edu:8830/;
+Los Angeles CA: KXSC
+https://cp10.shoutcheap.com:18383/stream
+San Diego CA: KCR
+http://130.191.35.35:8000/;
+San Jose CA: KSJS
+http://streaming.ksjs.sjsu.edu:8000/live
+Denver CO: KVCU
+http://104.250.149.122:8082/stream
+Hartford CT: WUHS
+http://stream.whus.org:8000/whusfm
+Dover DE: WVUD
+http://128.175.76.123:8000/stream/1/
+Dover DE: WVUD HD2
+http://128.175.76.123:8000/stream/2/
