@@ -1,0 +1,8 @@
+KPR: Lullabies
+http://kidspublicradio2.got.net:8000/lullaby
+KPR: Pipsqueaks
+http://kidspublicradio2.got.net:8000/pipsqueaks
+KPR: Jabberwocky
+http://kidspublicradio.got.net:8000/jabberwocky
+KPR: Cosquillas
+http://kidspublicradio.got.net:8000/cosquillas
