@@ -7,12 +7,16 @@ https://wxpnhi.xpn.org/xpnhi
 https://gpb.streamguys1.com/oom/gpb-macon-mp3
 #EXTINF:-1,90.7 WFUV
 https://onair.wfuv.org/onair-hi
+#EXTINF:-1,90.9 WBUR
+http://wbur-sc.streamguys.com/wbur
 #EXTINF:-1,91.1 GPB Savannah
 https://gpb.streamguys1.com/oom/gpb-savannah-mp3
 #EXTINF:-1,Blue Ridge Public Radio
 https://live.wostreaming.net/direct/wncpr-wcqshd1mp3128-ibc4?source=manual
 #EXTINF:-1,BPR News
 https://live.wostreaming.net/direct/wncpr-wcqshd2mp3128-ibc4?source=manual
+#EXTINF:-1,Classical WQED-FM 89.3
+https://ice-1.streamhoster.com/lv_wqed--893
 #EXTINF:-1,The Cleveland Sight Center Network
 http://audio1.ideastream.org/CSCN.mp3
 #EXTINF:-1,CMU Public Radio
@@ -71,8 +75,16 @@ https://kera.streamguys1.com/kxtlive128
 https://nis.stream.publicradio.org/nis.aac
 #EXTINF:-1,OPB FM
 http://stream1.opb.org/radio.mp3
+#EXTINF:-1,Pittsburgh Concert Channel
+https://ice-1.streamhoster.com/lv_wqed--qthemusic
+#EXTINF:-1,Q The Music
+https://ice-1.streamhoster.com/lv_wqed--qthemusic
 #EXTINF:-1,Sight into Sound
 http://peridot.streamguys.com:5360/live
+#EXTINF:-1,South Carolina Public Radio News & Music
+https://26253.live.streamtheworld.com/WLTRFM.mp3
+#EXTINF:-1,South Carolina Public Radio News & Talk
+https://18193.live.streamtheworld.com/WRJAFM.mp3
 #EXTINF:-1,Vocalo Radio
 https://stream.wbez.org/vocalo128
 #EXTINF:-1,WAMU 88.5
@@ -83,6 +95,10 @@ https://stream.wbez.org/wbez128.mp3
 http://wbgo.streamguys.net/wbgo128
 #EXTINF:-1,WBGO HD2
 http://wbgo.streamguys.net/thejazzstream
+#EXTINF:-1,WETA Classical 90.9 FM
+https://26283.live.streamtheworld.com:443/WETAFM.mp3?nocache=MSziqPWz
+#EXTINF:-1,WETA VivaLaVoce
+https://26283.live.streamtheworld.com:443/WETAVLV.mp3?nocache=3v7eNQmW
 #EXTINF:-1,WFYI 90.1
 http://wfyi-iad.streamguys1.com/live
 #EXTINF:-1,WFYI HD2
@@ -105,6 +121,8 @@ http://mozart.wkar.msu.edu/wkar-jazz
 http://mozart.wkar.msu.edu/rrs-64-mp3
 #EXTINF:-1,WNYC 93.9 FM
 https://fm939.wnyc.org/wnycfm
+#EXTINF:-1,WQLN 91.3 FM
+https://radio.wqln.org:8443/?uuid=midom15th
 #EXTINF:-1,WUNC 91.5
 https://edg-iad-wunc-ice.streamguys1.com/wunc-128-mp3
 #EXTINF:-1,WUNC Music
