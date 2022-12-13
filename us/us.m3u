@@ -9,6 +9,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WKYSFMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLTYFMAAC
 #EXTINF:-1,95.5 WSB
 https://ad-oom-cmg.streamguys1.com/atl750/atl750-sgplayer-aac
+#EXTINF:-1,95.7 That Station
+https://ais-sa8.cdnstream1.com/2749_64.aac
 #EXTINF:-1,96 K-Rock
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRXKFMAACHI.aac
 #EXTINF:-1,970 WDAY AM and 93.1 FM
@@ -33,15 +35,17 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KSTPFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRCNFMAAC
 #EXTINF:-1,Majic 102.3 & 92.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMMJFMAAC.aac
+#EXTINF:-1,Mix 101.5
+https://ais-sa8.cdnstream1.com/2748_64.aac
 #EXTINF:-1,Moody Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/MB2.mp3
 #EXTINF:-1,Newstalk 1450 & 95.9 WOL
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOLAMAAC.aac
 #EXTINF:-1,Radio Visión Cristiana
 https://livestreamcdn.net:2000/stream/RadioVisionCristianaRadio/stream
+#EXTINF:-1,WRAL News+
+https://ais-sa8.cdnstream1.com/2745_64.aac
 #EXTINF:-1,The Word 100.7 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWRDFMAAC
 #EXTINF:-1,Word FM
 https://ice23.securenetsystems.net/WORDFM
-
-
