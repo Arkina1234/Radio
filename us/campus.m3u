@@ -1,11 +1,33 @@
 #EXTM3U
+#EXTINF:-1,91.5 WTUL
+http://129.81.156.83:8000/listen
 #EXTINF:-1,91.7 FM WSUM
 http://stream.studio.wsum.wisc.edu/wsum128
+#EXTINF:-1,92.1 WPTS
+http://audio.wpts.pitt.edu:8000/wpts_live_128s.mp3
+#EXTINF:-1,96.3 KNDS Radio
+https://knds-ice.romanport.com/stream
 #EXTINF:-1,Impact 89FM
 http://play.impact89fm.org:8000/impact89fm
 #EXTINF:-1,Radio K 770AM 100.7FM & 104.5FM
 http://radiokstreams.cce.umn.edu:8128/;
 #EXTINF:-1,WCBN-FM
 https://floyd.wcbn.org:8443/wcbn-hi.mp3
+#EXTINF:-1,WCRD
+https://s6.reliastream.com/proxy/ballstat?mp=/stream
 #EXTINF:-1,WCSB 89.3
 https://shoutcastwidgets.com/ssl/523/.mp3
+#EXTINF:-1,WKNC 88.1
+http://173.193.205.96:7430/stream
+#EXTINF:-1,WKNC HD2
+http://173.193.205.96:7447/stream
+#EXTINF:-1,WNYU 89.1 FM
+http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3
+#EXTINF:-1,WolfBytes Radio
+https://wbserver.oit.ncsu.edu/index.html?sid=1
+#EXTINF:-1,WQHS
+http://shaincast.caster.fm:44881/listen.mp3?authn29425d7e8d14d6f087e8d2f9eef739a6
+#EXTINF:-1,WRFL 88.1
+https://wrfl.fm:8002/stream/1
+#EXTINF:-1,WTSR 91.3FM
+https://www.streamcontrol.net:8444/s/13090
