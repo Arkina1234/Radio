@@ -15,20 +15,24 @@ https://music.wfuv.org/music-hi
 http://wbur-sc.streamguys.com/wbur
 #EXTINF:-1,91.1 GPB Savannah
 https://gpb.streamguys1.com/oom/gpb-savannah-mp3
+#EXTINF:-1,98.7 WFMT
+http://wfmt.streamguys1.com/main.aac
 #EXTINF:-1,Blue Ridge Public Radio
 https://live.wostreaming.net/direct/wncpr-wcqshd1mp3128-ibc4?source=manual
 #EXTINF:-1,BPR News
 https://live.wostreaming.net/direct/wncpr-wcqshd2mp3128-ibc4?source=manual
+#EXTINF:-1,CAI
+https://streams.audio.wgbh.org/wcai
 #EXTINF:-1,Classical WQED-FM 89.3
 https://ice-1.streamhoster.com/lv_wqed--893
 #EXTINF:-1,Pittsburgh Concert Channel
 https://ice-1.streamhoster.com/lv_wqed--concert
 #EXTINF:-1,Q The Music
 https://ice-1.streamhoster.com/lv_wqed--qthemusic
-#EXTINF:-1,The Cleveland Sight Center Network
-http://audio1.ideastream.org/CSCN.mp3
 #EXTINF:-1,CMU Public Radio
-http://22113.live.streamtheworld.com/WCMUFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCMUFM_SC
+#EXTINF:-1,CRB Classical 99.5
+https://streams.audio.wgbh.org/classical-hi
 #EXTINF:-1,The Current
 http://current.stream.publicradio.org/kcmp.mp3
 #EXTINF:-1,Delta College Public Radio
@@ -64,9 +68,7 @@ https://kcrw.streamguys1.com/kcrw_192k_mp3_e24_internet_radio
 #EXTINF:-1,KPBS
 https://kpbs.streamguys1.com/kpbs-mp3
 #EXTINF:-1,KPBS Classical San Diego
-http://kpbs-classical.streamguys1.com/kpbs-classical
-#EXTINF:-1,KPBS Radio Reading Service
-https://kpbs-rrs.streamguys1.com/kpbs-rrs?uuid=mbp4heznc
+https://kpbs-classical.streamguys1.com/kpbs-classical
 #EXTINF:-1,KUT 90.5
 https://kut.streamguys1.com/kut-free
 #EXTINF:-1,KUT HD2
@@ -86,50 +88,88 @@ http://stream1.opb.org/radio.mp3
 #EXTINF:-1,Sight into Sound
 http://peridot.streamguys.com:5360/live
 #EXTINF:-1,South Carolina Public Radio News & Music
-https://26253.live.streamtheworld.com/WLTRFM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLTRFM.mp3
 #EXTINF:-1,South Carolina Public Radio News & Talk
-https://18193.live.streamtheworld.com/WRJAFM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRJAFM.mp3
 #EXTINF:-1,WAMU 88.5
 http://wamu-1.streamguys.com/
 #EXTINF:-1,WBEZ 91.5
 https://stream.wbez.org/wbez128.mp3
 #EXTINF:-1,Vocalo Radio
 https://stream.wbez.org/vocalo128
+#EXTINF:-1,WBFO NPR
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBFOFM_SC
+#EXTINF:-1,WBFO The Bridge
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBFOHD2_SC
 #EXTINF:-1,WBGO Jazz 88
 http://wbgo.streamguys.net/wbgo128
 #EXTINF:-1,WBGO HD2
 http://wbgo.streamguys.net/thejazzstream
 #EXTINF:-1,WETA Classical 90.9 FM
-https://26283.live.streamtheworld.com:443/WETAFM.mp3?nocache=MSziqPWz
+https://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM.mp3?nocache=MSziqPWz
 #EXTINF:-1,WETA VivaLaVoce
-https://26283.live.streamtheworld.com:443/WETAVLV.mp3?nocache=3v7eNQmW
+https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3?nocache=3v7eNQmW
 #EXTINF:-1,WFYI 90.1
 http://wfyi-iad.streamguys1.com/live
 #EXTINF:-1,WFYI HD2
 http://amber.streamguys.com:5600/live1
 #EXTINF:-1,WGTE FM 91
-http://22223.live.streamtheworld.com/WGTEFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WGTEFM_SC
 #EXTINF:-1,WGVU Radio
-http://24153.live.streamtheworld.com/WGVUFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WGVUFM_SC
 #EXTINF:-1,WHYY NPR
 http://whyy.streamguys1.com/whyy-mp3
 #EXTINF:-1,WKAR NPR
 https://streaming.wkar.msu.edu/wkar-fm-mp3
 #EXTINF:-1,WKAR NewsTalk
 https://streaming.wkar.msu.edu/wkar-am-mp3
-#EXTINF:-1,WKAR Classical
-http://mozart.wkar.msu.edu/wkar-classical
-#EXTINF:-1,WKAR Jazz
-http://mozart.wkar.msu.edu/wkar-jazz
-#EXTINF:-1,WKAR Radio Reading Service
-http://mozart.wkar.msu.edu/rrs-64-mp3
+#EXTINF:-1,WNED Classical
+https://playerservices.streamtheworld.com/api/livestream-redirectl/WNEDFM_SC
+#EXTINF:-1,WNED Jazzworks
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNEDHD2_SC
 #EXTINF:-1,WNYC 93.9 FM
 https://fm939.wnyc.org/wnycfm
+#EXTINF:-1,WNYC AM 820
+https://am820.wnyc.org/wnycam
 #EXTINF:-1,WQLN 91.3 FM
 https://radio.wqln.org:8443/?uuid=midom15th
+#EXTINF:-1,WQXR
+http://stream.wqxr.org/wqxr
+#EXTINF:-1,New Sounds
+https://q2stream.wqxr.org/q2
+#EXTINF:-1,WRTI 90.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_CLASSICAL.mp3
+#EXTINF:-1,WRTI HD2
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3
 #EXTINF:-1,WUNC 91.5
 https://edg-iad-wunc-ice.streamguys1.com/wunc-128-mp3
 #EXTINF:-1,WUNC Music
 https://edg-iad-wunc-ice.streamguys1.com/wunc-hd2-128-mp3
 #EXTINF:-1,YourClassical MPR
 https://cms.stream.publicradio.org/cms.aac
+
+# Internet Only
+#EXTINF:-1,The Cleveland Sight Center Network
+http://audio1.ideastream.org/CSCN.mp3
+#EXTINF:-1,KPBS Radio Reading Service
+https://kpbs-rrs.streamguys1.com/kpbs-rrs?uuid=mbp4heznc
+#EXTINF:-1,WKAR Classical
+http://mozart.wkar.msu.edu/wkar-classical
+#EXTINF:-1,WKAR Jazz
+http://mozart.wkar.msu.edu/wkar-jazz
+#EXTINF:-1,WKAR Radio Reading Service
+http://mozart.wkar.msu.edu/rrs-64-mp3
+
+# Pacifica Radio
+#EXTINF:-1,KPFA 94.1
+https://streams.kpfa.org:8443/kpfa
+#EXTINF:-1,KPFK 90.7 FM
+https://ic1.sslstream.com:80/kpfk-fm
+#EXTINF:-1,KPFT 90.1
+https://streams.pacifica.org:9000/live_128
+#EXTINF:-1,KPFT HD2
+https://streams.pacifica.org:9000/HD3_128
+#EXTINF:-1,WBAI
+https://streams.pacifica.org:9000/wbai_128
+#EXTINF:-1,WPFW
+https://streams.pacifica.org:9000/wpfw_128
