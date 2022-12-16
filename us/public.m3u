@@ -7,6 +7,12 @@ https://wxpnhi.xpn.org/xpnhi
 https://xpn2hi.xpn.org/xpn2hi
 #EXTINF:-1,89.7 GPB Macon
 https://gpb.streamguys1.com/oom/gpb-macon-mp3
+#EXTINF:-1,89.9 WWNO
+http://tektite.streamguys1.com:5140/wwnolive-mp3
+#EXTINF:-1,Classical 104.9
+http://tektite.streamguys1.com:5140/wwnoclassical-mp3
+#EXTINF:-1,WWNO Jazz
+http://tektite.streamguys1.com:5140/wwnojazz-mp3
 #EXTINF:-1,90.7 WFUV
 https://onair.wfuv.org/onair-hi
 #EXTINF:-1,FUV All Music
@@ -131,6 +137,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WNEDHD2_SC
 https://fm939.wnyc.org/wnycfm
 #EXTINF:-1,WNYC AM 820
 https://am820.wnyc.org/wnycam
+#EXTINF:-1,WPSU
+https://wpsu-ice.streamguys1.com/wpsu1
+#EXTINF:-1,WPSU 2
+https://wpsu-ice.streamguys1.com/wpsu2-nopreroll
+#EXTINF:-1,WPSU 3
+https://wpsu-ice.streamguys1.com/wpsu3-nopreroll
 #EXTINF:-1,WQLN 91.3 FM
 https://radio.wqln.org:8443/?uuid=midom15th
 #EXTINF:-1,WQXR
@@ -141,6 +153,8 @@ https://q2stream.wqxr.org/q2
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_CLASSICAL.mp3
 #EXTINF:-1,WRTI HD2
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3
+#EXTINF:-1,WUMB Radio
+http://wumb.streamguys1.com/wumb919
 #EXTINF:-1,WUNC 91.5
 https://edg-iad-wunc-ice.streamguys1.com/wunc-128-mp3
 #EXTINF:-1,WUNC Music
@@ -159,6 +173,18 @@ http://mozart.wkar.msu.edu/wkar-classical
 http://mozart.wkar.msu.edu/wkar-jazz
 #EXTINF:-1,WKAR Radio Reading Service
 http://mozart.wkar.msu.edu/rrs-64-mp3
+#EXTINF:-1,WUMB Blues
+http://wumb.streamguys1.com/wumb919st
+#EXTINF:-1,WUMB Celtic Music
+http://wumb.streamguys1.com/wumb919cj
+#EXTINF:-1,WUMB Contemporary Folk
+http://wumb.streamguys1.com/wumb919cf
+#EXTINF:-1,WUMB French Accent
+http://wumb.streamguys1.com/wumb919fr
+#EXTINF:-1,WUMB Student Radio
+http://wumb.streamguys1.com/wumb919ho2
+#EXTINF:-1,WUMB Studio Archives
+http://wumb.streamguys1.com/wumb919od
 
 # Pacifica Radio
 #EXTINF:-1,KPFA 94.1
