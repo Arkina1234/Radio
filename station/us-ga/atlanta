@@ -25,6 +25,7 @@ FM 91.5 WWEV-FM
 FM 91.7 WUGA
 https://gpb.streamguys1.com/gpb-radio-mp3
 FM1 91.7 WCCV
+http://shoutcast.ibn.org:8000/.mp3
 FM 91.9 WCLK
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCLKFM_SC
 HD2 91.9 WCLK
@@ -46,9 +47,11 @@ FM 98.5 WSB-FM
 FM 99.3 WCON-FM
 FM 99.7 WWWQ
 FM 100.1 WNSY
+https://crystalout.surfernetwork.com:8001/WJZA-AM_MP3
 FM 100.5 WNNX
 FM 101.5 WKHX-FM
 FM 102.3 WLKQ-FM
+https://crystalout.surfernetwork.com:8001/WLKQ-FM_MP3
 FM 102.5 WPZE
 FM 103.3 WVEE
 FM 104.1 WALR-FM
@@ -57,5 +60,6 @@ FM 105.3 WRDG
 FM 105.7 WBZY
 FM 106.7 WAKL
 FM 107.1 WTSH-FM
+https://crystalout.surfernetwork.com:8001/WLKQ-FM_MP3
 FM 107.5 WAMJ
 FM 107.9 WHTA
