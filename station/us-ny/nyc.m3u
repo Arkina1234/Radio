@@ -4,7 +4,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WMCAAMAAC
 #EXTINF:0,AM 620 WSNR
 http://ags.abinet.com:8800/dr.mp3
 #EXTINF:0,AM 660 WFAN
-https://live.amperwave.net/manifest/audacy-wfanamaac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-wfanamaac-imc
 #EXTINF:0,AM 710 WOR
 http://ample.revma.ihrhls.com/zc5874
 #EXTINF:0,AM 770 WABC
@@ -12,11 +12,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAMAAC
 #EXTINF:0,AM 820 WNYC
 http://am820.wnyc.org/wnycam
 #EXTINF:0,AM 880 WCBS
-https://live.amperwave.net/manifest/audacy-wcbsamaac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-wcbsamaac-imc
 #EXTINF:0,AM 970 WNYM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNYMAMAAC
 #EXTINF:0,AM 1010 WINS
-https://live.amperwave.net/manifest/audacy-winsamaac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-winsamaac-imc
 #EXTINF:0,AM 1050 WEPN
 https://live.wostreaming.net/direct/goodkarma-wepnammp3-ibc
 #EXTINF:0,AM 1100 WHLI
@@ -82,11 +82,11 @@ https://music.wfuv.org/music-hi
 #EXTINF:0,FM 91.1 WFMU
 http://stream0.wfmu.org/freeform-128k
 #EXTINF:0,FM 92.3 WINS-FM
-https://live.amperwave.net/manifest/audacy-winsamaac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-winsamaac-imc
 #EXTINF:0,HD2 92.3 WINS-HD2
-https://live.amperwave.net/manifest/audacy-winshd2aac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-winshd2aac-imc
 #EXTINF:0,HD3 92.3 WINS-HD3
-https://live.amperwave.net/manifest/audacy-knxhd2aac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-knxhd2aac-imc
 #EXTINF:0,FM 92.7 WFME-FM
 https://ais-sa3.cdnstream1.com/2640_64.aac
 #EXTINF:0,FM 93.1 WPAT-FM
@@ -104,9 +104,9 @@ http://stream.wqxr.org/wqxr
 #EXTINF:0,HD3 93.9 WNYC-HD3
 http://am820.wnyc.org/wnycam 
 #EXTINF:0,FM 94.7 WXBK
-https://live.amperwave.net/manifest/audacy-wxbkfmaac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-wxbkfmaac-imc
 #EXTINF:0,HD2 94.7 WXBK
-https://live.amperwave.net/manifest/audacy-wxbkhd2aac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-wxbkhd2aac-imc
 #EXTINF:0,FM 95.5 WPLJ
 https://maestro.emfcdn.com/stream_for/k-love/web/aac
 #EXTINF:0,HD2 95.5 WPLJ
@@ -144,21 +144,21 @@ http://ample.revma.ihrhls.com/zc1469
 #EXTINF:0,FM 100.7 WHUD
 https://playerservices.streamtheworld.com/api/livestream-redirect/WHUDFM.mp3
 #EXTINF:0,FM 101.1 WCBS-FM
-https://live.amperwave.net/manifest/audacy-wcbsfmaac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-wcbsfmaac-imc
 #EXTINF:0,HD2 101.1 WCBS-HD2
-https://live.amperwave.net/manifest/audacy-wcbsamaac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-wcbsamaac-imc
 #EXTINF:0,HD3 101.1 WCBS-HD3
 https://ais-sa5.cdnstream1.com/b92108_64aac
 #EXTINF:0,FM 101.9 WFAN-FM
-https://live.amperwave.net/manifest/audacy-wfanamaac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-wfanamaac-imc
 #EXTINF:0,HD2 101.9 WFAN-HD2
-https://live.amperwave.net/manifest/audacy-cbssportsmp3-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-cbssportsmp3-imc
 #EXTINF:0,HD3 101.9 WFAN-HD3
-https://live.amperwave.net/manifest/audacy-betqlnetworkmp3-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-betqlnetworkmp3-imc
 #EXTINF:0,FM 102.7 WNEW-FM
-https://live.amperwave.net/manifest/audacy-wnewfmaac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-wnewfmaac-imc
 #EXTINF:0,HD2 102.7 WNEW-HD2
-https://live.amperwave.net/manifest/audacy-wnewhd2aac-imc?apv=a2&source=webA2
+https://live.amperwave.net/manifest/audacy-wnewhd2aac-imc
 #EXTINF:0,FM 103.5 WKTU
 http://ample.revma.ihrhls.com/zc5874
 #EXTINF:0,HD2 103.5 WKTU
