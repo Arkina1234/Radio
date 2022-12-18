@@ -5,6 +5,10 @@ https://gpb.streamguys1.com/oom/gpb-atlanta-mp3
 https://wxpnhi.xpn.org/xpnhi
 #EXTINF:-1,XPoNential Radio
 https://xpn2hi.xpn.org/xpn2hi
+#EXTINF:-1,88.5 KNKX
+https://live.wostreaming.net/direct/ppm-knkxfmmp3-ibc1
+#EXTINF:-1,Jazz24
+https://live.wostreaming.net/direct/ppm-jazz24mp3-ibc1
 #EXTINF:-1,89.7 GPB Macon
 https://gpb.streamguys1.com/oom/gpb-macon-mp3
 #EXTINF:-1,89.9 WWNO
@@ -13,6 +17,12 @@ http://tektite.streamguys1.com:5140/wwnolive-mp3
 http://tektite.streamguys1.com:5140/wwnoclassical-mp3
 #EXTINF:-1,WWNO Jazz
 http://tektite.streamguys1.com:5140/wwnojazz-mp3
+#EXTINF:-1,90.1 FM WABE
+https://playerservices.streamtheworld.com/api/livestream-redirect/WABEFM_HD1.mp3
+#EXTINF:-1,90.1 FM WABE HD2
+https://playerservices.streamtheworld.com/api/livestream-redirect/WABEFM_HD2.mp3
+#EXTINF:-1,90.1 FM WABE HD3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WABEFM_HD3.mp3
 #EXTINF:-1,90.7 WFUV
 https://onair.wfuv.org/onair-hi
 #EXTINF:-1,FUV All Music
@@ -23,7 +33,7 @@ http://wbur-sc.streamguys.com/wbur
 https://gpb.streamguys1.com/oom/gpb-savannah-mp3
 #EXTINF:-1,98.7 WFMT
 http://wfmt.streamguys1.com/main.aac
-#EXTINF:-1,Blue Ridge Public Radio
+#EXTINF:-1,Blue Ridge Public Radio - WCQS
 https://live.wostreaming.net/direct/wncpr-wcqshd1mp3128-ibc4?source=manual
 #EXTINF:-1,BPR News
 https://live.wostreaming.net/direct/wncpr-wcqshd2mp3128-ibc4?source=manual
@@ -35,33 +45,35 @@ https://ice-1.streamhoster.com/lv_wqed--893
 https://ice-1.streamhoster.com/lv_wqed--concert
 #EXTINF:-1,Q The Music
 https://ice-1.streamhoster.com/lv_wqed--qthemusic
-#EXTINF:-1,CMU Public Radio
+#EXTINF:-1,CMU Public Radio - WCMU
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCMUFM_SC
+#EXTINF:-1,Connecticut Public Radio - WNPR
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNPRFM_SC
 #EXTINF:-1,CRB Classical 99.5
 https://streams.audio.wgbh.org/classical-hi
 #EXTINF:-1,The Current
 http://current.stream.publicradio.org/kcmp.mp3
-#EXTINF:-1,Delta College Public Radio
+#EXTINF:-1,Delta College Public Radio - WUCX
 https://wucx.streamguys1.com/live
 #EXTINF:-1,GBH 89.7
 https://streams.audio.wgbh.org/wgbh
 #EXTINF:-1,GPB Radio
 https://gpb.streamguys1.com/oom/gpb-radio-mp3
-#EXTINF:-1,Houston Public Media News 88.7
+#EXTINF:-1,Houston Public Media - News 88.7
 https://stream.houstonpublicmedia.org/news-mp3
-#EXTINF:-1,Houston Public Media Classical
+#EXTINF:-1,Houston Public Media - Classical
 https://stream.houstonpublicmedia.org/classical-mp3
-#EXTINF:-1,Houston Public Media Mixtape
+#EXTINF:-1,Houston Public Media - Mixtape
 https://stream.houstonpublicmedia.org/mixtape-mp3
-#EXTINF:-1,Ideastream Public Media WKSU
+#EXTINF:-1,Ideastream Public Media - WKSU
 http://stream.wksu.org/wksu1.128.mp3
-#EXTINF:-1,Ideastream Public Media WKSU HD2
+#EXTINF:-1,Ideastream Public Media - WKSU HD2
 http://freshgrass.streamguys1.com/folkalley-128mp3
-#EXTINF:-1,Ideastream Public Media WKSU HD3
+#EXTINF:-1,Ideastream Public Media - WKSU HD3
 http://stream.wksu.org/wksu3.128.mp3
-#EXTINF:-1,Ideastream Public Media WKSU HD4
+#EXTINF:-1,Ideastream Public Media - WKSU HD4
 http://stream.wksu.org/wksu2.128.mp3
-#EXTINF:-1,Ideastream Public Media WCLV
+#EXTINF:-1,Ideastream Public Media - WCLV
 https://ideastream.streamguys1.com/wclv.mp3
 #EXTINF:-1,Jazz 91.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCLKFM_SC
@@ -97,10 +109,23 @@ https://nis.stream.publicradio.org/nis.aac
 http://stream1.opb.org/radio.mp3
 #EXTINF:-1,Sight into Sound
 http://peridot.streamguys.com:5360/live
-#EXTINF:-1,South Carolina Public Radio News & Music
+#EXTINF:-1,South Carolina Public Radio - News & Music
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLTRFM.mp3
-#EXTINF:-1,South Carolina Public Radio News & Talk
+#EXTINF:-1,South Carolina Public Radio - News & Talk
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRJAFM.mp3
+#EXTINF:-1,Texas Public Radio - KSTX: San Antonio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSTXFM_SC#EXTINF:-1, Texas Public Radio - KPAC: San Antonio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KPACFM_SC
+#EXTINF:-1,Texas Public Radio - KTXI: Hill Country
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTXIFM_SC
+#EXTINF:-1,Texas Public Radio - KTPR: Big Country
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTPRFM_SC
+#EXTINF:-1,Texas Public Radio - KVHL: Highland Lakes
+https://playerservices.streamtheworld.com/api/livestream-redirect/KVHLFM_SC
+#EXTINF:-1,Texas Public Radio - KTPD: Del Rio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTPDFM_SC
+#EXTINF:-1,Texas Public Radio - KCTI: Gonzales
+https://playerservices.streamtheworld.com/api/livestream-redirect/KCTIFM_SC
 #EXTINF:-1,WAMU 88.5
 http://wamu-1.streamguys.com/
 #EXTINF:-1,WBEZ 91.5
@@ -165,6 +190,10 @@ https://edg-iad-wunc-ice.streamguys1.com/wunc-128-mp3
 https://edg-iad-wunc-ice.streamguys1.com/wunc-hd2-128-mp3
 #EXTINF:-1,YourClassical MPR
 https://cms.stream.publicradio.org/cms.aac
+#EXTINF:-1,Vermont Public Radio - Vermont Public News
+http://vpr.streamguys.net/vpr64.mp3
+#EXTINF:-1,Vermont Public Radio - Vermont Public Classical
+http://vprclassical.streamguys.net/vprclassical64.mp3
 
 # Internet Only
 #EXTINF:-1,The Cleveland Sight Center Network
