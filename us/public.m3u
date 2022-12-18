@@ -63,6 +63,10 @@ http://stream.wksu.org/wksu3.128.mp3
 http://stream.wksu.org/wksu2.128.mp3
 #EXTINF:-1,Ideastream Public Media WCLV
 https://ideastream.streamguys1.com/wclv.mp3
+#EXTINF:-1,Jazz 91.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCLKFM_SC
+#EXTINF:-1,Mainstream 91.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCLKHD2_SC
 #EXTINF:-1,KERA 90.1
 https://kera.streamguys1.com/keralive
 #EXTINF:-1,KQED
