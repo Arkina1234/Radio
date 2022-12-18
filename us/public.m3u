@@ -114,7 +114,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WLTRFM.mp3
 #EXTINF:-1,South Carolina Public Radio - News & Talk
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRJAFM.mp3
 #EXTINF:-1,Texas Public Radio - KSTX: San Antonio
-https://playerservices.streamtheworld.com/api/livestream-redirect/KSTXFM_SC#EXTINF:-1, Texas Public Radio - KPAC: San Antonio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSTXFM_SC
+#EXTINF:-1, Texas Public Radio - KPAC: San Antonio
 https://playerservices.streamtheworld.com/api/livestream-redirect/KPACFM_SC
 #EXTINF:-1,Texas Public Radio - KTXI: Hill Country
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTXIFM_SC
