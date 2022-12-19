@@ -1,23 +1,25 @@
 #EXTM3U
 #EXTINF:-1,95.7 That Station
 https://ais-sa8.cdnstream1.com/2749_64.aac
-Big 98.1
+#EXTINF:-1,ALT 99.5 & 102.3
+https://ice64.securenetsystems.net/WAJIHD
+#EXTINF:-1,Big 98.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/WPTYHD2_SC
-Classic Hits 101.7
+#EXTINF:-1,Classic Hits 101.7
 https://ice64.securenetsystems.net/WLDE
-La Nueva Fiesta
+#EXTINF:-1,La Nueva Fiesta
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBONFM_SC
 #EXTINF:-1,LI News Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRCNFM_SC
-Majic 95.1
+#EXTINF:-1,Majic 95.1
 https://ice64.securenetsystems.net/WAJI
 #EXTINF:-1,Mix 101.5
 https://ais-sa8.cdnstream1.com/2748_64.aac
-My Country 96.1
+#EXTINF:-1,My Country 96.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJVCFM_SC
-Party 105.3
+#EXTINF:-1,Party 105.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WPTYFM_SC
-The Twenty-FM
+#EXTINF:-1,The Twenty-FM
 https://ice24.securenetsystems.net/WAJIHD3
 #EXTINF:-1,WRAL News+
 https://ais-sa8.cdnstream1.com/2745_64.aac
