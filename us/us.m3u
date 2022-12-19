@@ -1,31 +1,22 @@
 #EXTM3U
-#EXTINF:-1,1500AM ESPN Twin Cities on SKOR North
-https://playerservices.streamtheworld.com/api/livestream-redirect/KSTPAM.mp3
-#EXTINF:-1,720 WGN
-http://stream.abacast.net/manifest/wgnam-wgnamaac-ibc2
-#EXTINF:-1,90.1 FM WMBI
-https://18063.live.streamtheworld.com/WMBIFM.mp3
-#EXTINF:-1,93.9 WKYS
-https://playerservices.streamtheworld.com/api/livestream-redirect/WKYSFMAAC.aac
-#EXTINF:-1,94.9 KLTY
-https://playerservices.streamtheworld.com/api/livestream-redirect/KLTYFMAAC
-#EXTINF:-1,95.5 WSB
-https://ad-oom-cmg.streamguys1.com/atl750/atl750-sgplayer-aac
 #EXTINF:-1,95.7 That Station
 https://ais-sa8.cdnstream1.com/2749_64.aac
-#EXTINF:-1,B98.5
-https://ad-oom-cmg.streamguys1.com/atl985/atl985-sgplayer-aac
-#EXTINF:-1,KS95
-https://playerservices.streamtheworld.com/api/livestream-redirect/KSTPFM.mp3
+Big 98.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/WPTYHD2_SC
+Classic Hits 101.7
+La Nueva Fiesta
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBONFM_SC
 #EXTINF:-1,LI News Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/WRCNFMAAC
-#EXTINF:-1,Majic 102.3 & 92.7
-https://playerservices.streamtheworld.com/api/livestream-redirect/WMMJFMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRCNFM_SC
+Majic 95.1
+https://ice64.securenetsystems.net/WAJI
 #EXTINF:-1,Mix 101.5
 https://ais-sa8.cdnstream1.com/2748_64.aac
-#EXTINF:-1,Newstalk 1450 & 95.9 WOL
-https://playerservices.streamtheworld.com/api/livestream-redirect/WOLAMAAC.aac
-#EXTINF:-1,Talkradio 77 WABC
-https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAMAAC
+My Country 96.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/WJVCFM_SC
+Party 105.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WPTYFM_SC
+The Twenty-FM
+https://ice24.securenetsystems.net/WAJIHD3
 #EXTINF:-1,WRAL News+
 https://ais-sa8.cdnstream1.com/2745_64.aac
