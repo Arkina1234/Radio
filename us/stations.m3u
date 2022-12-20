@@ -44,6 +44,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WGPRFM_SC
 # Raleigh, NC
 #EXTINF:-1,95.7 That Station
 https://ais-sa8.cdnstream1.com/2749_64.aac
+#EXTINF:-1,99.9 The Fan
+https://ais-sa8.cdnstream1.com/2750_64.aac
+#EXTINF:-1,The Buzz Sports Radio
+https://ais-sa8.cdnstream1.com/2751_64.aac
 #EXTINF:-1,Mix 101.5
 https://ais-sa8.cdnstream1.com/2748_64.aac
 #EXTINF:-1,WRAL News+
