@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:-1,AM 800 WNNW
+http://hemnos.cdnstream.com/1406_64
+#EXTINF:-1,AM 1120 WBNW
+https://backbonenetworks.streamguys1.com/WBNW.mp3
+#EXTINF:-1,AM 1330 WRCA
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRCAAM_SC
+#EXTINF:-1,AM 1510 WMEX
+https://live.wostreaming.net/manifest/marshfield-wmexamaac-ibc1
+#EXTINF:-1,AM 1550 WNTN
+https://live.wostreaming.net/manifest/deltacommunications-wntnamaac-ibc1
+#EXTINF:-1,AM 1570 WUBG
+https://ice64.securenetsystems.net/WCCM
+#EXTINF:-1,HD 89.7-1 WGBH
+https://streams.audio.wgbh.org/wgbh
+#EXTINF:-1,HD 89.7-2 WGBH
+https://streams.audio.wgbh.org/classical-hi
+#EXTINF:-1,HD 89.7-3 WGBH
+https://streams.audio.wgbh.org/wcai
+#EXTINF:-1,FM 90.9 WBUR-FM
+http://wbur-sc.streamguys.com/wbur
+#EXTINF:-1,FM 92.5 WXRV
+http://72.13.83.130:8010/;
+#EXTINF:-1,HD 92.9-1 WBOS
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBOSFM_SC
+#EXTINF:-1,HD 92.9-2 WBOS
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRCAAM_SC
+#EXTINF:-1,FM 95.3 WHRB
+https://stream.whrb.org/whrb-mp3
+#EXTINF:-1,FM 96.9 WBQT
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBQTFM_SC
+#EXTINF:-1,HD 98.5-1 WBZ-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBZFM_SC
+#EXTINF:-1,HD 98.5-2 WBZ-HD2
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBZHD2_SC
+#EXTINF:-1,FM 99.5 WCRB
+https://streams.audio.wgbh.org/classical-hi
+#EXTINF:-1,FM 102.5 WKLB-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WKLBFM_SC
+#EXTINF:-1,FM 104.9 WRBB
+https://audio-edge-jfbmv.sin.d.radiomast.io/dafd1179-5404-4939-9c1c-a014c6964254
+#EXTINF:-1,FM 105.7 WROR-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRORFM_SC
+
