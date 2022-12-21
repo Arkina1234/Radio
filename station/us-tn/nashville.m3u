@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1,AM 560 WNSR
+http://shout.wnsr.com:8989/;
+#EXTINF:-1,AM 650 WSM
+https://stream01048.westreamradio.com/wsm-am-mp3
+#EXTINF:-1,AM 830 WQZQ
+https://cromwell-ice.streamguys1.com/WQZQAM-source
+#EXTINF:-1,AM 880 WMDB
+https://ice66.securenetsystems.net/WMDB
+#EXTINF:-1,AM 950 WAKM
+https://streaming2.tux-support.com:7020/;
+#EXTINF:-1,AM 1010 WHIN
+https://ice66.securenetsystems.net/WHIN
+#EXTINF:-1,AM 1240 WNVL
+https://ice66.securenetsystems.net/WNVL
+#EXTINF:-1,AM 1430 WPLN
+https://wpln.streamguys1.com/wplnam.mp3
+#EXTINF:-1,AM 1450 WGNS
+https://ice5.securenetsystems.net/WGNSM
+#EXTINF:-1,AM 1470 WVOL 
+https://ice9.securenetsystems.net/WVOL
+#EXTINF:-1,AM 1490 WCOR
+http://peridot.streamguys.com:7590/live-mp3
 #EXTINF:-1,FM 88.1 WFSK-FM
 https://backbonenetworks.streamguys1.com/fiskradio.mp3
 #EXTINF:-1,FM 88.3 WMTS-FM
@@ -67,5 +89,7 @@ https://17553.live.streamtheworld.com:443/WGFXFM_SC
 https://cromwell-ice.streamguys1.com/WPRTFM
 #EXTINF:-1,FM 106.7 WNFN
 https://17993.live.streamtheworld.com:443/WNFNFM_SC
+#EXTINF:-1,FM 107.1 WRFN-LP
+https://ice23.securenetsystems.net/WRFNLP
 #EXTINF:-1,FM 107.9 W300EA
 https://ice66.securenetsystems.net/WHIN
