@@ -1,0 +1,34 @@
+88.1	KCEP	Urban Contemporary
+88.5	KVID	Christian
+88.9	KNPR	News/Talk (NPR)
+89.3	KAER	Christian
+89.7	KCNV	Classical
+90.5	KSOS	Christian
+91.1	KVKL	Christian
+91.5	KUNV	Jazz
+92.3	KOMP	Active Rock
+92.7	KRRN	Spanish Adult Contemporary
+93.1	KYMT	Adult Hits
+94.1	KMXB	Hot Adult Contemporary
+95.1	KNYE	Oldies
+95.5	KWNR	Country
+95.9	KACP	Country
+96.3	KKLZ	Classic Hits
+97.1	KXPT	Classic Rock
+97.5	KVEG	Rhythmic Contemporary
+98.5	KLUC	Top 40/CHR
+99.3	KRGT	Spanish Adult Contemporary
+99.7	KHYZ	Hot Adult Contemporary
+100.1	KHWG	News/Talk
+100.5	KXQQ	Rhythmic Hot AC
+101.9	KWID	Spanish Adult Contemporary
+102.7	KVGS	Hot Adult Contemporary
+103.1	KURR	Top 40/CHR
+103.5	KISF	Regional Mexican
+104.3	KFRH	Top 40/CHR
+104.7	KJUL	Adult Standards
+105.1	KQRT	Regional Mexican
+105.7	KOAS	Urban Adult Contemporary
+106.5	KSNE	Adult Contemporary
+107.5	KXTE	Alternative Rock
+107.9	KCYE	Country
