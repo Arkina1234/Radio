@@ -3,9 +3,9 @@
 http://hemnos.cdnstream.com/1406_64
 #EXTINF:-1,AM 1120 WBNW
 https://backbonenetworks.streamguys1.com/WBNW.mp3
-AM 1300 WJDA
+#EXTINF:-1,AM 1300 WJDA
 https://stream.radio.co/s9cb5ee0f7/listen
-AM 1600 WUNR
+#EXTINF:-1,AM 1600 WUNR
 #EXTINF:-1,AM 1330 WRCA
 https://24423.live.streamtheworld.com/WRCAAM_SC
 #EXTINF:-1,AM 1510 WMEX
@@ -38,16 +38,16 @@ https://18373.live.streamtheworld.com/WBZFM_SC
 https://18073.live.streamtheworld.com/WBZHD2_SC
 #EXTINF:-1,FM 99.5 WCRB
 https://streams.audio.wgbh.org/classical-hi
-FM 99.9 W260DS
+#EXTINF:-1,FM 99.9 W260DS
 https://stream.radio.co/s9cb5ee0f7/listen?999
 #EXTINF:-1,HD 102.5-1 WKLB-FM
 https://22213.live.streamtheworld.com/WKLBFM_SC
-FM 102.9 W275BH
+#EXTINF:-1,FM 102.9 W275BH
 https://backbonenetworks.streamguys1.com/WBNW.mp3?1029
 #EXTINF:-1,FM 104.9 WRBB
 https://audio-edge-jfbmv.sin.d.radiomast.io/dafd1179-5404-4939-9c1c-a014c6964254
 #EXTINF:-1,FM 105.7 WROR-FM
 https://15693.live.streamtheworld.com/WRORFM_SC
-FM 106.1 W291CZ
+#EXTINF:-1,FM 106.1 W291CZ
 https://24423.live.streamtheworld.com/WRCAAM_SC?1061
 
