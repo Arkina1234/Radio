@@ -4,7 +4,7 @@ http://hemnos.cdnstream.com/1406_64
 #EXTINF:-1,AM 1120 WBNW
 https://backbonenetworks.streamguys1.com/WBNW.mp3
 #EXTINF:-1,AM 1330 WRCA
-https://playerservices.streamtheworld.com/api/livestream-redirect/WRCAAM_SC
+https://24423.live.streamtheworld.com/WRCAAM_SC
 #EXTINF:-1,AM 1510 WMEX
 https://live.wostreaming.net/manifest/marshfield-wmexamaac-ibc1
 #EXTINF:-1,AM 1550 WNTN
@@ -22,23 +22,23 @@ http://wbur-sc.streamguys.com/wbur
 #EXTINF:-1,FM 92.5 WXRV
 http://72.13.83.130:8010/;
 #EXTINF:-1,HD 92.9-1 WBOS
-https://playerservices.streamtheworld.com/api/livestream-redirect/WBOSFM_SC
+https://20263.live.streamtheworld.com/WBOSFM_SC
 #EXTINF:-1,HD 92.9-2 WBOS
-https://playerservices.streamtheworld.com/api/livestream-redirect/WRCAAM_SC
+https://24423.live.streamtheworld.com/WRCAAM_SC
 #EXTINF:-1,FM 95.3 WHRB
 https://stream.whrb.org/whrb-mp3
 #EXTINF:-1,FM 96.9 WBQT
-https://playerservices.streamtheworld.com/api/livestream-redirect/WBQTFM_SC
+https://26273.live.streamtheworld.com/WBQTFM_SC
 #EXTINF:-1,HD 98.5-1 WBZ-FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WBZFM_SC
+https://18373.live.streamtheworld.com/WBZFM_SC
 #EXTINF:-1,HD 98.5-2 WBZ-HD2
-https://playerservices.streamtheworld.com/api/livestream-redirect/WBZHD2_SC
+https://18073.live.streamtheworld.com/WBZHD2_SC
 #EXTINF:-1,FM 99.5 WCRB
 https://streams.audio.wgbh.org/classical-hi
-#EXTINF:-1,FM 102.5 WKLB-FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WKLBFM_SC
+#EXTINF:-1,HD 102.5-1 WKLB-FM
+https://22213.live.streamtheworld.com/WKLBFM_SC
 #EXTINF:-1,FM 104.9 WRBB
 https://audio-edge-jfbmv.sin.d.radiomast.io/dafd1179-5404-4939-9c1c-a014c6964254
 #EXTINF:-1,FM 105.7 WROR-FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/WRORFM_SC
+https://15693.live.streamtheworld.com/WRORFM_SC
 
