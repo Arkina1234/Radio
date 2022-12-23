@@ -7,28 +7,31 @@ https://live.amperwave.net/manifest/audacy-knxamaac-imc
 AM 122 KTMZ
 AM 133 KWKW
 FM 93.1 KCBS-FM
-https://live.amperwave.net/manifest/audacy-kcbsfmaac-imc
+https://live.amperwave.net/manifest/audacy-kcbsfmaac-imc?apv=a2&source=webA2
 HD2 93.1 KCBS-HD2
+https://live.amperwave.net/manifest/audacy-kfrgfmaac-imc?apv=a2&source=webA2
 HD3 93.1 KCBS-HD3
+https://entercom-sgrewind.streamguys1.com/entercom/3702/playlist_dvr_range-1671826651-now.m3u8
 FM 93.5 KDAY
 FM 93.9 KLLI
 FM 94.7 KTWV
 HD2 94.7 KTWV
 HD3 94.7 KTWV
 FM 95.1 KFRG
-https://live.amperwave.net/manifest/audacy-kfrgfmaac-imc
+https://live.amperwave.net/manifest/audacy-kfrgfmaac-imc?apv=a2&source=webA2
 HD2 95.1 KFRG
+https://live.amperwave.net/manifest/audacy-kxfghd2aac-imc?apv=a2&source=webA2
 FM 95.5 KLOS
 HD2 95.5 KLOS
 HD3 95.5 KLOS
 FM 96.3 KXOL-FM
 https://liveaudio.lamusica.com/LA_KXOL_icy
 FM 97.1 KNX-FM
-https://live.amperwave.net/manifest/audacy-knxamaac-imc
+https://entercom-sgrewind.streamguys1.com/entercom/555/playlist_dvr_range-1671828067-now.m3u8
 HD2 97.1 KNX-HD2
-https://live.amperwave.net/manifest/audacy-knxhd2aac-imc
+https://live.amperwave.net/manifest/audacy-knxhd2aac-imc?apv=a2&source=webA2
 HD3 97.1 KNX-HD3
-https://live.amperwave.net/manifest/audacy-knxhd3aac-imc
+https://live.amperwave.net/manifest/audacy-knxhd3aac-imc?apv=a2&source=webA2
 FM 97.5 KLYY
 FM 98.3 KRCV
 FM 99.5 KKLA-FM
@@ -45,6 +48,9 @@ HD2 103.9 KRCD
 HD3 103.9 KRCD
 FM 105.9 KPWR
 HD2 105.9 KPWR
+FM 106.7 KROQ-FM
+https://live.amperwave.net/manifest/audacy-kroqfmaac-hlsc.m3u8?apv=a2&source=webA2&c_user_id=f8k:343551edad6955b3b788a32857a3c785&deviceid=cookie:de5a16f8-4f7b-49f9-83ce-2100c3cb747d
+https://live.amperwave.net/manifest/audacy-kroqhd2aac-hlsc.m3u8?apv=a2&source=webA2&c_user_id=f8k:343551edad6955b3b788a32857a3c785&deviceid=cookie:de5a16f8-4f7b-49f9-83ce-2100c3cb747d
 FM 107.1 KSSE
 FM 107.5 KLVE
 https://live.wostreaming.net/manifest/univision-klvefmaac-imc2
