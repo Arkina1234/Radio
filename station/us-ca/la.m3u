@@ -1,0 +1,177 @@
+#EXTM3U
+#EXTINF:0,AM 570 KLAC
+https://ample.revma.ihrhls.com/zc189
+#EXTINF:0,AM 640 KFI
+https://ample.revma.ihrhls.com/zc177
+#EXTINF:0,AM 670 KIRN
+https://ice41.securenetsystems.net/KIRN
+#EXTINF:0,AM 710 KSPN
+https://live.wostreaming.net/direct/goodkarma-kspnammp3-ibc
+#EXTINF:0,AM 790 KABC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KABCAMAAC_SC
+#EXTINF:0,AM 830 KLAA
+http://klaa.streamguys1.com/live
+#EXTINF:0,AM 870 KRLA
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC_SC
+#EXTINF:0,AM 930 KHJ
+https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAIN.mp3
+#EXTINF:0,AM 980 KFWB
+https://playerservices.streamtheworld.com/api/livestream-redirect/KFWBAMAAC
+#EXTINF:0,AM 1020 KTNQ
+https://live.wostreaming.net/manifest/univision-ktnqamaac-imc2
+#EXTINF:0,AM 1070 KNX
+https://entercom-sgrewind.streamguys1.com/entercom/555/playlist_dvr_range-1671828067-now.m3u8
+#EXTINF:0,AM 1110 KRDC
+https://live.wostreaming.net/direct/goodkarma-kspnammp3-ibc
+#EXTINF:0,AM 1150 KEIB
+https://ample.revma.ihrhls.com/zc197
+#EXTINF:0,AM 1220 KTMZ
+https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC
+#EXTINF:0,AM 1260 KMZT
+https://25023.live.streamtheworld.com/KKGOHD2AAC.aac
+#EXTINF:0,AM 1280 KFRN
+https://ais-sa3.cdnstream1.com/2641_64.aac
+#EXTINF:0,AM 1330 KWKW
+https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC
+#EXTINF:0,AM 1460 KYTM
+https://s1.voscast.com:10601/xstream
+#EXTINF:0,AM 1580 KBLA
+https://ice9.securenetsystems.net/KBLA
+#EXTINF:0,HD 88.1 KKJZ
+https://25023.live.streamtheworld.com/KKJZFMAAC.aac
+#EXTINF:0,HD2 88.1 KKJZ
+https://1.ice1.sslstream.com/kkjz_hd.aac?rnd=500
+#EXTINF:0,HD3 88.1 KKJZ
+http://16603.live.streamtheworld.com/22WESTFMAAC.aac
+#EXTINF:0,HD 88.5 KCSN
+https://stream2.thesocalsound.org/1
+#EXTINF:0,HD2 88.5 KCSN
+http://radio.saddleback.edu:8080/stream
+#EXTINF:0,HD3 88.5 KCSN
+https://stream.885fm.org/latinalt/stream.mp3
+#EXTINF:0,FM 88.9 KXLU
+http://kxlu.streamguys1.com/kxlu-hi
+#EXTINF:0,HD 89.3 KPCC
+http://live.wostreaming.net/direct/southerncalipr-kpccfmmp3-imc.mp3
+#EXTINF:0,HD2 89.3 KPCC
+https://current.stream.publicradio.org/current.mp3
+#EXTINF:0,HD 89.9 KRCW
+https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
+#EXTINF:0,HD2 89.9 KRCW
+https://kcrw.streamguys1.com/kcrw_192k_mp3_e24
+#EXTINF:0,FM 90.3 KMRO
+https://ice10.securenetsystems.net/KMRO
+#EXTINF:0,FM 90.7 KPFK
+https://ic1.sslstream.com/kpfk-fm.mp3
+#EXTINF:0,FM 91.5 KUSC
+http://128.mp3.kusc.live/
+#EXTINF:0,HD 92.3 KRRL
+https://ample.revma.ihrhls.com/zc181
+#EXTINF:0,HD2 92.3 KRRL
+https://ample.revma.ihrhls.com/zc8666
+#EXTINF:0,HD 92.7 KYLA
+https://maestro.emfcdn.com/stream_for/air1/web/aac
+#EXTINF:0,HD2 92.7 KYLA
+https://maestro.emfcdn.com/stream_for/k-love/web/aac?hd2
+#EXTINF:0,HD3 92.7 KYLA
+https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac
+#EXTINF:0,HD 93.1 KCBS-FM
+https://live.amperwave.net/manifest/audacy-kcbsfmaac-imc?apv=a2&source=webA2
+#EXTINF:0,HD2 93.1 KCBS-HD2
+https://live.amperwave.net/manifest/audacy-kfrgfmaac-imc?apv=a2&source=webA2&kcbs-fm
+#EXTINF:0,HD3 93.1 KCBS-HD3
+https://entercom-sgrewind.streamguys1.com/entercom/3702/playlist_dvr_range-1671826651-now.m3u8
+#EXTINF:0,FM 93.5 KDAY
+https://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC
+#EXTINF:0,FM 93.9 KLLI
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLLIFMAAC
+#EXTINF:0,HD 94.7 KTWV
+https://live.amperwave.net/manifest/audacy-ktwvfmaac-imc?apv=a2&source=webA2
+#EXTINF:0,HD2 94.7 KTWV
+https://live.amperwave.net/manifest/audacy-ktwvhd2aac-imc?apv=a2&source=webA2
+#EXTINF:0,HD3 94.7 KTWV
+http://stream.radiohamrah.com/RadioHamrahMP3
+#EXTINF:0,HD 95.1 KFRG
+https://live.amperwave.net/manifest/audacy-kfrgfmaac-imc?apv=a2&source=webA2
+#EXTINF:0,HD2 95.1 KFRG
+https://live.amperwave.net/manifest/audacy-kxfghd2aac-imc?apv=a2&source=webA2
+#EXTINF:0,HD 95.5 KLOS
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSFMAAC
+#EXTINF:0,HD2 95.5 KLOS
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSHD2AAC
+#EXTINF:0,HD3 95.5 KLOS
+https://ice5.securenetsystems.net/KIRNHD
+#EXTINF:0,FM 95.9 KFSH-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KFSHFMAAC_SC
+FM 96.3 KXOL-FM
+https://liveaudio.lamusica.com/LA_KXOL_icy
+#EXTINF:0,HD 97.1 KNX-FM
+https://entercom-sgrewind.streamguys1.com/entercom/555/playlist_dvr_range-1671828067-now.m3u8?knx-fm
+#EXTINF:0,HD2 97.1 KNX-HD2
+https://live.amperwave.net/manifest/audacy-knxhd2aac-imc?apv=a2&source=webA2
+#EXTINF:0,HD3 97.1 KNX-HD3
+https://live.amperwave.net/manifest/audacy-knxhd3aac-imc?apv=a2&source=webA2
+#EXTINF:0,FM 97.5 KLYY
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLYYFMAAC
+#EXTINF:0,FM 97.9 KLAX-FM
+https://liveaudio.lamusica.com/LA_KLAX_icy
+#EXTINF:0,FM 98.3 KRCV
+https://live.wostreaming.net/manifest/univision-krcdfmaac-imc2?krcv
+#EXTINF:0,HD 98.7 KYSR
+https://ample.revma.ihrhls.com/zc201
+#EXTINF:0,HD2 98.7 KYSR
+https://ample.revma.ihrhls.com/zc189?iheart
+#EXTINF:0,FM 99.5 KKLA-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKLAFMAAC_SC
+#EXTINF:0,HD 100.3 KKLQ
+https://maestro.emfcdn.com/stream_for/k-love/web/aac
+#EXTINF:0,HD2 100.3 KKLQ
+https://maestro.emfcdn.com/stream_for/air1/web/aac?hd2
+#EXTINF:0,HD 101.1 KRTH
+https://live.amperwave.net/manifest/audacy-krthaac-imc?apv=a2&source=webA2
+#EXTINF:0,HD2 101.1 KRTH
+https://entercom-sgrewind.streamguys1.com/entercom/555/playlist_dvr_range-1671828067-now.m3u8
+#EXTINF:0,HD 101.9 KSCA
+https://live.wostreaming.net/manifest/univision-kscafmaac-imc2
+#EXTINF:0,HD2 101.9 KSCA
+https://live.wostreaming.net/manifest/univision-krcdfmaac-imc2?hd2
+#EXTINF:0,FM 102.3 KJLH
+http://stream.abacast.net/direct/kjlh-kjlhfmmp3-ibc2
+#EXTINF:0,HD 102.7 KIIS-FM
+https://ample.revma.ihrhls.com/zc185
+#EXTINF:0,HD2 102.7 KIIS-HD2
+https://ample.revma.ihrhls.com/zc5953
+#EXTINF:0,FM 103.1 KDLD
+https://playerservices.streamtheworld.com/api/livestream-redirect/KDLDFMAAC
+#EXTINF:0,HD 103.5 KOST
+https://ample.revma.ihrhls.com/zc193
+#EXTINF:0,HD2 103.5 KOST
+https://ample.revma.ihrhls.com/zc177?iheart
+#EXTINF:0,HD 103.9 KRCD
+https://live.wostreaming.net/manifest/univision-krcdfmaac-imc2
+#EXTINF:0,HD2 103.9 KRCD
+https://s1.voscast.com:10601/xstream?fm
+#EXTINF:0,HD3 103.9 KRCD
+https://live.wostreaming.net/direct/univision-ktnqamaac-imc2?fm
+#EXTINF:0,HD 104.3 KBIG
+https://ample.revma.ihrhls.com/zc
+#EXTINF:0,HD2 104.3 KBIG
+https://ample.revma.ihrhls.com/zc3949
+#EXTINF:0,HD 105.9 KPWR
+https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRFMAAC
+#EXTINF:0,HD2 105.9 KPWR
+https://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC?kpwr
+#EXTINF:0,HD 106.7 KROQ-FM
+https://live.amperwave.net/manifest/audacy-kroqfmaac-imc?apv=a2&source=webA2
+#EXTINF:0,HD2 106.7 KROQ-HD2
+https://live.amperwave.net/manifest/audacy-kroqhd2aac-imc?apv=a2&source=webA2
+#EXTINF:0,FM 107.1 KSSE
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLYYFMAAC
+#EXTINF:0,HD 107.5 KLVE
+https://live.wostreaming.net/manifest/univision-klvefmaac-imc2
+#EXTINF:0,HD2 107.5 KLVE
+http://s4.voscast.com:8864/stream
+#EXTINF:0,FM 107.9 KWVE-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFM_SC
+
+
