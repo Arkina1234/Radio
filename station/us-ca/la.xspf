@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+		<track>
+			<title>AM 570 KLAC</title>
+			<location>https://ample.revma.ihrhls.com/zc189</location>
+		</track>
+		<track>
+			<title>AM 640 KFI</title>
+			<location>https://ample.revma.ihrhls.com/zc177</location>
+		</track>
+		<track>
+			<title>AM 670 KIRN</title>
+			<location>https://ice41.securenetsystems.net/KIRN</location>
+		</track>
+		<track>
+			<title>AM 710 KSPN</title>
+			<location>https://live.wostreaming.net/direct/goodkarma-kspnammp3-ibc</location>
+		</track>
+		<track>
+			<title>AM 790 KABC</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KABCAMAAC_SC</location>
+		</track>
+		<track>
+			<title>AM 830 KLAA</title>
+			<location>http://klaa.streamguys1.com/live</location>
+		</track>
+		<track>
+			<title>AM 870 KRLA</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC_SC</location>
+		</track>
+		<track>
+			<title>AM 930 KHJ</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAIN.mp3</location>
+		</track>
+		<track>
+			<title>AM 980 KFWB</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KFWBAMAAC</location>
+		</track>
+		<track>
+			<title>AM 1020 KTNQ</title>
+			<location>https://live.wostreaming.net/manifest/univision-ktnqamaac-imc2</location>
+		</track>
+		<track>
+			<title>AM 1070 KNX</title>
+			<location>https://entercom-sgrewind.streamguys1.com/entercom/555/playlist_dvr_range-1671828067-now.m3u8</location>
+		</track>
+		<track>
+			<title>AM 1110 KRDC</title>
+			<location>https://live.wostreaming.net/direct/goodkarma-kspnammp3-ibc</location>
+		</track>
+		<track>
+			<title>AM 1150 KEIB</title>
+			<location>https://ample.revma.ihrhls.com/zc197</location>
+		</track>
+		<track>
+			<title>AM 1220 KTMZ</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC</location>
+		</track>
+		<track>
+			<title>AM 1260 KMZT</title>
+			<location>https://25023.live.streamtheworld.com/KKGOHD2AAC.aac</location>
+		</track>
+		<track>
+			<title>AM 1280 KFRN</title>
+			<location>https://ais-sa3.cdnstream1.com/2641_64.aac</location>
+		</track>
+		<track>
+			<title>AM 1330 KWKW</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC</location>
+		</track>
+		<track>
+			<title>AM 1460 KYTM</title>
+			<location>https://s1.voscast.com:10601/xstream</location>
+		</track>
+		<track>
+			<title>AM 1580 KBLA</title>
+			<location>https://ice9.securenetsystems.net/KBLA</location>
+		</track>
+		<track>
+			<title>HD 88.1 KKJZ</title>
+			<location>https://25023.live.streamtheworld.com/KKJZFMAAC.aac</location>
+		</track>
+		<track>
+			<title>HD2 88.1 KKJZ</title>
+			<location>https://1.ice1.sslstream.com/kkjz_hd.aac?rnd=500</location>
+		</track>
+		<track>
+			<title>HD3 88.1 KKJZ</title>
+			<location>http://16603.live.streamtheworld.com/22WESTFMAAC.aac</location>
+		</track>
+		<track>
+			<title>HD 88.5 KCSN</title>
+			<location>https://stream2.thesocalsound.org/1</location>
+		</track>
+		<track>
+			<title>HD2 88.5 KCSN</title>
+			<location>http://radio.saddleback.edu:8080/stream</location>
+		</track>
+		<track>
+			<title>HD3 88.5 KCSN</title>
+			<location>https://stream.885fm.org/latinalt/stream.mp3</location>
+		</track>
+		<track>
+			<title>FM 88.9 KXLU</title>
+			<location>http://kxlu.streamguys1.com/kxlu-hi</location>
+		</track>
+		<track>
+			<title>HD 89.3 KPCC</title>
+			<location>http://live.wostreaming.net/direct/southerncalipr-kpccfmmp3-imc.mp3</location>
+		</track>
+		<track>
+			<title>HD2 89.3 KPCC</title>
+			<location>https://current.stream.publicradio.org/current.mp3</location>
+		</track>
+		<track>
+			<title>HD 89.9 KRCW</title>
+			<location>https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air</location>
+		</track>
+		<track>
+			<title>HD2 89.9 KRCW</title>
+			<location>https://kcrw.streamguys1.com/kcrw_192k_mp3_e24</location>
+		</track>
+		<track>
+			<title>FM 90.3 KMRO</title>
+			<location>https://ice10.securenetsystems.net/KMRO</location>
+		</track>
+		<track>
+			<title>FM 90.7 KPFK</title>
+			<location>https://ic1.sslstream.com/kpfk-fm.mp3</location>
+		</track>
+		<track>
+			<title>FM 91.5 KUSC</title>
+			<location>http://128.mp3.kusc.live/</location>
+		</track>
+		<track>
+			<title>HD 92.3 KRRL</title>
+			<location>https://ample.revma.ihrhls.com/zc181</location>
+		</track>
+		<track>
+			<title>HD2 92.3 KRRL</title>
+			<location>https://ample.revma.ihrhls.com/zc8666</location>
+		</track>
+		<track>
+			<title>HD 92.7 KYLA</title>
+			<location>https://maestro.emfcdn.com/stream_for/air1/web/aac</location>
+		</track>
+		<track>
+			<title>HD2 92.7 KYLA</title>
+			<location>https://maestro.emfcdn.com/stream_for/k-love/web/aac?hd2</location>
+		</track>
+		<track>
+			<title>HD3 92.7 KYLA</title>
+			<location>https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac</location>
+		</track>
+		<track>
+			<title>HD 93.1 KCBS-FM</title>
+			<location>https://live.amperwave.net/manifest/audacy-kcbsfmaac-imc?apv=a2&source=webA2</location>
+		</track>
+		<track>
+			<title>HD2 93.1 KCBS-HD2</title>
+			<location>https://live.amperwave.net/manifest/audacy-kfrgfmaac-imc?apv=a2&source=webA2&kcbs-fm</location>
+		</track>
+		<track>
+			<title>HD3 93.1 KCBS-HD3</title>
+			<location>https://entercom-sgrewind.streamguys1.com/entercom/3702/playlist_dvr_range-1671826651-now.m3u8</location>
+		</track>
+		<track>
+			<title>FM 93.5 KDAY</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC</location>
+		</track>
+		<track>
+			<title>FM 93.9 KLLI</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KLLIFMAAC</location>
+		</track>
+		<track>
+			<title>HD 94.7 KTWV</title>
+			<location>https://live.amperwave.net/manifest/audacy-ktwvfmaac-imc?apv=a2&source=webA2</location>
+		</track>
+		<track>
+			<title>HD2 94.7 KTWV</title>
+			<location>https://live.amperwave.net/manifest/audacy-ktwvhd2aac-imc?apv=a2&source=webA2</location>
+		</track>
+		<track>
+			<title>HD3 94.7 KTWV</title>
+			<location>http://stream.radiohamrah.com/RadioHamrahMP3</location>
+		</track>
+		<track>
+			<title>HD 95.1 KFRG</title>
+			<location>https://live.amperwave.net/manifest/audacy-kfrgfmaac-imc?apv=a2&source=webA2</location>
+		</track>
+		<track>
+			<title>HD2 95.1 KFRG</title>
+			<location>https://live.amperwave.net/manifest/audacy-kxfghd2aac-imc?apv=a2&source=webA2</location>
+		</track>
+		<track>
+			<title>HD 95.5 KLOS</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSFMAAC</location>
+		</track>
+		<track>
+			<title>HD2 95.5 KLOS</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSHD2AAC</location>
+		</track>
+		<track>
+			<title>HD3 95.5 KLOS</title>
+			<location>https://ice5.securenetsystems.net/KIRNHD</location>
+		</track>
+		<track>
+			<title>FM 95.9 KFSH-FM</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KFSHFMAAC_SC</location>
+		</track>
+		<track>
+			<title>FM 96.3 KXOL-FM</title>
+			<location>https://liveaudio.lamusica.com/LA_KXOL_icy</location>
+		</track>
+		<track>
+			<title>HD 97.1 KNX-FM</title>
+			<location>https://entercom-sgrewind.streamguys1.com/entercom/555/playlist_dvr_range-1671828067-now.m3u8?knx-fm</location>
+		</track>
+		<track>
+			<title>HD2 97.1 KNX-HD2</title>
+			<location>https://live.amperwave.net/manifest/audacy-knxhd2aac-imc?apv=a2&source=webA2</location>
+		</track>
+		<track>
+			<title>HD3 97.1 KNX-HD3</title>
+			<location>https://live.amperwave.net/manifest/audacy-knxhd3aac-imc?apv=a2&source=webA2</location>
+		</track>
+		<track>
+			<title>FM 97.5 KLYY</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KLYYFMAAC</location>
+		</track>
+		<track>
+			<title>FM 97.9 KLAX-FM</title>
+			<location>https://liveaudio.lamusica.com/LA_KLAX_icy</location>
+		</track>
+		<track>
+			<title>FM 98.3 KRCV</title>
+			<location>https://live.wostreaming.net/manifest/univision-krcdfmaac-imc2?krcv</location>
+		</track>
+		<track>
+			<title>HD 98.7 KYSR</title>
+			<location>https://ample.revma.ihrhls.com/zc201</location>
+		</track>
+		<track>
+			<title>HD2 98.7 KYSR</title>
+			<location>https://ample.revma.ihrhls.com/zc189?iheart</location>
+		</track>
+		<track>
+			<title>FM 99.5 KKLA-FM</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KKLAFMAAC_SC</location>
+		</track>
+		<track>
+			<title>HD 100.3 KKLQ</title>
+			<location>https://maestro.emfcdn.com/stream_for/k-love/web/aac</location>
+		</track>
+		<track>
+			<title>HD2 100.3 KKLQ</title>
+			<location>https://maestro.emfcdn.com/stream_for/air1/web/aac?hd2</location>
+		</track>
+		<track>
+			<title>HD 101.1 KRTH</title>
+			<location>https://live.amperwave.net/manifest/audacy-krthaac-imc?apv=a2&source=webA2</location>
+		</track>
+		<track>
+			<title>HD2 101.1 KRTH</title>
+			<location>https://entercom-sgrewind.streamguys1.com/entercom/555/playlist_dvr_range-1671828067-now.m3u8</location>
+		</track>
+		<track>
+			<title>HD 101.9 KSCA</title>
+			<location>https://live.wostreaming.net/manifest/univision-kscafmaac-imc2</location>
+		</track>
+		<track>
+			<title>HD2 101.9 KSCA</title>
+			<location>https://live.wostreaming.net/manifest/univision-krcdfmaac-imc2?hd2</location>
+		</track>
+		<track>
+			<title>FM 102.3 KJLH</title>
+			<location>http://stream.abacast.net/direct/kjlh-kjlhfmmp3-ibc2</location>
+		</track>
+		<track>
+			<title>HD 102.7 KIIS-FM</title>
+			<location>https://ample.revma.ihrhls.com/zc185</location>
+		</track>
+		<track>
+			<title>HD2 102.7 KIIS-HD2</title>
+			<location>https://ample.revma.ihrhls.com/zc5953</location>
+		</track>
+		<track>
+			<title>FM 103.1 KDLD</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KDLDFMAAC</location>
+		</track>
+		<track>
+			<title>HD 103.5 KOST</title>
+			<location>https://ample.revma.ihrhls.com/zc193</location>
+		</track>
+		<track>
+			<title>HD2 103.5 KOST</title>
+			<location>https://ample.revma.ihrhls.com/zc177?iheart</location>
+		</track>
+		<track>
+			<title>HD 103.9 KRCD</title>
+			<location>https://live.wostreaming.net/manifest/univision-krcdfmaac-imc2</location>
+		</track>
+		<track>
+			<title>HD2 103.9 KRCD</title>
+			<location>https://s1.voscast.com:10601/xstream?fm</location>
+		</track>
+		<track>
+			<title>HD3 103.9 KRCD</title>
+			<location>https://live.wostreaming.net/direct/univision-ktnqamaac-imc2?fm</location>
+		</track>
+		<track>
+			<title>HD 104.3 KBIG</title>
+			<location>https://ample.revma.ihrhls.com/zc</location>
+		</track>
+		<track>
+			<title>HD2 104.3 KBIG</title>
+			<location>https://ample.revma.ihrhls.com/zc3949</location>
+		</track>
+		<track>
+			<title>HD 105.9 KPWR</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRFMAAC</location>
+		</track>
+		<track>
+			<title>HD2 105.9 KPWR</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC?kpwr</location>
+		</track>
+		<track>
+			<title>HD 106.7 KROQ-FM</title>
+			<location>https://live.amperwave.net/manifest/audacy-kroqfmaac-imc?apv=a2&source=webA2</location>
+		</track>
+		<track>
+			<title>HD2 106.7 KROQ-HD2</title>
+			<location>https://live.amperwave.net/manifest/audacy-kroqhd2aac-imc?apv=a2&source=webA2</location>
+		</track>
+		<track>
+			<title>FM 107.1 KSSE</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KLYYFMAAC</location>
+		</track>
+		<track>
+			<title>HD 107.5 KLVE</title>
+			<location>https://live.wostreaming.net/manifest/univision-klvefmaac-imc2</location>
+		</track>
+		<track>
+			<title>HD2 107.5 KLVE</title>
+			<location>http://s4.voscast.com:8864/stream</location>
+		</track>
+		<track>
+			<title>FM 107.9 KWVE-FM</title>
+			<location>https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFM_SC</location>
+		</track>
+	</trackList>
+</playlist>
