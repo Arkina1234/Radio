@@ -1,0 +1,16 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5145"/>
+		<meta name="AverageRating" content="0"/>
+		<meta name="TotalDuration" content="0"/>
+		<meta name="ItemCount" content="1"/>
+		<author/>
+		<title>104.3 JACK FM</title>
+	</head>
+	<body>
+		<seq>
+			<media src="https://ice24.securenetsystems.net/KCC"/>
+		</seq>
+	</body>
+</smil>
