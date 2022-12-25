@@ -97,8 +97,6 @@ https://kut.streamguys1.com/kut-free
 https://kut.streamguys1.com/kuthd2-free
 #EXTINF:-1,KUTX 98.9
 https://kut.streamguys1.com/kutx-free
-#EXTINF:-1,KUTX HD2
-https://kut.streamguys1.com/amx-free
 #EXTINF:-1,KXT 91.7
 https://kera.streamguys1.com/kxtlive128
 #EXTINF:-1,Milwaukee's NPR
@@ -199,6 +197,8 @@ http://vpr.streamguys.net/vpr64.mp3
 http://vprclassical.streamguys.net/vprclassical64.mp3
 
 # Internet Only
+#EXTINF:-1,Austin Music Experience
+https://kut.streamguys1.com/amx-free
 #EXTINF:-1,The Cleveland Sight Center Network
 http://audio1.ideastream.org/CSCN.mp3
 #EXTINF:-1,KPBS Radio Reading Service
