@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Illinois: APRIS
+https://wvik.streamguys1.com/apris.mp3
+#EXTINF:-1,Illinois: CRIS Radio
+http://chicagolighthouse.streamguys1.com/Live
+#EXTINF:-1,Illinois: Illinois Radio Reader
+https://icecast.will.illinois.edu/WILL-IRR
+#EXTINF:-1,Illinois: NIRIS
+https://peace.streamguys1.com:6845/niris_live_96k
+#EXTINF:-1,Illinois: SIRIS
+https://peridot.streamguys1.com:5235/wsiu-siris
+#EXTINF:-1,Illinois: Tri-States Audio Information Services
+http://ais.wiu.edu:8100/;stream.mp3
+#EXTINF:-1,Indiana: ACPL Audio Reading Service
+https://securestreams2.autopo.st:1069/ACPLARS
+#EXTINF:-1,Indiana: WNIN Radio Reading Service
+https://wnin.streamguys1.com/radioreading
+#EXTINF:-1,Massachusetts: TIC Network
+https://stream.zeno.fm/wk3xq9b015quv
+#EXTINF:-1,Massachusetts: Valley Eye Radio
+http://valleyeyeradio.streamguys1.com/live
+#EXTINF:-1,Michigan: WKAR Radio Reading Service
+https://wkar.streamguys1.com/wkarrrs-web?uuid=2z2b2jf8c
+#EXTINF:-1,Michigan: Detroit Radio Information Service (DRIS)
+http://wdet.streamguys1.com/dris
+#EXTINF:-1,New York: Niagara Frontier Radio Reading Service
+http://nfrrs.streamguys1.com/live
+#EXTINF:-1,Ohio: CSCN Radio Network
+http://audio1.ideastream.org/CSCN
+#EXTINF:-1,Ohio: Voicecorps
+http://online.voicecorps.org:8000/xstream
+#EXTINF:-1,Pennsylvania: Goodwill Youngstown Radio Reading Service
+https://ice23.securenetsystems.net/YRRS
+#EXTINF:-1,Rhode Island: INSIGHT Radio
+http://in-sight.streamguys1.com/live-mp3
+#EXTINF:-1,Wisconsin: Gateway Radio Reading Service (GRRS)
+http://stream.wgtd.org:8000/grrs
