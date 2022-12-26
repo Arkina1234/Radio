@@ -10,21 +10,21 @@ http://tstv-stream.tsm.utexas.edu:8000/kvrx_livestream
 #EXTINF:-1,FM 92.5 KVLR
 https://maestro.emfcdn.com/stream_for/air1/web/aac
 #EXTINF:-1,HD 93.3-1 KGSR
-https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC
 #EXTINF:-1,HD 93.3-2 KGSR
-https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD2_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD2AAC_SC
 #EXTINF:-1,HD 93.3-3 KGSR
-https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD3_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD3AAC_SC
 #EXTINF:-1,HD 93.7-1 KLBJ
-https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJFMAAC_SC
 #EXTINF:-1,HD 93.7-2 KLBJ
-https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJHD2_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJHD2AAC_SC
 #EXTINF:-1,FM 98.9 KUTX
 https://kut.streamguys1.com/kutx-free
 #EXTINF:-1,HD 103.5-1 KBPA
-https://playerservices.streamtheworld.com/api/livestream-redirect/KBPAFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KBPAFMAAC_SC
 #EXTINF:-1,HD 103.5-2 KBPA
-https://playerservices.streamtheworld.com/api/livestream-redirect/KBPAHD2_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KBPAHD2AAC_SC
 #EXTINF:-1,HD 104.9-1 KTXX-FM
 https://arn.leanstream.co/KTXXFM-MP3
 #EXTINF:-1,HD 104.9-3 KTXX-HD3
@@ -36,6 +36,6 @@ https://maestro.emfcdn.com/stream_for/k-love/web/aac
 #EXTINF:-1,HD 105.9-2 KFMK
 https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac
 #EXTINF:-1,HD 107.1-1 KLZT
-https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTFMAAC_SC
 #EXTINF:-1,HD 107.1-3 KLZT
 https://ice10.securenetsystems.net/SUNRADIO
