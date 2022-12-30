@@ -8,7 +8,7 @@ https://live.wostreaming.net/manifest/townsquare-wobmammp3-ibc3
 #EXTINF:-1,AM 1260 WFJS
 https://ic1.sslstream.com/dcm-ir
 #EXTINF:-1,AM 1450 WCTC
-https://playerservices.streamtheworld.com/api/livestream-redirect/WCTCAM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCTCAM.mp3
 #EXTINF:-1,FM 89.1 WWFM
 https://wwfm.streamguys1.com/live
 #EXTINF:-1,FM 89.1 WWFM-HD2
@@ -24,13 +24,13 @@ https://live.wostreaming.net/manifest/townsquare-wjlkfmmp3-ibc3
 #EXTINF:-1,FM 94.5 WPST
 https://live.wostreaming.net/manifest/townsquare-wpstfmmp3-ibc3
 #EXTINF:-1,FM 95.9 WRAT
-https://playerservices.streamtheworld.com/api/livestream-redirect/WRATFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRATFM.mp3
 #EXTINF:-1,FM 98.3 WMGQ
-https://playerservices.streamtheworld.com/api/livestream-redirect/WMGQFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMGQFM.mp3
 #EXTINF:-1,FM 98.5 WBBO
 https://live.wostreaming.net/manifest/press-wbbofmmp3-ibc1
 #EXTINF:-1,FM 100.1 WJRZ
-https://playerservices.streamtheworld.com/api/livestream-redirect/WJRZFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WJRZFM.mp3
 #EXTINF:-1,FM 101.5 WKXW
 https://live.wostreaming.net/manifest/townsquare-wkxwfmmp3-ibc3
 #EXTINF:-1,FM 105.7 WCHR-FM
