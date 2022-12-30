@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1,AM 920 WNJE
-https://prod-54-197-149-68.wostreaming.net/townsquare-wnjeammp3-ibc3
+https://live.wostreaming.net/manifest/townsquare-wnjeammp3-ibc3
 #EXTINF:-1,AM 1040 WCHR
-https://prod-54-235-228-83.wostreaming.net/townsquare-wchrammp3-ibc3
+https://live.wostreaming.net/manifest/townsquare-wchrammp3-ibc3
 #EXTINF:-1,AM 1160 WOBM
-https://prod-54-235-228-83.wostreaming.net/townsquare-wobmammp3-ibc3
+https://live.wostreaming.net/manifest/townsquare-wobmammp3-ibc3
 #EXTINF:-1,AM 1260 WFJS
 https://ic1.sslstream.com/dcm-ir
 #EXTINF:-1,AM 1450 WCTC
-https://17633.live.streamtheworld.com/WCTCAM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCTCAM_SC
 #EXTINF:-1,FM 89.1 WWFM
 https://wwfm.streamguys1.com/live
 #EXTINF:-1,FM 89.1 WWFM-HD2
@@ -18,24 +18,24 @@ https://ice8.securenetsystems.net/VIKING89
 #EXTINF:-1,FM 91.3 WTSR
 https://www.streamcontrol.net:8444/s/13090
 #EXTINF:-1,FM 92.7 WOBM-FM
-https://prod-54-235-228-83.wostreaming.net/townsquare-wobmfmmp3-ibc3
+https://live.wostreaming.net/manifest/townsquare-wobmfmmp3-ibc3
 #EXTINF:-1,FM 94.3 WJLK
-https://prod-54-235-228-83.wostreaming.net/townsquare-wjlkfmmp3-ibc3
+https://live.wostreaming.net/manifest/townsquare-wjlkfmmp3-ibc3
 #EXTINF:-1,FM 94.5 WPST
-https://prod-54-197-149-68.wostreaming.net/townsquare-wpstfmmp3-ibc3
+https://live.wostreaming.net/manifest/townsquare-wpstfmmp3-ibc3
 #EXTINF:-1,FM 95.9 WRAT
-https://17633.live.streamtheworld.com/WRATFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRATFM_SC
 #EXTINF:-1,FM 98.3 WMGQ
-https://17633.live.streamtheworld.com:443/WMGQFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMGQFM_SC
 #EXTINF:-1,FM 98.5 WBBO
-https://prod-34-229-247-63.wostreaming.net/press-wbbofmmp3-ibc1
+https://live.wostreaming.net/manifest/press-wbbofmmp3-ibc1
 #EXTINF:-1,FM 100.1 WJRZ
-https://17633.live.streamtheworld.com:443/WJRZFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WJRZFM_SC
 #EXTINF:-1,FM 101.5 WKXW
-https://prod-34-239-134-247.wostreaming.net/townsquare-wkxwfmmp3-ibc3
+https://live.wostreaming.net/manifest/townsquare-wkxwfmmp3-ibc3
 #EXTINF:-1,FM 105.7 WCHR-FM
-https://prod-54-235-228-83.wostreaming.net/townsquare-wchrfmmp3-ibc3
+https://live.wostreaming.net/manifest/townsquare-wchrfmmp3-ibc3
 #EXTINF:-1,FM 106.3 WKMK
-https://prod-34-229-247-63.wostreaming.net/press-wkmkfmmp3-ibc1
+https://live.wostreaming.net/manifest/press-wkmkfmmp3-ibc1
 #EXTINF:-1,FM 107.1 WWZY
-https://prod-34-229-247-63.wostreaming.net/press-wwzyfmmp3-ibc1
+https://live.wostreaming.net/manifest/press-wwzyfmmp3-ibc1
