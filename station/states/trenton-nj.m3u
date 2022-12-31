@@ -7,6 +7,8 @@ https://live.wostreaming.net/manifest/townsquare-wchrammp3-ibc3
 https://live.wostreaming.net/manifest/townsquare-wobmammp3-ibc3
 #EXTINF:-1,AM 1260 WFJS
 https://ic1.sslstream.com/dcm-ir
+#EXTINF:-1,AM 1410 WHTG
+https://live.wostreaming.net/manifest/press-whtgammp3-ibc
 #EXTINF:-1,AM 1450 WCTC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCTCAM.mp3
 #EXTINF:-1,FM 89.1 WWFM
