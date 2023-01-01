@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,CKUA Radio Network
+https://ais-sa1.streamon.fm/7000_48k.aac
+#EXTINF:-1,CiTR and Discorder
+https://live.citr.ca/live.aac
+#EXTINF:-1,CIUT-FM
+http://128.100.197.46/;stream.aac
+#EXTINF:-1,CISM 89,3 FM
+https://stream03.ustream.ca/cism128.mp3
