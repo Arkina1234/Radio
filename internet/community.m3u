@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Radio Jeunesse
+http://icecast.radiojeunesse.ca:8000/cjeu
+#EXTINF:-1,94,5 Unique FM
+https://stream2.statsradio.com:8038/stream
+#EXTINF:-1,CIBL 101.5
+http://stream02.ustream.ca/cibl128.mp3
