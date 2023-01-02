@@ -21,8 +21,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WFOMAM_SC
 https://crystalout.surfernetwork.com:8001/WCHK-AM_MP3
 #EXTINF:-1,AM 1310 WJZA
 https://crystalout.surfernetwork.com:8001/WJZA-AM_MP3
-#EXTINF:-1,AM 1400 WLTA
-https://playerservices.streamtheworld.com/api/livestream-redirect/WNIVAM_SC?am14
 #EXTINF:-1,AM 1420 WWSZ
 http://104.6.216.93:8000/Streetz
 #EXTINF:-1,AM 1430 WYKG
@@ -36,15 +34,15 @@ https://us2.maindigitalstream.com/ssl/WMLB
 #EXTINF:-1,HD 88.5-1 WRAS
 http://gpb-geo.streamguys1.com/gpb/gpb-atlanta-mp3
 #EXTINF:-1,HD 88.5-2 WRAS
-https://playerservices.streamtheworld.com/api/livestream-redirect/WRASFM_SC?hd2
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRASFM_SC
 #EXTINF:-1,FM 89.3 WRFG
 https://s2.radio.co/s2133c4bad/listen
 #EXTINF:-1,HD 90.1-1 WABE
 https://playerservices.streamtheworld.com/api/livestream-redirect/WABEFM_HD1.mp3
 #EXTINF:-1,HD 90.1-2 WABE
-https://playerservices.streamtheworld.com/api/livestream-redirect/WABEFM_HD2.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WABE_HD2_CLASSICAL.mp3
 #EXTINF:-1,HD 90.1-3 WABE
-https://playerservices.streamtheworld.com/api/livestream-redirect/WABEFM_HD3.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WABE_HD3_NEWS.mp3
 #EXTINF:-1,FM 91.5 WWEV-FM
 http://5e5ec7a8b11e5.streamlock.net:1935/victory/victory/playlist.m3u8
 #EXTINF:-1,FM 91.7 WCCV
@@ -54,72 +52,38 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WCLKFM_SC
 #EXTINF:-1,HD 91.9-2 WCLK
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCLKHD2_SC
 #EXTINF:-1,HD 93.3-1 WVFJ-FM
-https://rtn.cdnstream1.com/2576_96.aac?rand=82819
+https://rtn.cdnstream1.com/2576_96.aac
 #EXTINF:-1,HD 93.3-2 WVFJ-HD2
-https://rtn.cdnstream1.com/2581_96.aac?rand=11465
+https://rtn.cdnstream1.com/2581_96.aac
 #EXTINF:-1,HD 93.3-3 WVFJ-HD3
-https://rtn.cdnstream1.com/2582_96.aac?rand=99792
-#EXTINF:-1,FM 93.7 W229AG
-http://stream.zeno.fm/q9458433dm8uv
-#EXTINF:-1,FM 94.5 W233BF
-http://104.6.216.93:8000/Streetz?945
-#EXTINF:-1,FM 95.5 WSBB-FM
-https://ad-oom-cmg.streamguys1.com/atl750/atl750-sgplayer-mp3?wsbb
-#EXTINF:-1,FM 96.5 W243CE
-https://crystalout.surfernetwork.com:8001/WCHK-AM_MP3?965
+https://rtn.cdnstream1.com/2582_96.aac
 #EXTINF:-1,HD 97.1-1 WSRV
 https://cmg.streamguys1.com/atl971/atl971-sgplayer-mp3
-#EXTINF:-1,FM 97.5 WUMJ
-https://playerservices.streamtheworld.com/api/livestream-redirect/WAMJFM_SC?wumj
-#EXTINF:-1,FM 97.9 W250BC
-https://playerservices.streamtheworld.com/api/livestream-redirect/WWWQH3_SC?979
 #EXTINF:-1,HD 98.5-1 WSB-FM
 https://cmg.streamguys1.com/atl985/atl985-sgplayer-mp3
-#EXTINF:-1,FM 98.9 W255CJ
-https://playerservices.streamtheworld.com/api/livestream-redirect/WWWQH2_SC?989
 #EXTINF:-1,HD 99.3 WCON-FM
 https://ice10.securenetsystems.net/WCON
-#EXTINF:-1,HD 99.3 WCON-HD2
-https://rtn.cdnstream1.com/2576_96.aac?rand=59274
 #EXTINF:-1,HD 99.7 WWWQ-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WWWQFM_SC
 #EXTINF:-1,HD 99.7 WWWQ-HD2
 https://playerservices.streamtheworld.com/api/livestream-redirect/WWWQH2_SC
 #EXTINF:-1,HD 99.7 WWWQ-HD3
 https://playerservices.streamtheworld.com/api/livestream-redirect/WWWQH3_SC
-#EXTINF:-1,FM 100.1 WNSY
-https://crystalout.surfernetwork.com:8001/WJZA-AM_MP3?wnsy
 #EXTINF:-1,FM 100.3 W262CD
 https://ice42.securenetsystems.net/WBHF
-#EXTINF:-1,FM 100.5 WNNX
-https://playerservices.streamtheworld.com/api/livestream-redirect/WWWQH2_SC?wnnx
 #EXTINF:-1,HD 101.5-1 WKHX-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WKHXFM_SC
 #EXTINF:-1,HD 102.3-1 WLKQ-FM
 https://crystalout.surfernetwork.com:8001/WLKQ-FM_MP3
-#EXTINF:-1,HD 102.3-2 WLKQ-HD2
-https://rtn.cdnstream1.com/2576_96.aac?rand=48662
 #EXTINF:-1,FM 102.5 WPZE
 https://playerservices.streamtheworld.com/api/livestream-redirect/WPZEFM_SC
 #EXTINF:-1,FM 104.1 WALR-FM
 https://cmg.streamguys1.com/atl1041/atl1041-sgplayer-mp3
 #EXTINF:-1,HD 104.7-1 WFSH-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFSHFM_SC
-#EXTINF:-1,HD 104.7-2 WFSH-HD2
-https://playerservices.streamtheworld.com/api/livestream-redirect/WNIVAM_SC?hd2
-#EXTINF:-1,HD 104.7-3 WFSH-HD3
-https://playerservices.streamtheworld.com/api/livestream-redirect/WGKAAM_SC?hd3
-#EXTINF:-1,FM 105.5 W288DX
-http://cast5.servcast.net:4299/;stream.mp3?1055
-#EXTINF:-1,FM 106.3 W292EV
-https://playerservices.streamtheworld.com/api/livestream-redirect/WFOMAM_SC?1063
-#EXTINF:-1,FM 107.1 WTSH-FM
-https://crystalout.surfernetwork.com:8001/WLKQ-FM_MP3?wtsh
 #EXTINF:-1,HD 107.5-1 WAMJ
 https://playerservices.streamtheworld.com/api/livestream-redirect/WAMJFM_SC
 #EXTINF:-1,HD 107.5-2 WAMJ
 https://playerservices.streamtheworld.com/api/livestream-redirect/WAMJHD2_SC
-#EXTINF:-1,FM 107.7 W299AT
-https://ice41.securenetsystems.net/WCONAM?1077
 #EXTINF:-1,FM 107.9 WHTA
 https://playerservices.streamtheworld.com/api/livestream-redirect/WHTAFM_SC
