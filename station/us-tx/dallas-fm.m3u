@@ -1,27 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="203" group-title="FM" radio="true",88.5 KEOM
+AM 620 KTNO
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAM_SC
+AM 660 KSKY
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAM_SC
+AM 700 KHSE
+IF 14.300
+http://66.169.167.47/broadwave.mp3?src=1&rate=1&ref=
+#EXTINF:-1,88.5 KEOM
 https://live.wostreaming.net/manifest/mesquite-keomfmaac-hlsc4
-#EXTINF:-1 tvg-chno="205" group-title="FM" radio="true",89.3 KNON
+FM 89.3 KNON
 https://cupcake.citrus3.com:2020//public/knonnow
-#EXTINF:-1 tvg-chno="211" group-title="FM" radio="true",90.1 KERA
+FM 90.1 KERA
 https://kera.streamguys1.com/keralive
-#EXTINF:-1 tvg-chno="219" group-title="FM" radio="true",91.7 KKXT
+FM 91.3 KDKR
+http://live.kdkr.org:8000/kdkr
+FM 91.7 KKXT
 https://kera.streamguys1.com/kxtlive128
-#EXTINF:-1 tvg-chno="227" group-title="FM" radio="true",93.3 KLIF-FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFFMAAC_SC
-#EXTINF:-1 tvg-chno="233" group-title="FM" radio="true",94.5 KZMJ
+FM 92.1 KTFW-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTFWFMAAC_SC
+FM 93.7 KNOR
+https://playerservices.streamtheworld.com/api/livestream-redirect/KNORFMAAC_SC
+HD 94.5-1 KZMJ
 https://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFMAAC_SC
-#EXTINF:-1 tvg-chno="242" group-title="FM" radio="true",96.3 KSCS
-https://playerservices.streamtheworld.com/api/livestream-redirect/KSCSFMAAC_SC
-#EXTINF:-1 tvg-chno="250" group-title="FM" radio="true",97.9 KBFB
+HD 94.9-1 KLTY
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLTYFMAAC_SC
+HD 94.9-2 KLTY
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLTYHD2AAC_SC
+FM 95.9 KFWR
+https://playerservices.streamtheworld.com/api/livestream-redirect/KFWRFMAAC_SC
+HD 97.9-1 KBFB
 https://playerservices.streamtheworld.com/api/livestream-redirect/KBFBFMAAC_SC
-#EXTINF:-1 tvg-chno="250" group-title="HD" radio="true",97.9 KBFB-HD2
-https://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFMAAC_SC?hd2
-#EXTINF:-1 tvg-chno="250" group-title="HD" radio="true",97.9 KBFB-HD3
+HD 97.9-3 KBFB-HD3
 https://strm.dal.s02.oneofthebest.org/radio/8060/radio.mp3
-#EXTINF:-1 tvg-chno="258" group-title="FM" radio="true",99.5 KPLX
-https://playerservices.streamtheworld.com/api/livestream-redirect/KPLXFMAAC_SC
-#EXTINF:-1 tvg-chno="258" group-title="HD" radio="true",99.5 KPLX-HD2
-https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC_SC
-#EXTINF:-1 tvg-chno="266" group-title="FM" radio="true",101.1 WRR
+FM 98.3 KBOC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KBOCFMAAC_SC
+FM 100.7 KWRD-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KWRDFMAAC_SC
+FM 101.1 WRR
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRRFM_SC
+HD 104.9 KZMP-FM
+https://funasia.streamguys1.com/live-1
+HD 104.9 KZMP-HD2
+live12
+HD 104.9 KZMP-HD3
+bigdallas
+HD 104.9 KZMP-HD4
+https://radiosurabhi.streamguys1.com//live1
+FM 106.7 KZZA
+https://playerservices.streamtheworld.com/api/livestream-redirect/KZZAFMAAC_SC
+IF 162.55
