@@ -31,7 +31,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJHD2AAC_SC
 https://kut.streamguys1.com/kutx-free
 #EXTINF:-1,FM 99.3 KOKE-FM
 https://arn.leanplayer.co/KOKEFM-MP3
-LPFM 101.9 KFGG-LP
+#EXTINF:-1,LPFM 101.9 KFGG-LP
 https://ic1.christiannetcast.com/kfgg-lp
 #EXTINF:-1,HD 103.5-1 KBPA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KBPAFMAAC_SC
