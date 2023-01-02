@@ -4,7 +4,21 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAM_SC
 AM 660 KSKY
 https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAM_SC
 AM 700 KHSE
-IF 14.300
+https://stream.voxx.pro/radio/8260/radio.mp3
+AM 730 KKDA
+http://198.7.59.28:10095/stream
+AM 910 KATH
+
+AM 1340 KAND
+AM 1390 KBEC
+AM 1410 KNTX
+
+AM 1460 KCLE
+AM 1510 KWJB
+AM 1580 KGAF
+AM 1600 KRVA
+AM 1700 KKLF
+IF 14.300 W5CGC
 http://66.169.167.47/broadwave.mp3?src=1&rate=1&ref=
 #EXTINF:-1,88.5 KEOM
 https://live.wostreaming.net/manifest/mesquite-keomfmaac-hlsc4
@@ -45,7 +59,9 @@ live12
 HD 104.9 KZMP-HD3
 bigdallas
 HD 104.9 KZMP-HD4
-https://radiosurabhi.streamguys1.com//live1
+https://radiosurabhi.streamguys1.com/live1
 FM 106.7 KZZA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KZZAFMAAC_SC
-IF 162.55
+FM 106.9 KRVF
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRVFFMAAC_SC
+WX 162.55
