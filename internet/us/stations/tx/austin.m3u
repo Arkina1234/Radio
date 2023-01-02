@@ -3,8 +3,12 @@
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJAM_SC
 #EXTINF:-1,AM 1060 KTSN
 https://ice10.securenetsystems.net/SUNRADIO
+#EXTINF:-1,AM 1120 KTXW
+https://ic2.sslstream.com/ktxw-am
 #EXTINF:-1,AM 1490 KJFK
 https://ice8.securenetsystems.net/1490
+#EXTINF:-1,AM 1530 KZNX
+https://stream.zeno.fm/hp731cepeg8uv.mp3
 #EXTINF:-1,FM 89.5 KMFA
 https://kmfa.streamguys1.com/KMFA-mp3
 #EXTINF:-1,HD 90.5-1 KUT
