@@ -10,21 +10,23 @@ http://198.7.59.28:10095/stream
 AM 910 KATH
 http://grn-stream-01.miriamtech.net:8000/KATH910AM.mp3
 AM 1340 KAND
-
+http://s1.voscast.com:9080/
 AM 1390 KBEC
-
+http://streamer.ectisp.net:8000/kbec.mp3
 AM 1410 KNTX
-
+http://crystalout.surfernetwork.com:8001/KNTX_MP3
 AM 1460 KCLE
-
+http://stream-57.zeno.fm/fmarzyqmq0hvv
+AM 1480 KNGO
+http://hls.vietradio.com/live/VietRADIO/icecast.audio
 AM 1510 KWJB
-
+http://war.str3am.com:8610/kwjb-mp3
 AM 1580 KGAF
-
+http://206.190.130.182:8017/;stream.aac
 AM 1600 KRVA
-
+http://67.212.189.122:8068/;stream.aac
 AM 1700 KKLF
-
+http://stream.zeno.fm/pdqhfgg55bhvv
 IF 14.300 W5CGC
 http://66.169.167.47/broadwave.mp3?src=1&rate=1&ref=
 #EXTINF:-1,88.5 KEOM
@@ -62,13 +64,14 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WRRFM_SC
 HD 104.9 KZMP-FM
 https://funasia.streamguys1.com/live-1
 HD 104.9 KZMP-HD2
-live12
+https://funasia.streamguys1.com/live12
 HD 104.9 KZMP-HD3
-bigdallas
+https://funasia.streamguys1.com/bigdallas
 HD 104.9 KZMP-HD4
 https://radiosurabhi.streamguys1.com/live1
 FM 106.7 KZZA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KZZAFMAAC_SC
 FM 106.9 KRVF
 https://playerservices.streamtheworld.com/api/livestream-redirect/KRVFFMAAC_SC
-WX 162.55
+WX 162.55 KEC56
+https://wxradio.org/TX-Dallas-KEC56
