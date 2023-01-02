@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,AM 590 KLBJ
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJAM_SC
+#EXTINF:-1,AM 1060 KTSN
+https://ice10.securenetsystems.net/SUNRADIO
+#EXTINF:-1,AM 1490 KJFK
+https://ice8.securenetsystems.net/1490
 #EXTINF:-1,FM 89.5 KMFA
 https://kmfa.streamguys1.com/KMFA-mp3
 #EXTINF:-1,HD 90.5-1 KUT
@@ -7,8 +13,6 @@ https://kut.streamguys1.com/kut-free
 https://kut.streamguys1.com/kuthd2-free
 #EXTINF:-1,FM 91.7 KVRX
 http://tstv-stream.tsm.utexas.edu:8000/kvrx_livestream
-#EXTINF:-1,FM 92.5 KVLR
-https://maestro.emfcdn.com/stream_for/air1/web/aac
 #EXTINF:-1,HD 93.3-1 KGSR
 https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC
 #EXTINF:-1,HD 93.3-2 KGSR
@@ -21,21 +25,19 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJFMAAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJHD2AAC_SC
 #EXTINF:-1,FM 98.9 KUTX
 https://kut.streamguys1.com/kutx-free
+#EXTINF:-1,FM 99.3 KOKE-FM
+https://arn.leanplayer.co/KOKEFM-MP3
+LPFM 101.9 KFGG-LP
+https://ic1.christiannetcast.com/kfgg-lp
 #EXTINF:-1,HD 103.5-1 KBPA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KBPAFMAAC_SC
 #EXTINF:-1,HD 103.5-2 KBPA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KBPAHD2AAC_SC
 #EXTINF:-1,HD 104.9-1 KTXX-FM
 https://arn.leanstream.co/KTXXFM-MP3
-#EXTINF:-1,HD 104.9-3 KTXX-HD3
-https://arn.leanplayer.co/KOKEFM-MP3?hd3
 #EXTINF:-1,HD 104.9-4 KTXX-HD4
 https://arn.leanplayer.co/K287FG-MP3
-#EXTINF:-1,HD 105.9-1 KFMK
-https://maestro.emfcdn.com/stream_for/k-love/web/aac
-#EXTINF:-1,HD 105.9-2 KFMK
-https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac
 #EXTINF:-1,HD 107.1-1 KLZT
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTFMAAC_SC
 #EXTINF:-1,HD 107.1-3 KLZT
-https://ice10.securenetsystems.net/SUNRADIO
+https://ovz.arcoshost.com/proxy/keilahr1?mp=/stream
