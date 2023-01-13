@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,HD 88.3-1 WPOZ
+https://ice.zradio.org/z/high.mp3
+#EXTINF:-1,HD 88.3-2 WPOZ
+https://ice.zradio.org/h/high.mp3
+#EXTINF:-1,HD 88.3-3 WPOZ
+https://ice.zradio.org/g/high.mp3
+#EXTINF:-1,HD 88.3-4 WPOZ
+https://ice.zradio.org/l/high.mp3
+#EXTINF:-1,HD 89.9-1 WUCF-FM
+http://peridot.streamguys.com:7830/WUCF
+#EXTINF:-1,HD 89.9-2 WUCF-HD2
+http://peridot.streamguys.com:7830/WUCF-HD2
+#EXTINF:-1,HD 90.7-1 WMFE
+http://wmfe.iad.streamguys1.com/wmfe
+#EXTINF:-1,HD 90.7-2 WMFE
+http://wmfe.iad.streamguys1.com/wmfe2
+#EXTINF:-1,FM 92.3 WWKA
+https://cmg.streamguys1.com/orl923/orl923-sgplayer-mp3
+#EXTINF:-1,HD 94.5-1 WCFB
+https://cmg.streamguys1.com/orl945/orl945-sgplayer-mp3
+#EXTINF:-1,HD 94.5-2 WCFB
+https://cmg.streamguys1.com/orl953/orl953-sgplayer-mp3
+#EXTINF:-1,HD 96.5-1 WOEX
+https://cmg.streamguys1.com/orl965/orl965-sgplayer-mp3
+#EXTINF:-1,FM 97.5 WPCV
+https://playerservices.streamtheworld.com/api/livestream-redirect/WPCVFMAAC_SC
+#EXTINF:-1,FM 98.9 WMMO
+https://cmg.streamguys1.com/orl989/orl989-sgplayer-mp3
+#EXTINF:-1,HD 103.1-1 WFYY
+https://ice66.securenetsystems.net/WOTW
+#EXTINF:-1,HD 103.1-2 WFYY
+https://ice66.securenetsystems.net/WOTWHD2
+#EXTINF:-1,HD 103.1-3 WFYY
+https://ice42.securenetsystems.net/WXUSHD2
+#EXTINF:-1,AM 580 WDBO
+https://cmg.streamguys1.com/orl580/orl580-sgplayer-mp3
+#EXTINF:-1,AM 660 WDYZ
+https://ice66.securenetsystems.net/WDYZ
+#EXTINF:-1,AM 950 WORL
+https://18243.live.streamtheworld.com/WORLAM_SC
+#EXTINF:-1,AM 990 WTLN
+https://13743.live.streamtheworld.com/WTLNAM_SC
+#EXTINF:-1,AM 1030 WONQ
+https://stream2.broadcastserver.net:2020/stream/wonq-am
+#EXTINF:-1,AM 1140 WVVO
+https://stream2.broadcastserver.net:2020/stream/wvvo-am
+#EXTINF:-1,AM 1220 WOTS
+http://ca9.rcast.net:8038/;stream
+#EXTINF:-1,AM 1440 WPRD
+http://ca9.rcast.net:8038/;stream
+#EXTINF:-1,AM 1680 WOKB
+https://ic2.sslstream.com/wokb-am
