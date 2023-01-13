@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,90.1-HD1: WUCX-FM
+https://wucx.streamguys1.com/live
+#EXTINF:-1,90.1-HD2: WUCX-HD2
+https://22113.live.streamtheworld.com:443/WCMUHD2.mp3
+#EXTINF:-1,97.3: WMJO
+https://ic2.sslstream.com/wmjo-fm
+#EXTINF:-1,98.1: WKCQ
+https://ic2.sslstream.com/wkcq-fm
+#EXTINF:-1,99.7: WUGN
+https://icecast.streammyflr.org/FLRstream
+#EXTINF:-1,1250: WJMK
+https://147.135.84.27:80/wjmk-am
+#EXTINF:-1,1440: WMAX
+https://ic2.sslstream.com/wdeo-fm
+#EXTINF:-1,1490: WMPX
+https://live.wostreaming.net/direct/northernstarbroadcasting-wmpxfmmp3-ibc2
