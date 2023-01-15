@@ -91,16 +91,14 @@ http://mozart.wkar.msu.edu/rrs-64-mp3
 https://nis.stream.publicradio.org/nis.aac
 #EXTINF:-1,YourClassical MPR
 https://cms.stream.publicradio.org/cms.aac
-#EXTINF:-1,Choral Classical
-https://choral.stream.publicradio.org/choral.aac
 #EXTINF:-1,The Current
 http://current.stream.publicradio.org/kcmp.aac
-#EXTINF:-1,Local Current
-https://localcurrent.stream.publicradio.org/localcurrent.aac
-#EXTINF:-1,Radio Heartland
-https://radioheartland.stream.publicradio.org/radioheartland.aac
-#EXTINF:-1,Rock The Cradle
-https://rockthecradle.stream.publicradio.org/rockthecradle.aac
+#EXTINF:-1,STLPR KWMU
+https://kwmu1-ice.streamguys1.com/kwmu1
+#EXTINF:-1,Jazz KWMU-2
+https://kwmu2-ice.streamguys1.com/jazz-128
+#EXTINF:-1,Classical KWMU-3
+https://kwmu3-ice.streamguys1.com/kwmu3
 #EXTINF:-1,WBGO Jazz 88
 http://wbgo.streamguys.net/wbgo128
 #EXTINF:-1,WBGO HD2
