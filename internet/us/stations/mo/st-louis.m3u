@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1,AM 550 KTRS
+https://ice6.securenetsystems.net/KTRS
+#EXTINF:-1,AM 590 KFNS
+https://ice8.securenetsystems.net/1108
+#EXTINF:-1,AM 690 KSTL
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSTLAM_SC
+#EXTINF:-1,AM 770 WEW
+http://wew.birach.com:9008/;stream
+#EXTINF:-1,AM 850 KFUO
+https://kfuo.streamguys1.com/kfuo
+#EXTINF:-1,AM 880 WIJR
+http://sonicpanel.hostradios.com:10038/;stream
+#EXTINF:-1,FM 88.1 KDHX
+http://kdhx-ice.streamguys1.com/live
+#EXTINF:-1,FM 90.3 KWUR
+https://listen.mixlr.com/fc2f7bd483768739db07b9bd3427b9fd
+#EXTINF:-1,HD 90.7-1 KWMU
+https://kwmu1-ice.streamguys1.com/kwmu1
+#EXTINF:-1,HD 90.7-2 KWMU
+https://kwmu2-ice.streamguys1.com/jazz-128
+#EXTINF:-1,HD 90.7-3 KWMU
+https://kwmu3-ice.streamguys1.com/kwmu3
+#EXTINF:-1,HD 92.3-1 WIL-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WILFM.mp3
+#EXTINF:-1,FM 93.3 KRTK
+https://ice24.securenetsystems.net/KRTK
+#EXTINF:-1,HD 94.7-1 KSHE
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSHEFM.mp3
+#EXTINF:-1,FM 95.5 KXBS
+https://boost1019.streamguys1.com/stlouis/live-aac
+#EXTINF:-1,HD 99.1-1 KLJY
+https://joyfm.streamguys1.com/live-aac-source
+#EXTINF:-1,HD 99.1-3 KLJY
+https://ice41.securenetsystems.net/KLJY
+#EXTINF:-1,HD 101.1-1 WXOS
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXOSFM.mp3?dist=hubbard&source=hubbard-web&ttag=web&gdpr=0
+#EXTINF:-1,HD 105.7-1 KPNT
+https://playerservices.streamtheworld.com/api/livestream-redirect/KPNTFM.mp3
+#EXTINF:-1,HD 105.7-2 KPNT
+https://playerservices.streamtheworld.com/api/livestream-redirect/KPNT_HD2.mp3?dist=hubbard&source=hubbard-web&ttag=web&gdpr=0
+#EXTINF:-1,HD 106.5-1 WARH
+https://playerservices.streamtheworld.com/api/livestream-redirect/WARHFM.mp3?dist=hubbard&source=hubbard-web&ttag=web&gdpr=0
+
+
+
