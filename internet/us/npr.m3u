@@ -101,9 +101,9 @@ http://stream.wksu.org/wksu2.128.mp3
 http://stream1.opb.org/radio.mp3
 #EXTINF:-1,WHYY NPR
 http://whyy.streamguys1.com/whyy-mp3
-90.5 WESA
+#EXTINF:-1,90.5 WESA
 https://ais-sa3.cdnstream1.com/2556_128.aac
-JazzWorks
+#EXTINF:-1,JazzWorks
 https://ais-sa3.cdnstream1.com/2558_128.aac
 #EXTINF:-1,WPSU
 https://wpsu-ice.streamguys1.com/wpsu1
