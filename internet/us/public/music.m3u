@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1,Indie 102.3
+https://stream1.cprnetwork.org/cpr3_lo
+#EXTINF:-1,105.5 The Colorado Sound
+https://kunc.streamguys1.com/kjac
+#EXTINF:-1,WETA Classical 90.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM.mp3
+#EXTINF:-1,WETA VivaLaVoce
+https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3
+#EXTINF:-1,GPB Classical
+https://gpb.streamguys1.com/oom/gpb-classical-mp3
+#EXTINF:-1,Jazz 91.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCLKFM_SC
+#EXTINF:-1,Mainstream 91.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCLKHD2_SC
+#EXTINF:-1,98.7 WFMT
+http://wfmt.streamguys1.com/main.aac
+#EXTINF:-1,CRB Classical 99.5
+https://streams.audio.wgbh.org/classical-hi
+#EXTINF:-1,WUMB Radio
+http://wumb.streamguys1.com/wumb919
+#EXTINF:-1,WUMB Blues
+http://wumb.streamguys1.com/wumb919st
+#EXTINF:-1,WUMB Celtic Music
+http://wumb.streamguys1.com/wumb919cj
+#EXTINF:-1,WUMB Contemporary Folk
+http://wumb.streamguys1.com/wumb919cf
+#EXTINF:-1,WUMB French Accent
+http://wumb.streamguys1.com/wumb919fr
+#EXTINF:-1,WUMB Student Radio
+http://wumb.streamguys1.com/wumb919ho2
+#EXTINF:-1,WUMB Studio Archives
+http://wumb.streamguys1.com/wumb919od
+#EXTINF:-1,90.9 The Bridge
+https://live.wostreaming.net/direct/publictv19-ktbgfmaac-imc1
+#EXTINF:-1,WBGO Jazz 88
+http://wbgo.streamguys.net/wbgo128
+#EXTINF:-1,WBGO HD2
+http://wbgo.streamguys.net/thejazzstream
+#EXTINF:-1,WNED Classical
+https://playerservices.streamtheworld.com/api/livestream-redirectl/WNEDFM_SC
+#EXTINF:-1,WNED Jazzworks
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNEDHD2_SC
+#EXTINF:-1,90.7 WFUV
+https://onair.wfuv.org/onair-hi
+#EXTINF:-1,FUV All Music
+https://music.wfuv.org/music-hi
+#EXTINF:-1,WQXR
+http://stream.wqxr.org/wqxr
+#EXTINF:-1,New Sounds
+https://q2stream.wqxr.org/q2
+#EXTINF:-1,Operavore
+http://opera-stream.wqxr.org/operavore
+#EXTINF:-1,Ideastream Public Media - WCLV
+https://ideastream.streamguys1.com/wclv.mp3
+#EXTINF:-1,88.5 XPN
+https://wxpnhi.xpn.org/xpnhi
+#EXTINF:-1,XPoNential Radio
+https://xpn2hi.xpn.org/xpn2hi
+#EXTINF:-1,WRTI 90.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_CLASSICAL.mp3
+#EXTINF:-1,WRTI HD2
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3
+#EXTINF:-1,Classical WQED-FM 89.3
+https://ice-1.streamhoster.com/lv_wqed--893
+#EXTINF:-1,Pittsburgh Concert Channel
+https://ice-1.streamhoster.com/lv_wqed--concert
+#EXTINF:-1,Q The Music
+https://ice-1.streamhoster.com/lv_wqed--qthemusic
+#EXTINF:-1,91.3 WYEP
+https://ais-sa3.cdnstream1.com/2557_128.aac
+#EXTINF:-1,WMOT 89.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMOTFM.mp3
+#EXTINF:-1,MTSU Jazz Network
+https://ice64.securenetsystems.net/WMOT
+#EXTINF:-1,91.one
+https://wpln.streamguys1.com/wnxpfm.mp3
+#EXTINF:-1,KUTX 98.9
+https://kut.streamguys1.com/kutx-free
+#EXTINF:-1,Austin Music Experience
+https://kut.streamguys1.com/amx-free
+#EXTINF:-1,Texas Music Experience
+https://kut.streamguys1.com/tmx-free
+#EXTINF:-1,KXT 91.7
+https://kera.streamguys1.com/kxtlive128
+#EXTINF:-1,Texas Public Radio - KPAC: San Antonio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KPACFM_SC
+#EXTINF:-1,Classical 89
+https://cdn.byub.org/classical89/classical89_mp3
+#EXTINF:-1,91-9 WNRN
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNRNFM_128_SC
+#EXTINF:-1,Classical KING-FM
+https://classicalking.streamguys1.com/king-fm-mp3
+#EXTINF:-1,Evergreen Channel
+https://classicalking.streamguys1.com/evergreen-mp3
+#EXTINF:-1,88Nine Radio Milwaukee
+http://radiomilwaukee.streamguys.net/live
+#EXTINF:-1,HYFIN
+https://wyms.streamguys1.com/hyfin
+#EXTINF:-1,414Music.FM
+https://wyms.streamguys1.com/414music_aac
