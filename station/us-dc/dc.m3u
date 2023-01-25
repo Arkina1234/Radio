@@ -27,6 +27,8 @@ https://www.streamvortex.com:8444/s/11020
 http://s6.yesstreaming.net:7022/stream
 #EXTINF:-1,HD 88.5-1 WAMU
 https://hd1.wamu.org/
+#EXTINF:-1,HD 88.5-2 WAMU
+https://ice24.securenetsystems.net/WAMU2
 #EXTINF:-1,HD 90.1-1 WCSP-FM
 https://24443.live.streamtheworld.com:443/CSPANRADIO_SC
 #EXTINF:-1,HD 90.9-1 WETA
