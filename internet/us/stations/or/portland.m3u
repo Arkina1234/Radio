@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,750 KXTG
-https://live.wostreaming.net/playlist/alphacorporate-kxtgamaac-ibc4
+https://live.wostreaming.net/direct/alphacorporate-kxtgamaac-ibc4
 #EXTINF:-1,800 KPDQ
 https://playerservices.streamtheworld.com/api/livestream-redirect/KPDQAM_SC
 #EXTINF:-1,860 KPAM
@@ -8,7 +8,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAM_SC
 #EXTINF:-1,880 KWIP
 https://us2.maindigitalstream.com/ssl/KWIP
 #EXTINF:-1,970 KUFO
-https://live.wostreaming.net/playlist/alphacorporate-kufoamaac-ibc4
+https://live.wostreaming.net/direct/alphacorporate-kufoamaac-ibc4
 #EXTINF:-1,1010 KOOR
 https://ice24.securenetsystems.net/KXXPFM
 #EXTINF:-1,1150 KGDD
@@ -18,7 +18,7 @@ https://crystalout.surfernetwork.com:8001/KBNP_MP3
 #EXTINF:-1,1450 KBPS
 https://live.wostreaming.net/direct/kbpsam-kbpsammp3-ibc1
 #EXTINF:-1,1480 KBMS
-http://64.78.234.173:8200/;/stream
+http://64.78.234.173:8200/;stream
 #EXTINF:-1,1520 KXET
 http://pdxrr.com:8090/;stream.nsv
 #EXTINF:-1,1640 KDZR
