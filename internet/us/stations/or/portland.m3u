@@ -26,7 +26,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KDZRAM_SC
 #EXTINF:-1,88.3 KBVM
 https://ic2.sslstream.com/kbvm-fm
 #EXTINF:-1,89.1-1 KMHD
-https://stream1.opb.org/kmhd.mp3
+http://stream1.opb.org/kmhd.mp3
 #EXTINF:-1,89.1-2 KMHD
 https://live.wostreaming.net/direct/mhcc-kmhchd2mp3-ibc1
 #EXTINF:-1,89.9-1 KQAC
@@ -38,4 +38,4 @@ http://live.kboo.fm:8000/high
 #EXTINF:-1,91.1 KXRY
 https://listen.xray.fm/stream
 #EXTINF:-1,91.5 KOPB-FM
-https://stream1.opb.org/radio.mp3
+http://stream1.opb.org/radio.mp3
