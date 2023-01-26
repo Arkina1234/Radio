@@ -17,6 +17,10 @@ http://streams.kqed.org/kqedradio
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNPRFM_SC
 #EXTINF:-1,WAMU 88.5
 http://wamu-1.streamguys.com/
+#EXTINF:-1,WLRN Radio
+https://live.wostreaming.net/direct/wlrnpublicmedia-wlrnfmaac-imc1
+#EXTINF:-1,WLRN Classical
+https://live.wostreaming.net/direct/wlrnpublicmedia-wlrnhd2aac-imc1
 #EXTINF:-1,88.5 GPB Atlanta
 https://gpb.streamguys1.com/oom/gpb-atlanta-mp3
 #EXTINF:-1,89.7 GPB Macon
@@ -47,6 +51,8 @@ https://streams.audio.wgbh.org/wcai
 http://wbur-sc.streamguys.com/wbur
 #EXTINF:-1,CMU Public Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCMUFM_SC
+#EXTINF:-1,101.9 WDET
+https://wdet.streamguys1.com/live-aac2
 #EXTINF:-1,Delta College Public Radio
 https://wucx.streamguys1.com/live
 #EXTINF:-1,WKAR NPR
