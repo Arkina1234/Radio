@@ -29,6 +29,8 @@ https://live.wostreaming.net/direct/goodkarma-kspnammp3-ibc
 https://ample.revma.ihrhls.com/zc197
 #EXTINF:0,AM 1220 KTMZ
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC
+#EXTINF:0,AM 1230 KYPA
+http://peridot.streamguys.com:5210/live
 #EXTINF:0,AM-HD 1260 KMZT
 https://25023.live.streamtheworld.com/KKGOHD2AAC.aac
 #EXTINF:0,AM 1280 KFRN
@@ -37,6 +39,8 @@ https://ais-sa3.cdnstream1.com/2641_64.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC
 #EXTINF:0,AM 1460 KYTM
 https://s1.voscast.com:10601/xstream
+#EXTINF:0,AM 1480 KVNR
+http://stream.zenolive.com/kxynzu2qe7duv
 #EXTINF:0,AM 1580 KBLA
 https://ice9.securenetsystems.net/KBLA
 #EXTINF:0,HD 88.1-1 KKJZ
@@ -81,6 +85,10 @@ https://entercom-sgrewind.streamguys1.com/entercom/3702/playlist_dvr_range-16718
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC
 #EXTINF:0,FM 93.9 KLLI
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLLIFMAAC
+#EXTINF:0,FM 94.3 KBUA
+https://playerservices.streamtheworld.com/api/livestream-redirect/KBUEFM1_SC
+#EXTINF:0,FM 94.3 KBUA-FM1
+https://playerservices.streamtheworld.com/api/livestream-redirect/KBUEFM1.mp3
 #EXTINF:0,HD 94.7-1 KTWV
 https://live.amperwave.net/manifest/audacy-ktwvfmaac-imc?apv=a2&source=webA2
 #EXTINF:0,HD 94.7-2 KTWV
@@ -99,8 +107,14 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSHD2AAC
 https://ice5.securenetsystems.net/KIRNHD
 #EXTINF:0,FM 95.9 KFSH-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFSHFMAAC_SC
+#EXTINF:0,FM 96.1 KRQB
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRQBFMAAC
 #EXTINF:0,FM 96.3 KXOL-FM
 https://liveaudio.lamusica.com/LA_KXOL_icy
+#EXTINF:0,HD 96.7-1 KWIZ
+https://ais-sa1.streamon.fm/7809_96k.mp3
+#EXTINF:0,FM 96.7 KWIZ-FM1
+https://playerservices.streamtheworld.com/api/livestream-redirect/KWIZFM1_SC
 #EXTINF:0,HD 97.1-1 KNX-FM
 https://entercom-sgrewind.streamguys1.com/entercom/555/playlist_dvr_range-1671828067-now.m3u8?knx-fm
 #EXTINF:0,HD 97.1-2 KNX-HD2
@@ -153,10 +167,14 @@ https://live.wostreaming.net/direct/univision-ktnqamaac-imc2?fm
 https://ample.revma.ihrhls.com/zc173
 #EXTINF:0,HD 104.3-2 KBIG
 https://ample.revma.ihrhls.com/zc3949
+#EXTINF:0,FM 105.5 KBUE
+https://playerservices.streamtheworld.com/api/livestream-redirect/KBUEFM1AAC.aac
 #EXTINF:0,HD 105.9-1 KPWR
 https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRFMAAC
 #EXTINF:0,HD 105.9-2 KPWR
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC?kpwr
+#EXTINF:0,HD 106.3-1 KALI-FM
+https://ice5.securenetsystems.net/KALI
 #EXTINF:0,HD 106.7-1 KROQ-FM
 https://live.amperwave.net/manifest/audacy-kroqfmaac-imc?apv=a2&source=webA2
 #EXTINF:0,HD 106.7-2 KROQ-HD2
