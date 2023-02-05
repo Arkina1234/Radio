@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1,AM 570 WWRC
-https://20603.live.streamtheworld.com:443/WWRCAM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WWRCAM_SC
 #EXTINF:-1,AM 630 WSBN
-https://22833.live.streamtheworld.com:443/WSBNAM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WSBNAM_SC
 #EXTINF:-1,AM 820 WWFD
-https://20593.live.streamtheworld.com:443/WWFDAM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WWFDAM_SC
 #EXTINF:-1,AM 900 WACA
 http://stream.zeno.fm/a1s86ymequeuv
 #EXTINF:-1,AM 920 WURA
 http://95.179.131.207:9300/listen.mp3
 #EXTINF:-1,AM 1050 WBQH
-https://18093.live.streamtheworld.com:443/WBQHAM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBQHAM_SC
 #EXTINF:-1,AM 1220 WFAX
 https://stream.zeno.fm/wuecf39qc18uv
 #EXTINF:-1,AM 1250 WRCW
-https://20603.live.streamtheworld.com:443/WWRCAM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WWRCAM_SC
 #EXTINF:-1,AM-HD 1340 WYCB
-https://24223.live.streamtheworld.com/WYCBAM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYCBAM_SC
 #EXTINF:-1,AM 1450 WOL
-https://15693.live.streamtheworld.com/WOLAM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WOLAM_SC
 #EXTINF:-1,AM 1500 WFED
-https://22073.live.streamtheworld.com:443/WFEDAM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFEDAM_SC
 #EXTINF:-1,AM 1560 WKIK
 https://www.streamvortex.com:8444/s/11020
 #EXTINF:-1,FM 87.7 WDCN-LP
@@ -30,17 +30,17 @@ https://hd1.wamu.org/
 #EXTINF:-1,HD 88.5-2 WAMU
 https://ice24.securenetsystems.net/WAMU2
 #EXTINF:-1,HD 90.1-1 WCSP-FM
-https://24443.live.streamtheworld.com:443/CSPANRADIO_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO_SC
 #EXTINF:-1,HD 90.9-1 WETA
-https://26283.live.streamtheworld.com:443/WETAFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM_SC
 #EXTINF:-1,HD 90.9-2 WETA
-https://24503.live.streamtheworld.com:443/WETAVLV_SC
-HD 91.9-1 WGTS
+https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV_SC
+#EXTINF:-1,HD 91.9-1 WGTS
 https://ic2.sslstream.com/wgts-an
 #EXTINF:-1,HD 92.7-1 WDCJ
-https://15313.live.streamtheworld.com/WMMJFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMMJFM_SC
 #EXTINF:-1,HD 93.9-1 WKYS
-https://26433.live.streamtheworld.com/WKYSFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WKYSFM_SC
 #EXTINF:-1,HD 96.3-1 WHUR-FM
 https://ais-sa1.streamon.fm/7028_48k.aac
 #EXTINF:-1,HD 96.3-2 WHUR-HD2
@@ -54,25 +54,25 @@ http://tunein.streamguys1.com/bloomberg-dc
 #EXTINF:-1,FM 100.7 W264DB
 https://ice64.securenetsystems.net/WFAX
 #EXTINF:-1,HD 102.3-1 WMMJ
-https://15313.live.streamtheworld.com/WMMJFM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMMJFM.mp3
 #EXTINF:-1,FM 102.9 WKIK
 https://www.streamvortex.com:8444/s/11020
 #EXTINF:-1,HD 103.5-1 WTOP-FM
-https://24373.live.streamtheworld.com/WTOPFM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFM.mp3
 #EXTINF:-1,HD 103.5-2 WTOP-HD2
-https://22073.live.streamtheworld.com/WFEDAM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFEDAM.mp3
 #EXTINF:-1,HD 103.5-3 WTOP-HD3
-https://20593.live.streamtheworld.com/WWFDAM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WWFDAM.mp3
 #EXTINF:-1,FM 103.9 WTLP
-https://24373.live.streamtheworld.com/WTOPFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFM_SC
 #EXTINF:-1,HD 104.1-1 WPRS-FM
-https://24373.live.streamtheworld.com/WPRSFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WPRSFM_SC
 #EXTINF:-1,HD 104.1-3 WPRS-HD3
-https://24223.live.streamtheworld.com/WYCBAM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYCBAM.mp3
 #EXTINF:-1,FM 105.9 WMAL-FM
-https://26303.live.streamtheworld.com/WMALFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMALFM_SC
 #EXTINF:-1,FM 107.7 WWWT-FM
-https://24373.live.streamtheworld.com/WTOPFM_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFM_SC
 
 
 
