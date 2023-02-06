@@ -4,7 +4,9 @@ https://ice41.securenetsystems.net/WGPA
 #EXTINF:-1,AM 1320 WTKZ
 https://ice5.securenetsystems.net/WHOL
 #EXTINF:-1,AM 1400 WEST
-https://ice23.securenetsystems.net/WEST
+https://ice23.securenetsystems.net/WEST?type=.mp3&callsign=WEST
+#EXTINF:-1,AM 1600 WHOL
+https://ice23.securenetsystems.net/WEST?type=.mp3&callsign=WHOL
 #EXTINF:-1,FM 88.1 WDIY
 https://war.streamguys1.com:7883/wdiy_7880
 #EXTINF:-1,FM 89.3 WJCS
@@ -13,5 +15,11 @@ http://14553.live.streamtheworld.com/WJCSFM_SC
 https://wlvr.streamguys1.com/live-web
 #EXTINF:-1,FM 91.7 WMUH
 http://192.104.181.26:8000/stream
+#EXTINF:-1,FM 99.5 W258DV
+https://ice23.securenetsystems.net/WEST?type=.mp3&callsign=W258DV
+#EXTINF:-1,FM 101.7 W269DY
+https://ice5.securenetsystems.net/WHOL?type=.mp3&callsign=W269DY
 #EXTINF:-1,FM 104.9 WJRH
 http://api.wjrh.org:8000/broadcast
+#EXTINF:-1,FM 106.9 W295CR
+https://ice23.securenetsystems.net/WEST?type=.mp3&callsign=W295CR
