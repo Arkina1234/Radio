@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,AM 570 KLIF
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLIF.mp3
 #EXTINF:-1,AM 620 KTNO
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAM_SC
 #EXTINF:-1,AM 660 KSKY
@@ -7,8 +9,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAM_SC
 https://stream.voxx.pro/radio/8260/radio.mp3
 #EXTINF:-1,AM 730 KKDA
 http://198.7.59.28:10095/stream
+#EXTINF:-1,AM 820 WBAP
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAM.mp3
 #EXTINF:-1,AM 910 KATH
 http://grn-stream-01.miriamtech.net:8000/KATH910AM.mp3
+#EXTINF:-1,AM 1310 KTCK
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAM.mp3
 #EXTINF:-1,AM 1340 KAND
 http://s1.voscast.com:9080/
 #EXTINF:-1,AM 1390 KBEC
@@ -41,6 +47,8 @@ http://live.kdkr.org:8000/kdkr
 https://kera.streamguys1.com/kxtlive128
 #EXTINF:-1,FM 92.1 KTFW-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KTFWFMAAC_SC
+#EXTINF:-1,HD 93.3-1 KLIF-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFFMAAC.aac
 #EXTINF:-1,FM 93.7 KNOR
 https://playerservices.streamtheworld.com/api/livestream-redirect/KNORFMAAC_SC
 #EXTINF:-1,HD 94.5-1 KZMJ
@@ -51,12 +59,18 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KLTYFMAAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLTYHD2AAC_SC
 #EXTINF:-1,FM 95.9 KFWR
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFWRFMAAC_SC
+#EXTINF:-1,HD 96.3-1 KSCS
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSCSFMAAC.aac
+#EXTINF:-1,FM 96.7 KTCK-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAMAAC.aac
 #EXTINF:-1,HD 97.9-1 KBFB
 https://playerservices.streamtheworld.com/api/livestream-redirect/KBFBFMAAC_SC
 #EXTINF:-1,HD 97.9-3 KBFB-HD3
 https://strm.dal.s02.oneofthebest.org/radio/8060/radio.mp3
 #EXTINF:-1,FM 98.3 KBOC
 https://playerservices.streamtheworld.com/api/livestream-redirect/KBOCFMAAC_SC
+#EXTINF:-1,HD 99.5-1 KPLX
+https://playerservices.streamtheworld.com/api/livestream-redirect/KPLXFMAAC.aac
 #EXTINF:-1,FM 100.7 KWRD-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWRDFMAAC_SC
 #EXTINF:-1,FM 101.1 WRR
