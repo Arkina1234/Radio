@@ -3,6 +3,8 @@
 https://ice24.securenetsystems.net/WYUP?type=.mp3
 #EXTINF:-1,AM 990 WNTI
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNTJAM_SC.mp3
+#EXTINF:-1,AM 1110 WJSM
+https://ice23.securenetsystems.net/WJSM
 #EXTINF:-1,AM 1230 WCRO
 https://ice24.securenetsystems.net/WTRNSPO
 #EXTINF:-1,AM 1240 WRTA
@@ -15,12 +17,18 @@ https://ice24.securenetsystems.net/WTRN
 https://ice24.securenetsystems.net/WKMC
 #EXTINF:-1,AM 1400 WYUP
 https://ice24.securenetsystems.net/WYUP
-#EXTINF:-1,FM 1430 WTNA
+#EXTINF:-1,AM 1430 WTNA
 https://playerservices.streamtheworld.com/api/livestream-redirect/WTNAAM_SC
 #EXTINF:-1,AM 1490 WNTJ
 https://playerservices.streamtheworld.com/api/livestream-redirect/WNTJAM_SC
+#EXTINF:-1,FM 89.7 WQEJ
+https://ice-1.streamhoster.com/lv_wqed--893
+#EXTINF:-1,FM 91.9 WMMH
+http://173.163.113.134:8000/stream
 #EXTINF:-1,FM 92.1 WJHT
 https://playerservices.streamtheworld.com/api/livestream-redirect/WJHT_SC
+#EXTINF:-1,FM 92.7 WJSM-FM
+https://ice23.securenetsystems.net/WJSM?type=.flv
 #EXTINF:-1,FM 94.3 WBXQ
 https://ice24.securenetsystems.net/WBXQ
 #EXTINF:-1,FM 94.7 WBRX
