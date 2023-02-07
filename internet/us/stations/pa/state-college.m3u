@@ -11,6 +11,16 @@ https://ice23.securenetsystems.net/WCED
 https://ice24.securenetsystems.net/WLEJ
 #EXTINF:-1,AM 1540 WECZ
 https://ice64.securenetsystems.net/WECZ
+#EXTINF:-1,FM 89.9 WTLR
+https://ic1.sslstream.com/wtlr-fm
+#EXTINF:-1,FM 90.7 WKPS
+http://stream.radiojar.com/k9uw1tyr7x8uv
+#EXTINF:-1,HD 91.5 WPSU
+https://wpsu-ice.streamguys1.com/wpsu1
+#EXTINF:-1,HD 91.5 WPSU
+https://wpsu-ice.streamguys1.com/wpsu2-nopreroll
+#EXTINF:-1,HD 91.5 WPSU
+https://wpsu-ice.streamguys1.com/wpsu3-nopreroll
 #EXTINF:-1,FM 93.1 WPQP
 https://ice10.securenetsystems.net/WQYX
 #EXTINF:-1,FM 93.7 WZWW-FM
@@ -49,5 +59,3 @@ https://ice41.securenetsystems.net/WMKX
 https://ice9.securenetsystems.net/WQCK
 #EXTINF:-1,FM 106.5 WDSN
 https://ice64.securenetsystems.net/SUNNY106
-#EXTINF:-1,AM 1540 WECZ
-https://ice64.securenetsystems.net/WECZ
