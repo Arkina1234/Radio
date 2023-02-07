@@ -24,13 +24,13 @@ https://spirit-fm.streamguys1.com/thelight
 #EXTINF:-1,HD 90.5-3 WBVM
 https://spirit-fm.streamguys1.com/elfuego
 #EXTINF:-1,FM 91.1 WKES
-https://18063.live.streamtheworld.com/WKESFM.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WKESFM.mp3
 #EXTINF:-1,HD 92.5-1 WYUU
-https://24223.live.streamtheworld.com/WYUUFMAACHI.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYUUFMAACHI.aac
 #EXTINF:-1,HD 92.5-2 WYUU
-https://14833.live.streamtheworld.com/WYUUHD2MOB.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYUUHD2MOB.aac
 #EXTINF:-1,HD 94.1-1 WLLD
-https://15113.live.streamtheworld.com/WLLDFMAACHI.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLLDFMAACHI.aac
 #EXTINF:-1,HD 94.9-1 WWRM
 https://cmg.streamguys1.com/tam949/tam949-sgplayer-mp3
 #EXTINF:-1,HD 94.9-2 WWRM
@@ -38,9 +38,9 @@ https://cmg.streamguys1.com/tam949hd2/tam949hd2-sgplayer-mp3
 #EXTINF:-1,HD 97.1-1 WSUN
 https://liveaudio.lamusica.com/TAM_WSUN_icy
 #EXTINF:-1,HD 98.7-1 WPBB
-https://24363.live.streamtheworld.com/WPBBFMAACHI.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WPBBFMAACHI.aac
 #EXTINF:-1,HD 99.5-1 WQYK-FM
-https://26433.live.streamtheworld.com/WQYKFMAACHI.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQYKFMAACHI.aac
 #EXTINF:-1,HD 101.5-1 WPOI
 https://cmg.streamguys1.com/tam1015/tam1015-sgplayer-mp3
 #EXTINF:-1,HD 101.5-2 WPOI
@@ -48,7 +48,7 @@ https://cmg.streamguys1.com/tam1015hd2/tam1015hd2-sgplayer-mp3
 #EXTINF:-1,HD 102.5-1 WHPT
 https://cmg.streamguys1.com/tam1025/tam1025-sgplayer-mp3
 #EXTINF:-1,HD 104.7-1 WRBQ-FM
-https://20593.live.streamtheworld.com/WRBQFMAACHI.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRBQFMAACHI.aac
 #EXTINF:-1,HD 105.5-1 WDUV
 https://cmg.streamguys1.com/tam1055/tam1055-sgplayer-mp3
 #EXTINF:-1,HD 107.3-1 WXGL
