@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1,AM 1160 WPIE
+http://ais-sa2.cdnstream1.com/2056_128.mp3
+#EXTINF:-1,AM 1230 WENY
+https://ice3.securenetsystems.net/WENYFM
+#EXTINF:-1,AM 1380 WABH
+https://ice24.securenetsystems.net/WABH
+#EXTINF:-1,AM 1410 WELM
+https://ice66.securenetsystems.net/WELM
+#EXTINF:-1,AM 1450 WENI
+https://ice23.securenetsystems.net/WRCE
+#EXTINF:-1,AM 1480 WLEA
+https://s2.stationplaylist.com:7160/listen.mp3
+#EXTINF:-1,AM 1490 WNGZ
+https://ice23.securenetsystems.net/WINGZ
+#EXTINF:-1,AM 1600 WEHH
+https://ice3.securenetsystems.net/WEHH
+#EXTINF:-1,FM 92.1 WCKR
+https://s2.stationplaylist.com:7022/listen.mp3
+#EXTINF:-1,FM 92.7 WENI-FM
+https://ice66.securenetsystems.net/WMTT?type=.mp3
+#EXTINF:-1,FM 94.3 WLVY
+https://ice3.securenetsystems.net/WLVY
+#EXTINF:-1,FM 94.7 WMTT-FM
+https://ice66.securenetsystems.net/WMTT
+#EXTINF:-1,HD 96.1-1 WCBF
+https://ice23.securenetsystems.net/WPGI
+#EXTINF:-1,HD 96.1-3 WCBF
+https://ice23.securenetsystems.net/JAMZ
+#EXTINF:-1,HD 97.1-1 WZHD
+https://ice66.securenetsystems.net/WPHD?type=.mp3
+#EXTINF:-1,FM 98.3 WVIN-FM
+https://ice64.securenetsystems.net/WVIN
+#EXTINF:-1,FM 98.7 WPHD
+https://ice66.securenetsystems.net/WPHD
+#EXTINF:-1,FM 99.5 WOKN
+https://ice5.securenetsystems.net/WOKN
+#EXTINF:-1,FM 106.1 WNKI
+https://ice23.securenetsystems.net/WINK106
+#EXTINF:-1,FM 107.7 WECW
+http://janus.cdnstream.com:5297/;
+
