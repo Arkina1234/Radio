@@ -3,8 +3,12 @@
 https://live.wostreaming.net/direct/alphacorporate-ktsaammp3-ibc4
 #EXTINF:-1,AM 630 KSLR
 https://playerservices.streamtheworld.com/api/livestream-redirect/KSLRAM_SC
+#EXTINF:-1,AM 680 KKYX
+https://cmg.streamguys1.com/san680/san680-sgplayer-mp3
 #EXTINF:-1,AM 810 KYTY
 http://s1.wohooo.net:9456/stream
+#EXTINF:-1,AM 860 KONO
+https://cmg.streamguys1.com/san860/san860-sgplayer-mp3
 #EXTINF:-1,AM 930 KLUP
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLUPAM_SC
 #EXTINF:-1,AM 1100 KDRY
@@ -35,7 +39,17 @@ http://stream.abacast.net/direct/krtu-krtufmmp3-ibc1
 https://ice5.securenetsystems.net/KNBT
 #EXTINF:-1,FM 95.7 KLEY-FM
 https://live.wostreaming.net/direct/alphacorporate-kleyfmmp3-ibc4
+#EXTINF:-1,HD 99.5-1 KISS-FM
+https://cmg.streamguys1.com/san995/san995-sgplayer-mp3
+#EXTINF:-1,HD 100.3-1 KCYY
+https://cmg.streamguys1.com/san1003/san1003-sgplayer-mp3
+#EXTINF:-1,HD 101.1-1 KONO-FM
+https://cmg.streamguys1.com/san1011/san1011-sgplayer-mp3
 #EXTINF:-1,FM 102.7 KJXK
 https://live.wostreaming.net/direct/alphacorporate-kjxkfmmp3-ibc4
 #EXTINF:-1,FM 104.1 KSAH-FM
 https://live.wostreaming.net/direct/alphacorporate-ksahfmmp3-ibc4
+#EXTINF:-1,HD 105.3-1 KSMG
+https://cmg.streamguys1.com/san1053/san1053-sgplayer-mp3
+#EXTINF:-1,HD 106.7-1 KTKX
+https://cmg.streamguys1.com/san1067/san1067-sgplayer-mp3
