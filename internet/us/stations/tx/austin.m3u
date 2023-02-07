@@ -5,7 +5,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJAM_SC
 https://ice10.securenetsystems.net/SUNRADIO
 #EXTINF:-1,AM 1120 KTXW
 https://ic2.sslstream.com/ktxw-am
-#EXTINF:-1,AM 1490 KJFK
+#EXTINF:-1,AM-HD 1490 KJFK
 https://ice8.securenetsystems.net/1490
 #EXTINF:-1,AM 1530 KZNX
 https://stream.zeno.fm/hp731cepeg8uv.mp3
@@ -27,6 +27,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD3AAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJFMAAC_SC
 #EXTINF:-1,HD 93.7-2 KLBJ
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJHD2AAC_SC
+#EXTINF:-1,FM 96.3 KJFK-FM
+https://ice8.securenetsystems.net/1490?type=.mp3
 #EXTINF:-1,FM 98.9 KUTX
 https://kut.streamguys1.com/kutx-free
 #EXTINF:-1,FM 99.3 KOKE-FM
