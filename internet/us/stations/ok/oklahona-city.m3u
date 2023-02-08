@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1,AM 890 KTLR
+http://crystalout.surfernetwork.com:8001/KTLR_MP3
+#EXTINF:-1,AM 930 WKY
+https://playerservices.streamtheworld.com/api/livestream-redirect/WKYAM.mp3
+#EXTINF:-1,AM 1140 KRMP
+http://crystalout.surfernetwork.com:8001/KRMP_MP3
+#EXTINF:-1,AM 1400 KREF
+https://ice9.securenetsystems.net/KREF
+#EXTINF:-1,AM 1460 KZUE
+http://s7.viastreaming.net:9010/;
+#EXTINF:-1,AM 1520 KOKC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KOKCAM.mp3
+#EXTINF:-1,AM 1560 KEBC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KEBCAM.mp3
+#EXTINF:-1,FM 88.1 KMSI
+https://oasis.streamguys1.com/live-aac
+#EXTINF:-1,HD 89.7-1 KJTH
+https://klvv-praise.streamguys1.com/TheHouse96k
+#EXTINF:-1,HD 89.7-2 KJTH
+https://klvv-praise.streamguys1.com/Praise96k
+#EXTINF:-1,HD 90.1-1 KUCO
+http://kuco.streamguys1.com/live_acc
+#EXTINF:-1,HD 90.1-2 KUCO
+https://kzuc-stream.uco.edu/;?type=http&nocache=57
+#EXTINF:-1,FM 91.7 KOSU
+http://26303.live.streamtheworld.com/KOSUFM_NEWS_SC
+#EXTINF:-1,HD 92.5-1 KOMA
+https://playerservices.streamtheworld.com/api/livestream-redirect/KOMAFMAAC.aac
+#EXTINF:-1,HD 92.5-2 KOMA
+https://playerservices.streamtheworld.com/api/livestream-redirect/KOMAHD2AAC.aac
+#EXTINF:-1,HD 92.5-3 KOMA
+https://playerservices.streamtheworld.com/api/livestream-redirect/KOMAHD3MAAC.aac
+#EXTINF:-1,FM 93.3 KJKE
+https://playerservices.streamtheworld.com/api/livestream-redirect/KJKEFMAAC.aac
+#EXTINF:-1,FM 93.7 KSPI-FM
+https://ice24.securenetsystems.net/KSPIFM
+#EXTINF:-1,FM 96.9 KQOB
+https://ice8.securenetsystems.net/KZLS
+#EXTINF:-1,FM 97.3 KKNG-FM
+https://crystalout.surfernetwork.com:8001/KKNG_MP3
+#EXTINF:-1,FM 98.1 WWLS-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WWLSAM.mp3
+#EXTINF:-1,FM 98.9 KYIS
+https://playerservices.streamtheworld.com/api/livestream-redirect/KYISFMAAC.aac
+#EXTINF:-1,HD 99.7-1 KNAH
+https://ice8.securenetsystems.net/KNAH
+#EXTINF:-1,HD 99.7-2 KNAH
+https://ice42.securenetsystems.net/KALT
+#EXTINF:-1,HD 99.7-3 KNAH
+https://ice41.securenetsystems.net/FREY
+#EXTINF:-1,FM 100.5 KATT-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KATTFMAAC.aac
+#EXTINF:-1,FM 103.5 KVSP
+http://crystalout.surfernetwork.com:8001/KVSP_MP3
+#EXTINF:-1,FM 104.1 KMGL
+https://playerservices.streamtheworld.com/api/livestream-redirect/KMGLFMAAC.aac
+#EXTINF:-1,FM 104.9 KKWD
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKWDFMAAC.aac
+#EXTINF:-1,HD 105.3-1 KINB
+http://crystalout.surfernetwork.com:8001/KINB-FM_MP3
+#EXTINF:-1,FM 106.3 KGOU
+https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFM_64.mp3
+#EXTINF:-1,FM 106.7 KTUZ-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTUZFMAAC.aac
+#EXTINF:-1,HD 107.7-1 KRXO-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRXOFMAAC.aac
+#EXTINF:-1,HD 107.7-2 KRXO-HD2
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRXOHD2AAC.aac
+#EXTINF:-1,HD 107.7-3 KRXO-HD3
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRXOHD3AAC.aac
