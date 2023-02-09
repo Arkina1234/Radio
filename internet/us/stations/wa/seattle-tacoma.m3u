@@ -17,8 +17,18 @@ https://stream.abacast.net/direct/sinclair-komoammp3-ibc2
 https://ssl-2.stream.miriamtech.net/sacredheartradio/hidden
 #EXTINF:-1,AM 1150 KKNW
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKNWAM.mp3
+#EXTINF:-1,AM 1360 KKMO
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKMOAM.mp3
+#EXTINF:-1,AM 1380 KRKO
+https://www.ophanim.net:8444/s/9400
+#EXTINF:-1,AM 1520 KKXA
+https://www.ophanim.net:8444/s/9410
 #EXTINF:-1,AM 1590 KLFE
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLFEAM.mp3
+#EXTINF:-1,AM 1620 KYIZ
+http://sc03.warpradio.com:8578/;
+#EXTINF:-1,AM 1680 KNTS
+https://playerservices.streamtheworld.com/api/livestream-redirect/KNTSAM.mp3
 #EXTINF:-1,HD 88.5-1 KNKX
 https://live.wostreaming.net/direct/ppm-knkxfmmp3-ibc1
 #EXTINF:-1,HD 88.5-2 KNKX
