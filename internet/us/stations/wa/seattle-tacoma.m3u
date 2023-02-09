@@ -36,6 +36,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KQMVFMAAC.aac
 #EXTINF:-1,HD 92.9-1 KISM
 https://live.wostreaming.net/direct/saga-kismfmmp3-ibc1
 #EXTINF:-1,HD 94.9-1 KUOW-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KUOWFM_HIGH_MP3.mp3
+#EXTINF:-1,FM 96.1 KXXO
 http://ice10.securenetsystems.net/KXXO
 #EXTINF:-1,HD 97.3-1 KIRO-FM
 https://bonneville.cdnstream1.com/2643_64.mp3
