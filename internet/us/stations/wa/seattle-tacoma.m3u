@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1,AM 570 KVI
+https://stream.abacast.net/direct/sinclair-kviammp3-ibc2
+#EXTINF:-1,AM 630 KCIS
+https://crista-kcis.streamguys1.com/kcismp3
+#EXTINF:-1,AM 710 KIRO
+https://bonneville.cdnstream1.com/2642_64.mp3
+#EXTINF:-1,AM 770 KTTH
+https://bonneville.cdnstream1.com/2696_64.mp3
+#EXTINF:-1,AM 820 KGNW
+https://playerservices.streamtheworld.com/api/livestream-redirect/KGNWAM.mp3
+#EXTINF:-1,AM 880 KIXI
+https://playerservices.streamtheworld.com/api/livestream-redirect/KIXIAM.mp3
+#EXTINF:-1,AM 1000 KNWN
+https://stream.abacast.net/direct/sinclair-komoammp3-ibc2
+#EXTINF:-1,AM 1050 KBLE
+https://ssl-2.stream.miriamtech.net/sacredheartradio/hidden
+#EXTINF:-1,AM 1150 KKNW
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKNWAM.mp3
+#EXTINF:-1,AM 1590 KLFE
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLFEAM.mp3
+#EXTINF:-1,HD 88.5-1 KNKX
+https://live.wostreaming.net/direct/ppm-knkxfmmp3-ibc1
+#EXTINF:-1,HD 88.5-2 KNKX
+https://live.wostreaming.net/direct/ppm-jazz24mp3-ibc1
+#EXTINF:-1,HD 89.5-1 KNHC
+http://streams.c895.org/live
+#EXTINF:-1,HD 90.3-1 KEXP-FM
+https://kexp-mp3-128.streamguys1.com/kexp128.mp3
+#EXTINF:-1,FM 90.7 KSER
+http://jade.streamguys1.com:4050/live
+#EXTINF:-1,HD 91.3-1 KBCS
+https://www.ophanim.net:8444/s/7720
+#EXTINF:-1,HD 92.5-1 KQMV
+https://playerservices.streamtheworld.com/api/livestream-redirect/KQMVFMAAC.aac
+#EXTINF:-1,HD 92.9-1 KISM
+https://live.wostreaming.net/direct/saga-kismfmmp3-ibc1
+#EXTINF:-1,HD 94.9-1 KUOW-FM
+http://ice10.securenetsystems.net/KXXO
+#EXTINF:-1,HD 97.3-1 KIRO-FM
+https://bonneville.cdnstream1.com/2643_64.mp3
+#EXTINF:-1,FM 97.7 KNWN-FM
+https://stream.abacast.net/direct/sinclair-komoammp3-ibc2?
+#EXTINF:-1,HD 98.1-1 KING-FM
+https://classicalking.streamguys1.com/king-fm-mp3
+#EXTINF:-1,HD 98.1-2 KING-FM-HD2
+https://classicalking.streamguys1.com/evergreen-mp3
+#EXTINF:-1,HD 98.9-1 KNUC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KNUCFMAAC.aac
+#EXTINF:-1,FM 99.3-1 KDDS-FM
+http://bustosradio.com/kdds
+#EXTINF:-1,HD 101.5-1 KPLZ-FM
+http://stream.abacast.net/direct/sinclair-kplzfmmp3-ibc2
+#EXTINF:-1,HD 102.9-1 KZTM
+https://bustosradio.com/kztm
+#EXTINF:-1,HD 105.3-1 KCMS
+https://crista-kcms.streamguys1.com/kcmsmp3
+#EXTINF:-1,HD 105.3-2 KCMS
+http://crista-lift.streamguys1.com/liftmp3
+#EXTINF:-1,HD 106.9-1 KRWM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRWMFMAAC.aac
