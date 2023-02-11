@@ -87,8 +87,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLLIFMAAC
 #EXTINF:0,FM 94.3 KBUA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KBUEFM1_SC
-#EXTINF:0,FM 94.3 KBUA-FM1
-https://playerservices.streamtheworld.com/api/livestream-redirect/KBUEFM1.mp3
 #EXTINF:0,HD 94.7-1 KTWV
 https://live.amperwave.net/manifest/audacy-ktwvfmaac-imc?apv=a2&source=webA2
 #EXTINF:0,HD 94.7-2 KTWV
@@ -113,8 +111,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KRQBFMAAC
 https://liveaudio.lamusica.com/LA_KXOL_icy
 #EXTINF:0,HD 96.7-1 KWIZ
 https://ais-sa1.streamon.fm/7809_96k.mp3
-#EXTINF:0,FM 96.7 KWIZ-FM1
-https://playerservices.streamtheworld.com/api/livestream-redirect/KWIZFM1_SC
 #EXTINF:0,HD 97.1-1 KNX-FM
 https://entercom-sgrewind.streamguys1.com/entercom/555/playlist_dvr_range-1671828067-now.m3u8?knx-fm
 #EXTINF:0,HD 97.1-2 KNX-HD2
@@ -168,7 +164,7 @@ https://ample.revma.ihrhls.com/zc173
 #EXTINF:0,HD 104.3-2 KBIG
 https://ample.revma.ihrhls.com/zc3949
 #EXTINF:0,FM 105.5 KBUE
-https://playerservices.streamtheworld.com/api/livestream-redirect/KBUEFM1AAC.aac
+https://tunein-music.streamguys1.com/kbue-mp3?aw_0_1st.playerid=qZjjnm85&aw_0_1st.skey=1676144730&aw_0_1st.bundleId=tunein.com&lat=40.7157&lon=-74&aw_0_1st.abtest=&partnerId=qZjjnm85&aw_0_1st.stationId=s31883&aw_0_1st.premium=true&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g4154&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=dskTuneincomEmbed&aw_0_azn.planguage=%5ben%2c+es%5d
 #EXTINF:0,HD 105.9-1 KPWR
 https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRFMAAC
 #EXTINF:0,HD 105.9-2 KPWR
@@ -187,5 +183,7 @@ https://live.wostreaming.net/manifest/univision-klvefmaac-imc2
 http://s4.voscast.com:8864/stream
 #EXTINF:0,FM 107.9 KWVE-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFM_SC
+#EXTINF:0,KWIZ
+https://playerservices.streamtheworld.com/api/livestream-redirect/KWIZFM1_SC
 
 
