@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,AM 720 WGN
+http://stream.abacast.net/direct/wgnam-wgnammp3-ibc2
+#EXTINF:-1,AM 820 WCPT
+https://27033.live.streamtheworld.com/WCPTAM.mp3
+#EXTINF:-1,AM 1000 WMVP
+https://live.wostreaming.net/direct/goodkarma-wmvpammp3-ibc1
+#EXTINF:-1,AM 1080 WNWI
+http://wnwi.birach.com:9002/;
+#EXTINF:-1,AM 1110 WXES
+https://s9.voscast.com:9349/xstream
+#EXTINF:-1,AM 1200 WRTO
+http://stream.abacast.net/direct/univision-wrtoamaac-imc2
+#EXTINF:-1,AM 1220 WKRS
+https://live.wostreaming.net/direct/alphacorporate-wkrsamaac-ibc4
+#EXTINF:-1,AM 1230 WJOB
+https://streaming.live365.com/a48145
+#EXTINF:-1,AM 1320 WKAN
+https://ice23.securenetsystems.net/WKAN
+#EXTINF:-1,AM 1340 WJOL
+https://live.wostreaming.net/direct/alphacorporate-wjolamaac-ibc2
+#EXTINF:-1,AM 1410 WRMN
+https://ice24.securenetsystems.net/WRMN
+#EXTINF:-1,AM 1420 WIMS
+https://ice23.securenetsystems.net/WIMS
+#EXTINF:-1,AM 1500 WPJX
+http://67.212.238.178:7039/;;?1676642594727
+#EXTINF:-1,AM 1510 WWHN
+http://50.193.67.234:8000/stream
+#EXTINF:-1,AM 1530 WCKG
+https://ice7.securenetsystems.net/WCKG
+#EXTINF:-1,AM 1570 WBGX
+https://ic2.sslstream.com/wbgx
