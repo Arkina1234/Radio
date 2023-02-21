@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,AM 560 WFIL
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFILAM.mp3
+#EXTINF:-1,AM 860 WWDB
+https://playerservices.streamtheworld.com/api/livestream-redirect/WWDBAM.mp3
+#EXTINF:-1,AM 900 WURD
+https://wurd.streamguys1.com/live
+#EXTINF:-1,AM 990 WNTP
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNTPAM.mp3
+#EXTINF:-1,AM 1340 WHAT
+https://ice5.securenetsystems.net/WHAT
+#EXTINF:-1,FM 88.1 WPEB
+https://streaming.live365.com/a28605
+#EXTINF:-1,HD 88.5-1 WXPN
+https://wxpnhi.xpn.org/xpnhi
+#EXTINF:-1,HD 88.5-2 WXPN-HD2
+https://xpn2hi.xpn.org/xpn2hi
+#EXTINF:-1,FM 89.3 WRDV
+http://peridot.streamguys.com:5650/Live
+#EXTINF:-1,HD 90.1-1 WRTI 
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_CLASSICAL.mp3
+#EXTINF:-1,HD 90.1-2 WRTI HD2
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3
+#EXTINF:-1,HD 90.9 WHYY
+http://whyy.streamguys1.com/whyy-mp3
+#EXTINF:-1,FM 91.7 WKDU
+https://streams.wkdu.org/listen.mp3
+#EXTINF:-1,HD 92.5-1 WXTU
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXTUFMAACIHR.aac
+#EXTINF:-1,HD 93.3-1 WMMR
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMMRFMAACIHR.aac
+#EXTINF:-1,HD 95.7-1 WBEN-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBENFMAACIHR.aac
+#EXTINF:-1,HD 97.5-1 WPEN
+https://playerservices.streamtheworld.com/api/livestream-redirect/WPENFMAACIHR.aac
+#EXTINF:-1,HD 100.3-1 WRNB
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRNBFMAAC.aac
+#EXTINF:-1,HD 100.3-2 WRNB
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRNBHD2AAC.aac
+#EXTINF:-1,HD 102.9-1 WMGK
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMGKFMAACIHR.aac
+#EXTINF:-1,HD 107.9-1 WPPZ-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WPPZFMAAC.aac
+#EXTINF:-1,HD 107.9-2 WPPZ-HD2
+https://playerservices.streamtheworld.com/api/livestream-redirect/WPPZHD2AAC.aac
