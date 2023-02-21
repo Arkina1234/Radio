@@ -64,6 +64,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WORDFMAAC.aac
 #EXTINF:-1,FM 103.5 WOGH
 https://playerservices.streamtheworld.com/api/livestream-redirect/WLYIFM.mp3
 #EXTINF:-1,FM 104.3 WOGI
-https://26433.live.streamtheworld.com/WOGI.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WOGI.mp3
 #EXTINF:-1,FM 107.1 WHJB
 https://ice64.securenetsystems.net/WHJB
