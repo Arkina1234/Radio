@@ -21,8 +21,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WYCBAM_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/WOLAM_SC
 #EXTINF:-1,AM 1500 WFED
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFEDAM_SC
-#EXTINF:-1,AM 1560 WKIK
-https://www.streamvortex.com:8444/s/11020
 #EXTINF:-1,FM 87.7 WDCN-LP
 http://s6.yesstreaming.net:7022/stream
 #EXTINF:-1,HD 88.5-1 WAMU
@@ -55,7 +53,9 @@ http://tunein.streamguys1.com/bloomberg-dc
 https://ice64.securenetsystems.net/WFAX
 #EXTINF:-1,HD 102.3-1 WMMJ
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMMJFM.mp3
-#EXTINF:-1,FM 102.9 WKIK
+#EXTINF:-1,FM 102.1 WXTG-FM
+http://104.6.216.93:8000/wmto
+#EXTINF:-1,FM 102.9 WKIK-FM
 https://www.streamvortex.com:8444/s/11020
 #EXTINF:-1,HD 103.5-1 WTOP-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFM.mp3
