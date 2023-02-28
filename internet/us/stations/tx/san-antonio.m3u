@@ -41,6 +41,8 @@ http://stream2.bbnradio.org:8000/english
 http://stream.abacast.net/direct/krtu-krtufmmp3-ibc1
 #EXTINF:-1,FM 92.1 KNBT
 https://ice5.securenetsystems.net/KNBT
+#EXTINF:-1,HD 92.9-2 KROM
+https://ice41.securenetsystems.net/KFLZ
 #EXTINF:-1,FM 95.7 KLEY-FM
 https://live.wostreaming.net/direct/alphacorporate-kleyfmmp3-ibc4
 #EXTINF:-1,HD 99.5-1 KISS-FM
