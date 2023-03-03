@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,88.1 WDIY
+https://war.streamguys1.com:7883/wdiy_7880
+#EXTINF:-1,89.3 WJCS
+http://14553.live.streamtheworld.com/WJCSFM_SC
+#EXTINF:-1,91.3 WLVR-FM
+https://wlvr.streamguys1.com/live-web
+#EXTINF:-1,91.7 WMUH
+http://192.104.181.26:8000/stream
+#EXTINF:-1,98.5 W253CC
+https://ice41.securenetsystems.net/WGPA
+#EXTINF:-1,99.5 W258DV
+https://ice23.securenetsystems.net/WEST
+#EXTINF:-1,101.7 W269DY
+https://ice5.securenetsystems.net/WHOL
+#EXTINF:-1,104.9 WJRH
+http://api.wjrh.org:8000/broadcast
+#EXTINF:-1,106.9 W295CR
+https://ice23.securenetsystems.net/WEST?playSessionID=3A600A20-228E-4C11-8B61465D08550BFD
