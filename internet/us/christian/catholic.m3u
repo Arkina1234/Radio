@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,EWTN Radio (Catholic)
+https://ewtn-ice.streamguys1.com/english-aac
+#EXTINF:-1,Relevant Radio (Catholic)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAIN_SC
