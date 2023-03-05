@@ -21,8 +21,10 @@ http://peridot.streamguys.com:5650/Live
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_CLASSICAL.mp3
 #EXTINF:-1,HD 90.1-2 WRTI HD2
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3
-#EXTINF:-1,HD 90.9 WHYY
+#EXTINF:-1,HD 90.9-1 WHYY
 http://whyy.streamguys1.com/whyy-mp3
+#EXTINF:-1,HD 90.9-2 WHYY
+http://whyy-hd.streamguys1.com/whyy-hd-mp3
 #EXTINF:-1,FM 91.7 WKDU
 https://streams.wkdu.org/listen.mp3
 #EXTINF:-1,HD 92.5-1 WXTU
