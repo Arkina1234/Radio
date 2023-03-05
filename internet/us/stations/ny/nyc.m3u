@@ -2,7 +2,7 @@
 #EXTINF:0,AM 570 WMCA
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMCAAMAAC_SC
 #EXTINF:0,AM 620 WSNR
-http://ags.abinet.com:8800/dr.mp3
+http://ags.abinet.com:8800/wsnr.mp3
 #EXTINF:0,AM 660 WFAN
 https://entercom-sgrewind.streamguys1.com/entercom/417/playlist_dvr_range-1671886800-now.m3u8
 #EXTINF:0,AM 710 WOR
@@ -36,7 +36,7 @@ https://livestreamcdn.net:2000/stream/RadioVisionCristianaRadio/stream
 #EXTINF:0,AM 1380 WKDM
 http://mobilewzrc.serverroom.us:6912/;stream.mp3
 #EXTINF:0,AM 1460 WVOX
-https://rocket.surfernetwork.com:10001/live/wvox_aac/playlist.m3u8
+https://crystalout.surfernetwork.com:8001/WVOX_MP3
 #EXTINF:0,AM 1480 WZRC
 http://mobilewzrc.serverroom.us:6910/;stream.mp3?wzrc
 #EXTINF:0,AM 1520 WKDM
@@ -63,7 +63,7 @@ http://peridot.streamguys1.com:5350/iheart
 http://peridot.streamguys1.com:5350/iheartjazz
 #EXTINF:0,HD 89.1-3 WFDU
 http://peridot.streamguys1.com:5350/iheartclassical
-#EXTINF:0,FM 89.2 WNYU
+#EXTINF:0,FM 89.1 WNYU
 http://cinema.acs.its.nyu.edu:8000/wnyu128.mp3
 #EXTINF:0,FM 89.5 WSOU
 https://ample.revma.ihrhls.com/zc5252
@@ -71,8 +71,6 @@ https://ample.revma.ihrhls.com/zc5252
 https://wkcr.streamguys1.com/live
 #EXTINF:0,HD 89.9-2 WKCR-HD2
 http://wwfm.streamguys1.com/live
-#EXTINF:0,HD 89.9-3 WKCR-HD3
-https://npr-ice.streamguys1.com/live.mp3
 #EXTINF:0,FM 90.3 WKRB
 http://146.111.118.62:8000/radio
 #EXTINF:0,HD 90.7-1 WFUV
@@ -94,25 +92,17 @@ https://liveaudio.lamusica.com/NY_WPAT_icy
 #EXTINF:0,HD 93.1-2 WPAT-HD2
 https://radio.worldkast.com:2000/stream/8042
 #EXTINF:0,HD 93.5-1 WVIP
-https://rocket.surfernetwork.com:10001/live/wvip_aac/playlist.m3u8?wvip
+https://crystalout.surfernetwork.com:8001/WVIP_MP3
 #EXTINF:0,HD 93.5-2 WVIP
-https://rocket.surfernetwork.com:10001/live/wvox_aac/playlist.m3u8?wvox
+https://stream.zeno.fm/0xq8rd4hkrwtv
+#EXTINF:0,HD 93.5-4 WVIP
+http://ingest.live365.com:8000/a48202_live
 #EXTINF:0,HD 93.9-1 WNYC-FM
 http://fm939.wnyc.org/wnycfm
-#EXTINF:0,HD 93.9-2 WNYC-HD2
-http://stream.wqxr.org/wqxr?wnyc
-#EXTINF:0,HD 93.9-3 WNYC-HD3
-http://am820.wnyc.org/wnycam?wnyc
 #EXTINF:0,HD 94.7-1 WXBK
 https://live.amperwave.net/manifest/audacy-wxbkfmaac-imc?apv=a2&source=webA2
 #EXTINF:0,HD 94.7-2 WXBK
 https://live.amperwave.net/manifest/audacy-wxbkhd2aac-imc?apv=a2&source=webA2
-#EXTINF:0,HD 95.5-1 WPLJ
-https://maestro.emfcdn.com/stream_for/k-love/web/aac
-#EXTINF:0,HD 95.5-2 WPLJ
-https://maestro.emfcdn.com/stream_for/k-love-90s/web/aac
-#EXTINF:0,HD 95.5-3 WPLJ
-https://maestro.emfcdn.com/stream_for/air1/web/aac?hd3
 #EXTINF:0,HD 95.5-4 WPLJ
 https://bridge-libstrm.radioca.st/stream
 #EXTINF:0,HD 96.3-1 WXNY-FM
@@ -123,12 +113,6 @@ https://live.wostreaming.net/direct/univision-wadoamaac-imc1?hd2
 https://securestreams5.autopo.st:1844/stream
 #EXTINF:0,HD 96.3-4 WXNY-HD4
 https://us9.maindigitalstream.com/ssl/freedomfm
-#EXTINF:0,HD 96.7-1 WARW
-https://maestro.emfcdn.com/stream_for/air1/web/aac
-#EXTINF:0,HD 96.7-2 WARW
-https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac
-#EXTINF:0,HD 96.7-3 WARW
-http://ice10.securenetsystems.net/KMRO
 #EXTINF:0,FM 97.1 WQHT
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC
 #EXTINF:0,FM 97.9 WSKQ-FM
@@ -166,7 +150,7 @@ https://stream.revma.ihrhls.com/zc3949
 #EXTINF:0,HD 103.5-3 WKTU
 https://stream.revma.ihrhls.com/zc8143
 #EXTINF:0,FM 103.9 WVBN
-https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFM.mp3
+https://26253.live.streamtheworld.com:443/WVCYFM.mp3
 #EXTINF:0,HD 104.3-1 WAXQ
 http://ample.revma.ihrhls.com/zc1465
 #EXTINF:0,HD 104.3-2 WAXQ
@@ -174,7 +158,7 @@ https://stream.revma.ihrhls.com/zc5874?iheart
 #EXTINF:0,HD 105.1-1 WWPR-FM
 http://ample.revma.ihrhls.com/zc1481
 #EXTINF:0,HD 105.1-2 WWPR-HD2
-https://stream.revma.ihrhls.com/zc6495
+https://ic.streann.com/rusafm
 #EXTINF:0,HD 105.1-3 WWPR-HD3
 https://stream.revma.ihrhls.com/zc8772?iheart
 #EXTINF:0,HD 105.9-1 WQXR-FM
