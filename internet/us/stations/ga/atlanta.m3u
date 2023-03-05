@@ -21,6 +21,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WFOMAM_SC
 https://crystalout.surfernetwork.com:8001/WCHK-AM_MP3
 #EXTINF:-1,AM 1310 WJZA
 https://crystalout.surfernetwork.com:8001/WJZA-AM_MP3
+#EXTINF:-1,AM 1340 WIFN
+https://playerservices.streamtheworld.com/api/livestream-redirect/WIFNAM_SC
 #EXTINF:-1,AM 1420 WWSZ
 http://104.6.216.93:8000/Streetz
 #EXTINF:-1,AM 1430 WYKG
@@ -57,6 +59,8 @@ https://rtn.cdnstream1.com/2576_96.aac
 https://rtn.cdnstream1.com/2581_96.aac
 #EXTINF:-1,HD 93.3-3 WVFJ-HD3
 https://rtn.cdnstream1.com/2582_96.aac
+#EXTINF:-1,HD 96.1-2 WWPW
+https://ice3.securenetsystems.net/PEACH
 #EXTINF:-1,HD 97.1-1 WSRV
 https://cmg.streamguys1.com/atl971/atl971-sgplayer-mp3
 #EXTINF:-1,HD 98.5-1 WSB-FM
