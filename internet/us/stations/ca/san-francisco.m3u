@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1,HD 88.5 KQED-FM
+http://streams.kqed.org/kqedradio
+#EXTINF:-1,FM 89.5 KPOO
+http://amber.streamguys.com:5220/xstream
+#EXTINF:-1,FM 90.3 KDFC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFM.mp3
+#EXTINF:-1,FM 90.7 KALX
+http://stream.kalx.berkeley.edu:8000/kalx-128.mp3
+#EXTINF:-1,HD 91.1 KCSM
+https://ice5.securenetsystems.net/KCSM
+#EXTINF:-1,HD 91.7 KALW
+http://live.str3am.com:7820/wvpb
+#EXTINF:-1,FM 92.7 KREV
+https://ice42.securenetsystems.net/KREV
+#EXTINF:-1,FM 93.3 KRZZ
+https://liveaudio.lamusica.com/SF_KRZZ_icy
+#EXTINF:-1,FM 94.1 KPFA
+https://streams.kpfa.org:8443/kpfa
+#EXTINF:-1,HD 94.9 KYLD
+https://stream.revma.ihrhls.com/zc305
+#EXTINF:-1,FM 95.7 KGMZ-FM
+https://live.amperwave.net/direct/audacy-kgmzfmaac-imc
+#EXTINF:-1,HD 96.5-1 KOIT
+https://bonneville.cdnstream1.com/2624_64.mp3
+#EXTINF:-1,HD 96.5-2 KOIT-HD2
+https://bonneville.cdnstream1.com/2625_64.mp3
+#EXTINF:-1,HD 96.5-3 KOIT-HD3
+https://bonneville.cdnstream1.com/2784_64.mp3
+#EXTINF:-1,HD 97.3-1 KLLC
+https://live.amperwave.net/direct/audacy-kllcfmaac-imc
+#EXTINF:-1,HD 98.1 KISQ
+https://stream.revma.ihrhls.com/zc285
+#EXTINF:-1,HD 98.9-1 KSOL
+https://live.amperwave.net/direct/univision-ksolfmaac-imc2
+#EXTINF:-1,HD 99.7-1 KMVQ-FM
+https://bonneville.cdnstream1.com/2622_64.mp3
+#EXTINF:-1,HD 99.7-2 KMVQ-HD2
+https://bonneville.cdnstream1.com/2623_64.mp3
+#EXTINF:-1,HD 105.7 KVVF
+https://live.amperwave.net/direct/univision-kvvffmaac-imc2
+#EXTINF:-1,HD 101.3-1 KIOI
+https://stream.revma.ihrhls.com/zc281
+#EXTINF:-1,HD 102.1 KRBQ
+https://live.amperwave.net/direct/audacy-krbqfmaac-imc
+#EXTINF:-1,HD 102.9-1 KBLX-FM
+https://bonneville.cdnstream1.com/2621_64.mp3
+#EXTINF:-1,HD 102.9-2 KBLX-HD2
+https://bonneville.cdnstream1.com/2744_64.mp3
+#EXTINF:-1,HD 102.9-1 KBLX-HD3
+https://bonneville.cdnstream1.com/2775_64.mp3
+#EXTINF:-1,HD 103.7-1 KOSF
+https://stream.revma.ihrhls.com/zc4342
+#EXTINF:-1,FM 104.5 KNBR-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KNBRAMAAC.aac
+#EXTINF:-1,HD 105.3 KITS
+https://live.amperwave.net/direct/audacy-kitsfmaac-imc
+#EXTINF:-1,HD 106.1 KMEL
+https://stream.revma.ihrhls.com/zc293.m3u
+#EXTINF:-1,HD 106.9 KFRC-FM
+https://live.amperwave.net/direct/audacy-kcbsamaac-imc
+#EXTINF:-1,HD 107.7 KSAN
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSANFMAAC.aac
