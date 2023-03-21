@@ -7,30 +7,16 @@ https://kunc.streamguys1.com/kjac
 https://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM.mp3
 #EXTINF:-1,WETA VivaLaVoce
 https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3
-#EXTINF:-1,GPB Classical
-https://gpb.streamguys1.com/oom/gpb-classical-mp3
 #EXTINF:-1,Jazz 91.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCLKFM_SC
 #EXTINF:-1,Mainstream 91.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/WCLKHD2_SC
+#EXTINF:-1,Iowa Public Radio Classical
+https://classical-stream.iowapublicradio.org/Classical.mp3
 #EXTINF:-1,98.7 WFMT
 http://wfmt.streamguys1.com/main.aac
 #EXTINF:-1,CRB Classical 99.5
 https://streams.audio.wgbh.org/classical-hi
-#EXTINF:-1,WUMB Radio
-http://wumb.streamguys1.com/wumb919
-#EXTINF:-1,WUMB Blues
-http://wumb.streamguys1.com/wumb919st
-#EXTINF:-1,WUMB Celtic Music
-http://wumb.streamguys1.com/wumb919cj
-#EXTINF:-1,WUMB Contemporary Folk
-http://wumb.streamguys1.com/wumb919cf
-#EXTINF:-1,WUMB French Accent
-http://wumb.streamguys1.com/wumb919fr
-#EXTINF:-1,WUMB Student Radio
-http://wumb.streamguys1.com/wumb919ho2
-#EXTINF:-1,WUMB Studio Archives
-http://wumb.streamguys1.com/wumb919od
 #EXTINF:-1,The Current
 http://current.stream.publicradio.org/kcmp.aac
 #EXTINF:-1,Local Current
@@ -105,10 +91,6 @@ https://ice-1.streamhoster.com/lv_wqed--qthemusic
 https://ais-sa3.cdnstream1.com/2557_128.aac
 #EXTINF:-1,WMOT 89.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/WMOTFM.mp3
-#EXTINF:-1,MTSU Jazz Network
-https://ice64.securenetsystems.net/WMOT
-#EXTINF:-1,91.one
-https://wpln.streamguys1.com/wnxpfm.mp3
 #EXTINF:-1,KUTX 98.9
 https://kut.streamguys1.com/kutx-free
 #EXTINF:-1,Austin Music Experience
@@ -127,9 +109,3 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WNRNFM_128_SC
 https://classicalking.streamguys1.com/king-fm-mp3
 #EXTINF:-1,Evergreen Channel
 https://classicalking.streamguys1.com/evergreen-mp3
-#EXTINF:-1,88Nine Radio Milwaukee
-http://radiomilwaukee.streamguys.net/live
-#EXTINF:-1,HYFIN
-https://wyms.streamguys1.com/hyfin
-#EXTINF:-1,414Music.FM
-https://wyms.streamguys1.com/414music_aac
