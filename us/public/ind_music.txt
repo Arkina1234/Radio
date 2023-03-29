@@ -1,8 +1,0 @@
-WAPS
-https://securestreams2.autopo.st:1194/waps32k
-WAPS HD2
-https://securestreams2.autopo.st:1194/wapshd2b
-WAPS HD3
-http://streamer2.legatocommunications.com/kidjam1
-WAPS HD4
-https://securestreams2.autopo.st:1194/wapsHD4aac
