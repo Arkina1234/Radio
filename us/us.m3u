@@ -85,3 +85,9 @@ http://192.111.140.11:8272/stream
 https://centova2.cheapshoutcast.com/proxy/thewhip?mp=/stream
 #EXTINF:-1,Seeburg 1000 Background Music
 https://psn3.prostreaming.net/proxy/seeburg/stream/;
+#EXTINF:-1,Route 66 Country Radio
+https://c5.auracast.net/listen/route_66_country_radio/radio.mp3
+#EXTINF:-1,Radio 180 New Wave Classic's
+https://digitalaudiobroadcasting.net/8004/stream
+#EXTINF:-1,Rewound Radio
+http://71.125.37.66:5001/rewound
