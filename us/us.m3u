@@ -91,3 +91,7 @@ https://c5.auracast.net/listen/route_66_country_radio/radio.mp3
 https://digitalaudiobroadcasting.net/8004/stream
 #EXTINF:-1,Rewound Radio
 http://71.125.37.66:5001/rewound
+#EXTINF:-1,NCM Radio
+https://cast1.asurahosting.com/proxy/ncmradio/streamstream
+#EXTINF:-1,Kidz Corner Radio
+https://cast1.asurahosting.com/proxy/kidzcornerradio/streamstream
