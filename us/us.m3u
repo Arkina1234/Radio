@@ -76,13 +76,15 @@ https://digitalaudiobroadcasting.net/8004/stream
 #EXTINF:-1,Rewound Radio
 http://71.125.37.66:5001/rewound
 #EXTINF:-1,NCM Radio
-https://cast1.asurahosting.com/proxy/ncmradio/stream
+https://cast1.asurahosting.com/proxy/ncmradio/streamstream
 #EXTINF:-1,Kidz Corner Radio
-https://cast1.asurahosting.com/proxy/kidzcornerradio/stream
+https://cast1.asurahosting.com/proxy/kidzcornerradio/streamstream
 #EXTINF:-1,The Shark
-https://cast1.asurahosting.com/proxy/thesharkradio/stream
+https://cast1.asurahosting.com/proxy/thesharkradio/streamstream
 #EXTINF:-1,Sunny Radio
-https://cast1.asurahosting.com/proxy/sunnyonlineradio/stream
+https://cast1.asurahosting.com/proxy/sunnyonlineradio/streamstream
+#EXTINF:-1,AMR
+https://cast1.asurahosting.com/proxy/amr/streamstream
 #EXTINF:-1,Chill Lounge Florida
 https://vip2.fastcast4u.com/proxy/chillfla?mp=/1
 #EXTINF:-1,Classic Rock Florida
