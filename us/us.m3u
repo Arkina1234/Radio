@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1,Radio InfoWeb: Main
+http://stream.radioinfoweb.net:8000/main
+#EXTINF:-1,Radio InfoWeb: Mobile
+http://stream.radioinfoweb.net:8000/mobile
+#EXTINF:-1,Radio InfoWeb: Studio 1
+http://stream.radioinfoweb.net:8000/studio1
+#EXTINF:-1,Radio InfoWeb: Studio 2
+http://stream.radioinfoweb.net:8000/studio2
+#EXTINF:-1,Radio InfoWeb: World
+http://stream.radioinfoweb.net:8000/world
+#EXTINF:-1,Radio InfoWeb: Jam
+http://stream.radioinfoweb.net:8000/jam
+#EXTINF:-1,Radio InfoWeb: Deep Space Chill
+http://stream.radioinfoweb.net:8000/chill
+#EXTINF:-1,Radio InfoWeb: All News All the Time
+http://stream.radioinfoweb.net:8000/news
+#EXTINF:-1,Big Blue Swing.com: 64bit
+http://radio.bigblueswing.com:8002/;64bit.mp3
+#EXTINF:-1,Big Blue Swing.com: 32bit
+http://radio.bigblueswing.com:8004/;32bit.mp3
 #EXTINF:-1,TheJazzGroove.com: channel 1 (West)
 http://west-aac-64.streamthejazzgroove.com/stream
 #EXTINF:-1,TheJazzGroove.com: channel 2 (East)
@@ -66,7 +86,7 @@ http://192.111.140.11:8272/stream
 #EXTINF:-1,The Whip Radio
 http://centova2.cheapshoutcast.com/proxy/thewhip?mp=/stream
 #EXTINF:-1,Seeburg 1000 Background Music
-http://psn3.prostreaming.net/proxy/seeburg/stream/;
+http://psn3.prostreaming.net/proxy/seeburg/stream
 #EXTINF:-1,The Big 80s Station
 http://thebig80sstation.servemp3.com/stream
 #EXTINF:-1,Radio 180 New Wave Classic's
@@ -99,3 +119,5 @@ http://c2409ic1.fast-serv.com/stream
 http://streamer.radio.co/s5cd7204e5/low
 #EXTINF:-1,Swing Street Radio
 http://s6.voscast.com:11312/stream
+#EXTINF:-1,The Penthouse
+http://s2.nexuscast.com:8000/stream
