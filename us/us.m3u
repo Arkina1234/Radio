@@ -12,47 +12,47 @@ http://kidspublicradio.got.net:8000/jabberwocky
 #EXTINF:-1,Kids Public Radio: Cosquillas
 http://kidspublicradio.got.net:8000/cosquillas
 #EXTINF:-1,disco.miami: The Disco Palace
-https://broadcast.miami/proxy/thediscopalace?mp=/stream/;
+http://broadcast.miami/proxy/thediscopalace?mp=/stream/;
 #EXTINF:-1,disco.miami: The Disco Paradise
-https://broadcast.miami/proxy/thediscoparadise?mp=/stream/;
+http://broadcast.miami/proxy/thediscoparadise?mp=/stream/;
 #EXTINF:-1,disco.miami: The Disco Planet
-https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;
+http://broadcast.miami/proxy/thediscoplanet?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio Indie Disco
-https://broadcast.miami/proxy/indiedisco?mp=/stream/;
+http://broadcast.miami/proxy/indiedisco?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio Italo Disco
-https://broadcast.miami/proxy/italodisco?mp=/stream/;
+http://broadcast.miami/proxy/italodisco?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio Casablanca
-https://broadcast.miami/proxy/casablanca?mp=/stream/;
+http://broadcast.miami/proxy/casablanca?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio Columbia
-https://broadcast.miami/proxy/columbia?mp=/stream/;
+http://broadcast.miami/proxy/columbia?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio Atlantic
-https://broadcast.miami/proxy/atlantic?mp=/stream/;
+http://broadcast.miami/proxy/atlantic?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio Salsoul
-https://broadcast.miami/proxy/salsoul?mp=/stream/;
+http://broadcast.miami/proxy/salsoul?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio Prelude
-https://broadcast.miami/proxy/prelude?mp=/stream/;
+http://broadcast.miami/proxy/prelude?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio Motown
-https://broadcast.miami/proxy/motown?mp=/stream/;
+http://broadcast.miami/proxy/motown?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio TSOP
-https://broadcast.miami/proxy/tsop?mp=/stream/;
+http://broadcast.miami/proxy/tsop?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio T.K. Disco
-https://broadcast.miami/proxy/tkdisco?mp=/stream/;
+http://broadcast.miami/proxy/tkdisco?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio West End
-https://broadcast.miami/proxy/westend?mp=/stream/;
+http://broadcast.miami/proxy/westend?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio Solar
-https://broadcast.miami/proxy/solar?mp=/stream/;
+http://broadcast.miami/proxy/solar?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio Polydor
-https://broadcast.miami/proxy/polydor?mp=/stream/;
+http://broadcast.miami/proxy/polydor?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio RCA
-https://broadcast.miami/proxy/rca?mp=/stream/;
+http://broadcast.miami/proxy/rca?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio Warner Bros
-https://broadcast.miami/proxy/warnerbros?mp=/stream/;
+http://broadcast.miami/proxy/warnerbros?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio Concord
-https://broadcast.miami/proxy/concord?mp=/stream/;
+http://broadcast.miami/proxy/concord?mp=/stream/;
 #EXTINF:-1,disco.miami: Radio Unidisco
-https://broadcast.miami/proxy/unidisco?mp=/stream/;
+http://broadcast.miami/proxy/unidisco?mp=/stream/;
 #EXTINF:-1,Jazz Radio Network: Classical Jazz Radio - Where classical meets jazz
-https://cast1.torontocast.com:1655/stream
+http://cast1.torontocast.com:1650/stream
 #EXTINF:-1,Jazz Radio Network: Jazz Vespers Radio - The Softer Side of Jazz
 http://kathy.torontocast.com:3530/stream
 #EXTINF:-1,Jazz Radio Network: Jazz Lovers Radio - Standards & Love Songs
@@ -64,36 +64,36 @@ http://cp2.digistream.info:9094/stream
 #EXTINF:-1,Rockin Rhythm and Blues Radio
 http://192.111.140.11:8272/stream
 #EXTINF:-1,The Whip Radio
-https://centova2.cheapshoutcast.com/proxy/thewhip?mp=/stream
+http://centova2.cheapshoutcast.com/proxy/thewhip?mp=/stream
 #EXTINF:-1,Seeburg 1000 Background Music
-https://psn3.prostreaming.net/proxy/seeburg/stream/;
-#EXTINF:-1,Route 66 Country Radio
-https://c5.auracast.net/listen/route_66_country_radio/radio.mp3
+http://psn3.prostreaming.net/proxy/seeburg/stream/;
 #EXTINF:-1,The Big 80s Station
 http://thebig80sstation.servemp3.com/stream
 #EXTINF:-1,Radio 180 New Wave Classic's
-https://digitalaudiobroadcasting.net/8004/stream
+http://digitalaudiobroadcasting.net/8004/stream
 #EXTINF:-1,Rewound Radio
 http://71.125.37.66:5001/rewound
 #EXTINF:-1,NCM Radio
-https://cast1.asurahosting.com/proxy/ncmradio/streamstream
+http://cast1.asurahosting.com/proxy/ncmradio/streamstream
 #EXTINF:-1,Kidz Corner Radio
-https://cast1.asurahosting.com/proxy/kidzcornerradio/streamstream
+http://cast1.asurahosting.com/proxy/kidzcornerradio/streamstream
 #EXTINF:-1,The Shark
-https://cast1.asurahosting.com/proxy/thesharkradio/streamstream
+http://cast1.asurahosting.com/proxy/thesharkradio/streamstream
 #EXTINF:-1,Sunny Radio
-https://cast1.asurahosting.com/proxy/sunnyonlineradio/streamstream
+http://cast1.asurahosting.com/proxy/sunnyonlineradio/streamstream
 #EXTINF:-1,AMR
-https://cast1.asurahosting.com/proxy/amr/streamstream
+http://cast1.asurahosting.com/proxy/amr/streamstream
 #EXTINF:-1,Chill Lounge Florida
-https://vip2.fastcast4u.com/proxy/chillfla?mp=/1
+http://vip2.fastcast4u.com/proxy/chillfla?mp=/1
 #EXTINF:-1,Classic Rock Florida
-https://vip2.fastcast4u.com/proxy/classicrockdoug?mp=/1
+http://vip2.fastcast4u.com/proxy/classicrockdoug?mp=/1
 #EXTINF:-1,Eazy Hits Florida
-https://vip2.fastcast4u.com/proxy/easyhitsmiamisfl?mp=/1
+http://vip2.fastcast4u.com/proxy/easyhitsmiamisfl?mp=/1
 #EXTINF:-1,Smooth Jazz CD101.9
-https://vip2.fastcast4u.com/proxy/sjcd109?mp=/1
+http://vip2.fastcast4u.com/proxy/sjcd109?mp=/1
 #EXTINF:-1,LaJefa.Net
-https://dj91.hostingnuclear.com/8042/stream
+http://dj91.hostingnuclear.com/8042/stream
 #EXTINF:-1,Party 101.9 Radio
-https://c2409ic1.fast-serv.com/stream
+http://c2409ic1.fast-serv.com/stream
+#EXTINF:-1,Sounds of Broadway
+http://streamer.radio.co/s5cd7204e5/low
