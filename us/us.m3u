@@ -105,12 +105,14 @@ http://cast1.asurahosting.com/proxy/sunnyonlineradio/streamstream
 http://cast1.asurahosting.com/proxy/amr/streamstream
 #EXTINF:-1,Smooth Jazz Florida HD
 http://vip2.fastcast4u.com/proxy/wsjfhd?mp=/1
+#EXTINF:-1,Eazy Hits Florida
+http://vip2.fastcast4u.com/proxy/easyhitsmiamisfl?mp=/1
+#EXTINF:-1,Magic Oldies Florida
+https://vip2.fastcast4u.com/proxy/magicfla?mp=/1
 #EXTINF:-1,Chill Lounge Florida
 http://vip2.fastcast4u.com/proxy/chillfla?mp=/1
 #EXTINF:-1,Classic Rock Florida
 http://vip2.fastcast4u.com/proxy/classicrockdoug?mp=/1
-#EXTINF:-1,Eazy Hits Florida
-http://vip2.fastcast4u.com/proxy/easyhitsmiamisfl?mp=/1
 #EXTINF:-1,Smooth Jazz CD101.9
 http://vip2.fastcast4u.com/proxy/sjcd109?mp=/1
 #EXTINF:-1,LaJefa.Net
