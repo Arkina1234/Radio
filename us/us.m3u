@@ -103,6 +103,8 @@ http://cast1.asurahosting.com/proxy/thesharkradio/streamstream
 http://cast1.asurahosting.com/proxy/sunnyonlineradio/streamstream
 #EXTINF:-1,AMR
 http://cast1.asurahosting.com/proxy/amr/streamstream
+#EXTINF:-1,Life Pump Music
+https://server10.reliastream.com/proxy/josh1?mp=/stream
 #EXTINF:-1,Smooth Jazz Florida HD
 http://vip2.fastcast4u.com/proxy/wsjfhd?mp=/1
 #EXTINF:-1,Eazy Hits Florida
