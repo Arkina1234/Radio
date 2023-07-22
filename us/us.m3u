@@ -103,8 +103,6 @@ http://cast1.asurahosting.com/proxy/thesharkradio/streamstream
 http://cast1.asurahosting.com/proxy/sunnyonlineradio/streamstream
 #EXTINF:-1,AMR
 http://cast1.asurahosting.com/proxy/amr/streamstream
-#EXTINF:-1,Life Pump Music
-https://server10.reliastream.com/proxy/josh1?mp=/stream
 #EXTINF:-1,Smooth Jazz Florida HD
 http://vip2.fastcast4u.com/proxy/wsjfhd?mp=/1
 #EXTINF:-1,Eazy Hits Florida
@@ -117,6 +115,8 @@ http://vip2.fastcast4u.com/proxy/chillfla?mp=/1
 http://vip2.fastcast4u.com/proxy/classicrockdoug?mp=/1
 #EXTINF:-1,Smooth Jazz CD101.9
 http://vip2.fastcast4u.com/proxy/sjcd109?mp=/1
+#EXTINF:-1,Life Pump Music
+http://server10.reliastream.com/proxy/josh1?mp=/stream
 #EXTINF:-1,LaJefa.Net
 http://dj91.hostingnuclear.com/8042/stream
 #EXTINF:-1,Party 101.9 Radio
