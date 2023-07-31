@@ -129,3 +129,5 @@ http://s6.voscast.com:11312/stream
 http://s2.nexuscast.com:8000/stream
 #EXTINF:-1,La Invencible
 http://live.lainvencibleradio.com/stream
+#EXTINF:-1,Global Funk Radio
+https://securestreams2.autopo.st:1148/stream.mp3
