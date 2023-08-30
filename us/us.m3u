@@ -131,3 +131,7 @@ http://s2.nexuscast.com:8000/stream
 http://live.lainvencibleradio.com/stream
 #EXTINF:-1,Global Funk Radio
 https://securestreams2.autopo.st:1148/stream.mp3
+#EXTINF:-1,The Ranch
+http://puma.streemlion.com:3200/stream
+#EXTINF:-1,Classic Country Legends Radio
+http://puma.streemlion.com:3540/stream
