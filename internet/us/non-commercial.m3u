@@ -1,1 +1,39 @@
-
+#EXTM3U
+#EXTINF:-1,OK- Tulsa: Public Radio 89.5 [stereo/AAC]
+http://utulsa.streamguys1.com/KWGSHD1-AAC
+#EXTINF:-1,OK- Tulsa: Public Radio 89.5 [mono/MP3]
+http://utulsa.streamguys1.com/KWGSHD1-MP3
+#EXTINF:-1,OK- Tulsa: Jazz 89.5 HD2 [stereo/AAC]
+http://utulsa.streamguys1.com/KWGSHD2-AAC
+#EXTINF:-1,OK- Tulsa: Jazz 89.5 HD2 [mono/MP3]
+http://utulsa.streamguys1.com/KWGSHD2-MP3
+#EXTINF:-1,OK- Tulsa: World Radio 89.5 HD3 [stereo/AAC]
+http://utulsa.streamguys1.com/KWGSHD3-AAC
+#EXTINF:-1,OK- Tulsa: World Radio 89.5 HD3 [mono/MP3]
+http://utulsa.streamguys1.com/KWGSHD3-MP3
+#EXTINF:-1,OK- Tulsa: Classical 88.7 [stereo/AAC]
+http://utulsa.streamguys1.com/KWTUHD1-AAC
+#EXTINF:-1,OK- Tulsa: Classical 88.7 [mono/MP3]
+http://utulsa.streamguys1.com/KWTUHD1-MP3
+#EXTINF:-1,TX- Austin: KMFA 89.5
+http://kmfa.streamguys1.com/KMFA-mp3
+#EXTINF:-1,TX- College Station: KAMU-FM [192kbps]
+http://kamu.streamguys1.com/hd1-192
+#EXTINF:-1,TX- College Station: KAMU-FM [64kbps]
+http://kamu.streamguys1.com/hd1-64
+#EXTINF:-1,TX- College Station: KAMU-Classical [192kbps]
+http://kamu.streamguys1.com/hd2-192
+#EXTINF:-1,TX- College Station: KAMU-Classical [64kbps]
+http://kamu.streamguys1.com/hd2-64
+#EXTINF:-1,TX- Houston: HPM News 88.7 [AAC]
+http://stream.houstonpublicmedia.org/news-aac
+#EXTINF:-1,TX- Houston: HPM News 88.7 [MP3]
+http://stream.houstonpublicmedia.org/news-mp3
+#EXTINF:-1,TX- Houston: HPM Classical [AAC]
+http://stream.houstonpublicmedia.org/classical-aac
+#EXTINF:-1,TX- Houston: HPM Classical [MP3]
+http://stream.houstonpublicmedia.org/classical-mp3
+#EXTINF:-1,TX- Houston: HPM Mixtape [AAC]
+http://stream.houstonpublicmedia.org/mixtape-aac
+#EXTINF:-1,TX- Houston: HPM Mixtape [MP3]
+http://stream.houstonpublicmedia.org/mixtape-mp3
