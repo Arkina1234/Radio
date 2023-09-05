@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1,AR- Fayetteville: KUAF
+http://war.streamguys1.com:7030/kuaf1
+#EXTINF:-1,AR- Fayetteville: KUAF 2 Classical
+http://war.streamguys1.com:7030/kuaf2
+#EXTINF:-1,AR- Fayetteville: KUAF 3 Jazz
+http://war.streamguys1.com:7030/kuaf3
+#EXTINF:-1,KS: Kansas Public Radio
+http://streaming.kansaspublicradio.org:8000/kpr1
+#EXTINF:-1,KS: KPR 2
+http://streaming.kansaspublicradio.org:8000/kpr2
+#EXTINF:-1,LA: Red River Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM.mp3
+#EXTINF:-1,LA: All Classical
+http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2.mp3
+#EXTINF:-1,LA: News/Talk
+http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3.mp3
+#EXTINF:-1,MO- Kansas City: KCUR 89.3 [MP3]
+http://playerservices.streamtheworld.com/api/livestream-redirect/KCURFM.mp3
+#EXTINF:-1,MO- Kansas City: KCUR 89.3 [AAC]
+http://playerservices.streamtheworld.com/api/livestream-redirect/KCURFM_ADP.aac
+#EXTINF:-1,MO- Kansas City: 91.9 Classical KC [MP3]
+http://playerservices.streamtheworld.com/api/livestream-redirect/KWJCFM.mp3
+#EXTINF:-1,MO- Kansas City: 91.9 Classical KC [AAC]
+http://playerservices.streamtheworld.com/api/livestream-redirect/KWJCFM_ADP.aac
+#EXTINF:-1,OK- Tulsa: Classical 88.7 [stereo/AAC]
+http://utulsa.streamguys1.com/KWTUHD1-AAC
+#EXTINF:-1,OK- Tulsa: Classical 88.7 [mono/MP3]
+http://utulsa.streamguys1.com/KWTUHD1-MP3
 #EXTINF:-1,OK- Tulsa: Public Radio 89.5 [stereo/AAC]
 http://utulsa.streamguys1.com/KWGSHD1-AAC
 #EXTINF:-1,OK- Tulsa: Public Radio 89.5 [mono/MP3]
@@ -11,10 +39,6 @@ http://utulsa.streamguys1.com/KWGSHD2-MP3
 http://utulsa.streamguys1.com/KWGSHD3-AAC
 #EXTINF:-1,OK- Tulsa: World Radio 89.5 HD3 [mono/MP3]
 http://utulsa.streamguys1.com/KWGSHD3-MP3
-#EXTINF:-1,OK- Tulsa: Classical 88.7 [stereo/AAC]
-http://utulsa.streamguys1.com/KWTUHD1-AAC
-#EXTINF:-1,OK- Tulsa: Classical 88.7 [mono/MP3]
-http://utulsa.streamguys1.com/KWTUHD1-MP3
 #EXTINF:-1,TX- Austin: KMFA 89.5
 http://kmfa.streamguys1.com/KMFA-mp3
 #EXTINF:-1,TX- College Station: KAMU-FM [192kbps]
