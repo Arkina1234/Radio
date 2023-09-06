@@ -49,15 +49,25 @@ http://kamu.streamguys1.com/hd1-64
 http://kamu.streamguys1.com/hd2-192
 #EXTINF:-1,TX- College Station: KAMU-Classical [64kbps]
 http://kamu.streamguys1.com/hd2-64
+#EXTINF:-1,TX- Dallas: KERA 90.1
+http://kera.streamguys1.com/keralive
+#EXTINF:-1,TX- Dallas: KERA 90.1 [AAC+]
+http://kera.streamguys1.com/keraliveaacplus
+#EXTINF:-1,TX- Dallas: KXT 91.7
+http://kera.streamguys1.com/kxtlive128
+#EXTINF:-1,TX- Dallas: KXT 91.7 [AAC+]
+https://kera.streamguys1.com/kxtlive64aacplus
+#EXTINF:-1,TX- Dallas: Classical 101 WRR
+https://playerservices.streamtheworld.com/pls/WRRFM.pls
+#EXTINF:-1,TX- Houston: HPM News 88.7
+http://stream.houstonpublicmedia.org/news-mp3
 #EXTINF:-1,TX- Houston: HPM News 88.7 [AAC]
 http://stream.houstonpublicmedia.org/news-aac
-#EXTINF:-1,TX- Houston: HPM News 88.7 [MP3]
-http://stream.houstonpublicmedia.org/news-mp3
+#EXTINF:-1,TX- Houston: HPM Classical
+http://stream.houstonpublicmedia.org/classical-mp3
 #EXTINF:-1,TX- Houston: HPM Classical [AAC]
 http://stream.houstonpublicmedia.org/classical-aac
-#EXTINF:-1,TX- Houston: HPM Classical [MP3]
-http://stream.houstonpublicmedia.org/classical-mp3
+#EXTINF:-1,TX- Houston: HPM Mixtape
+http://stream.houstonpublicmedia.org/mixtape-mp3
 #EXTINF:-1,TX- Houston: HPM Mixtape [AAC]
 http://stream.houstonpublicmedia.org/mixtape-aac
-#EXTINF:-1,TX- Houston: HPM Mixtape [MP3]
-http://stream.houstonpublicmedia.org/mixtape-mp3
