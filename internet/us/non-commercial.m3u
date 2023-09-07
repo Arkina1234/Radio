@@ -5,6 +5,10 @@ http://war.streamguys1.com:7030/kuaf1
 http://war.streamguys1.com:7030/kuaf2
 #EXTINF:-1,AR- Fayetteville: KUAF 3 Jazz
 http://war.streamguys1.com:7030/kuaf3
+#EXTINF:-1,DC: WAMU 88.5
+http://wamu-1.streamguys.com/
+#EXTINF:-1,DC: WAMU 88.5 [AAC+]
+http://wamu-1.streamguys.com/wamu-1.aac
 #EXTINF:-1,KS: Kansas Public Radio
 http://streaming.kansaspublicradio.org:8000/kpr1
 #EXTINF:-1,KS: KPR 2
@@ -15,6 +19,18 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM.mp3
 http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2.mp3
 #EXTINF:-1,LA: News/Talk
 http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3.mp3
+#EXTINF:-1,MD- Baltimore: WYPR 88.1 FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD1.mp3
+#EXTINF:-1,MD- Baltimore: BBC
+http://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD2.mp3
+#EXTINF:-1,MD- Baltimore: All Classical
+http://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD3.mp3
+#EXTINF:-1,MD- Salisbury: WSCL 89.5
+http://playerservices.streamtheworld.com/api/livestream-redirect/WSCLFM_ADP.aac
+#EXTINF:-1,MD- Salisbury: WSDL 90.7
+http://playerservices.streamtheworld.com/api/livestream-redirect/WSDLFM_ADP.aac
+#EXTINF:-1,MD- Salisbury: WESM 91.3
+http://playerservices.streamtheworld.com/api/livestream-redirect/WESMFM_ADP.aac
 #EXTINF:-1,MO- Kansas City: KCUR 89.3 [MP3]
 http://playerservices.streamtheworld.com/api/livestream-redirect/KCURFM.mp3
 #EXTINF:-1,MO- Kansas City: KCUR 89.3 [AAC]
@@ -39,6 +55,16 @@ http://utulsa.streamguys1.com/KWGSHD2-MP3
 http://utulsa.streamguys1.com/KWGSHD3-AAC
 #EXTINF:-1,OK- Tulsa: World Radio 89.5 HD3 [mono/MP3]
 http://utulsa.streamguys1.com/KWGSHD3-MP3
+#EXTINF:-1,PA- Philadelphia: WXPN
+http://wxpnhi.xpn.org/xpnhi
+#EXTINF:-1,PA- Philadelphia: XPN2
+http://xpn2hi.xpn.org/xpn2hi
+#EXTINF:-1,PA- Philadelphia: WRTI 90.1 Classical
+http://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_CLASSICAL.mp3
+#EXTINF:-1,PA- Philadelphia: WRTI 90.1 Jazz
+http://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3
+#EXTINF:-1,PA- Philadelphia: WHYY-FM
+http://whyy.streamguys1.com/whyy-mp3
 #EXTINF:-1,TX- Austin: KMFA 89.5
 http://kmfa.streamguys1.com/KMFA-mp3
 #EXTINF:-1,TX- College Station: KAMU-FM [192kbps]
