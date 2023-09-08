@@ -105,3 +105,10 @@ http://stream.houstonpublicmedia.org/classical-aac
 http://stream.houstonpublicmedia.org/mixtape-mp3
 #EXTINF:-1,TX- Houston: HPM Mixtape [AAC]
 http://stream.houstonpublicmedia.org/mixtape-aac
+#EXTINF:-1,WI- Milwaukee: 88Nine Radio Milwaukee
+http://radiomilwaukee.streamguys.net/live
+http://wyms.streamguys1.com/live
+#EXTINF:-1,WI- Milwaukee: WUWM 89.7 Milwaukee's NPR
+http://wuwm.streamguys1.com/live
+#EXTINF:-1,WI- Milwaukee: WUWM 89.7 Milwaukee's NPR [64kbps]
+http://wuwm.streamguys1.com/wuwm-64k.aac
