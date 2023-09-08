@@ -105,10 +105,19 @@ http://stream.houstonpublicmedia.org/classical-aac
 http://stream.houstonpublicmedia.org/mixtape-mp3
 #EXTINF:-1,TX- Houston: HPM Mixtape [AAC]
 http://stream.houstonpublicmedia.org/mixtape-aac
+#EXTINF:-1,WI: WPR The Ideas Network (MP3 64Kbps)
+http://wpr-ice.streamguys1.com/wpr-ideas-mp3-64
+#EXTINF:-1,WI: WPR The Ideas Network (AAC 32Kbps)
+http://wpr-ice.streamguys1.com/wpr-ideas-aac-32
+#EXTINF:-1,WI: WPR News & Music Network (MP3 128Kbps)
+http://wpr-ice.streamguys1.com/wpr-music-mp3-96
+#EXTINF:-1,WI: WPR News & Music Network (AAC 80Kbps)
+http://wpr-ice.streamguys1.com/wpr-music-aac-56
+#EXTINF:-1,WI: WPR All Classical Network (MP3 96Kbps)
+http://wpr-ice.streamguys1.com/wpr-hd2-mp3-96
+#EXTINF:-1,WI: WPR All Classical Network (AAC 56Kbps)
+http://wpr-ice.streamguys1.com/wpr-hd2-aac-56
 #EXTINF:-1,WI- Milwaukee: 88Nine Radio Milwaukee
 http://radiomilwaukee.streamguys.net/live
-http://wyms.streamguys1.com/live
 #EXTINF:-1,WI- Milwaukee: WUWM 89.7 Milwaukee's NPR
 http://wuwm.streamguys1.com/live
-#EXTINF:-1,WI- Milwaukee: WUWM 89.7 Milwaukee's NPR [64kbps]
-http://wuwm.streamguys1.com/wuwm-64k.aac
