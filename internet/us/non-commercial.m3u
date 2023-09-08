@@ -9,6 +9,8 @@ http://war.streamguys1.com:7030/kuaf3
 http://wamu-1.streamguys.com/
 #EXTINF:-1,DC: WAMU 88.5 [AAC+]
 http://wamu-1.streamguys.com/wamu-1.aac
+#EXTINF:-1,IL- Chicago: 98.7 WFMT
+http://wfmt.streamguys1.com/main
 #EXTINF:-1,KS: Kansas Public Radio
 http://streaming.kansaspublicradio.org:8000/kpr1
 #EXTINF:-1,KS: KPR 2
@@ -31,6 +33,12 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WSCLFM_ADP.aac
 http://playerservices.streamtheworld.com/api/livestream-redirect/WSDLFM_ADP.aac
 #EXTINF:-1,MD- Salisbury: WESM 91.3
 http://playerservices.streamtheworld.com/api/livestream-redirect/WESMFM_ADP.aac
+#EXTINF:-1,MN: MPR News
+http://nis.stream.publicradio.org/nis.aac
+#EXTINF:-1,MN: YourClassical MPR
+http://cms.stream.publicradio.org/cms.aac
+#EXTINF:-1,MN: The Current
+http://current.stream.publicradio.org/kcmp.aac
 #EXTINF:-1,MO- Kansas City: KCUR 89.3 [MP3]
 http://playerservices.streamtheworld.com/api/livestream-redirect/KCURFM.mp3
 #EXTINF:-1,MO- Kansas City: KCUR 89.3 [AAC]
