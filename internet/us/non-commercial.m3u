@@ -30,7 +30,9 @@ http://wgbh-live.streamguys1.com/wgbh
 #EXTINF:-1,MA- Boston: 90.9 WBUR
 http://wbur-sc.streamguys.com/wbur
 #EXTINF:-1,MA- Boston: WUMB Radio
-http://wumb.streamguys1.com/wumb919
+http://wumb.streamguys1.com/wumb919fast
+#EXTINF:-1,MA- Boston: WUMB Radio [AAC]
+http://wumb.streamguys1.com/wumb919-aac
 #EXTINF:-1,MA- Boston: CRB Classical 99.5
 http://wgbh-live.streamguys1.com/classical-hi
 #EXTINF:-1,MD- Baltimore: WYPR 88.1 FM
