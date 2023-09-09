@@ -13,6 +13,10 @@ http://wamu-1.streamguys.com/wamu-1.aac
 http://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM.mp3
 #EXTINF:-1,DC: WETA VivaLaVoce
 http://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3
+#EXTINF:-1,IL- Chicago: WBEZ 91.5
+http://stream.wbez.org/wbez128.mp3
+#EXTINF:-1,IL- Chicago: Vocalo Radio
+http://stream.wbez.org/vocalo128
 #EXTINF:-1,IL- Chicago: 98.7 WFMT
 http://wfmt.streamguys1.com/main
 #EXTINF:-1,KS: Kansas Public Radio
@@ -95,6 +99,18 @@ http://ais-sa3.cdnstream1.com/2558_128.mp3
 http://ais-sa3.cdnstream1.com/2557_128.mp3
 #EXTINF:-1,TX- Austin: KMFA 89.5
 http://kmfa.streamguys1.com/KMFA-mp3
+#EXTINF:-1,TX- Austin: KUT 90.5
+http://kut.streamguys1.com/kut-free
+#EXTINF:-1,TX- Austin: KUT 90.5 [AAC]
+http://kut.streamguys1.com/kut-free.aac
+#EXTINF:-1,TX- Austin: KUT2
+http://kut.streamguys1.com/kuthd2-free
+#EXTINF:-1,TX- Austin: KUT2 [AAC]
+http://kut.streamguys1.com/kuthd2-free.aac
+#EXTINF:-1,TX- Austin: KUTX 98.9
+http://kut.streamguys1.com/kutx-free
+#EXTINF:-1,TX- Austin: KUTX 98.9 [AAC]
+http://kut.streamguys1.com/kutx-free.aac
 #EXTINF:-1,TX- College Station: KAMU-FM [192kbps]
 http://kamu.streamguys1.com/hd1-192
 #EXTINF:-1,TX- College Station: KAMU-FM [64kbps]
