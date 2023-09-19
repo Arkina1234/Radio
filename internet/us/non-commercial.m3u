@@ -87,7 +87,7 @@ http://ais-sa3.cdnstream1.com/2557_128.mp3
 
 #27 - Nashville, TN
 #EXTINF:-1,WMOT 89.5 Roots Radio 
-http://playerservices.streamtheworld.com/pls/WMOTFM.pls
+http://playerservices.streamtheworld.com/api/livestream-redirect/WMOTFM.mp3
 #EXTINF:-1,MTSU Jazz Network
 http://ice64.securenetsystems.net/WMOT
 #EXTINF:-1,WMTS 88.3 College Radio
@@ -144,6 +144,18 @@ https://tektite.streamguys1.com:5145/wwnojazz
 http://wwoz-sc.streamguys.com/wwoz-hi.mp3
 #EXTINF:-1,WWOZ 90.7 FM [Low]
 http://wwoz-sc.streamguys.com/wwoz-lo.mp3
+
+#52 - Memphis, TN
+#EXTINF:-1,Memphis Public Library Reading Radio
+http://ice64.securenetsystems.net/WYPL
+#EXTINF:-1,WKNO 91.1
+http://playerservices.streamtheworld.com/api/livestream-redirect/WKNOFM.mp3
+#EXTINF:-1,WKNO HD-2
+http://playerservices.streamtheworld.com/api/livestream-redirect/WKNOHD2.mp3
+#EXTINF:-1,WKNO HD-3
+http://playerservices.streamtheworld.com/api/livestream-redirect/WFNOBBCWS.mp3
+#EXTINF:-1,WYXR 91.7 FM
+http://crosstown.streamguys1.com/live-aac
 
 #62 - Tulsa, OK
 #EXTINF:-1,Classical 88.7 [stereo/AAC]
