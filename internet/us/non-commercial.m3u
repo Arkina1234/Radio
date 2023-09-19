@@ -1,159 +1,164 @@
 #EXTM3U
-#EXTINF:-1,AR- Fayetteville: KUAF
-http://war.streamguys1.com:7030/kuaf1
-#EXTINF:-1,AR- Fayetteville: KUAF 2 Classical
-http://war.streamguys1.com:7030/kuaf2
-#EXTINF:-1,AR- Fayetteville: KUAF 3 Jazz
-http://war.streamguys1.com:7030/kuaf3
-#EXTINF:-1,DC: WAMU 88.5
-http://wamu-1.streamguys.com/
-#EXTINF:-1,DC: WAMU 88.5 [AAC+]
-http://wamu-1.streamguys.com/wamu-1.aac
-#EXTINF:-1,DC: WETA Classical
-http://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM.mp3
-#EXTINF:-1,DC: WETA VivaLaVoce
-http://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3
-#EXTINF:-1,IL- Chicago: WBEZ 91.5
-http://stream.wbez.org/wbez128.mp3
-#EXTINF:-1,IL- Chicago: Vocalo Radio
-http://stream.wbez.org/vocalo128
-#EXTINF:-1,IL- Chicago: 98.7 WFMT
-http://wfmt.streamguys1.com/main
-#EXTINF:-1,KS: Kansas Public Radio
-http://streaming.kansaspublicradio.org:8000/kpr1
-#EXTINF:-1,KS: KPR 2
-http://streaming.kansaspublicradio.org:8000/kpr2
-#EXTINF:-1,LA: Red River Radio
-http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM.mp3
-#EXTINF:-1,LA: All Classical
-http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2.mp3
-#EXTINF:-1,LA: News/Talk
-http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3.mp3
-#EXTINF:-1,MA- Boston: GBH 89.7
-http://wgbh-live.streamguys1.com/wgbh
-#EXTINF:-1,MA- Boston: 90.9 WBUR
-http://wbur-sc.streamguys.com/wbur
-#EXTINF:-1,MA- Boston: WUMB Radio
-http://wumb.streamguys1.com/wumb919fast
-#EXTINF:-1,MA- Boston: WUMB Radio [AAC]
-http://wumb.streamguys1.com/wumb919-aac
-#EXTINF:-1,MA- Boston: CRB Classical 99.5
-http://wgbh-live.streamguys1.com/classical-hi
-#EXTINF:-1,MD- Baltimore: WYPR 88.1 FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD1.mp3
-#EXTINF:-1,MD- Baltimore: BBC
-http://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD2.mp3
-#EXTINF:-1,MD- Baltimore: All Classical
-http://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD3.mp3
-#EXTINF:-1,MN: MPR News
-http://nis.stream.publicradio.org/nis.aac
-#EXTINF:-1,MN: YourClassical MPR
-http://cms.stream.publicradio.org/cms.aac
-#EXTINF:-1,MN: The Current
-http://current.stream.publicradio.org/kcmp.aac
-#EXTINF:-1,MO- Kansas City: KCUR 89.3 [MP3]
-http://playerservices.streamtheworld.com/api/livestream-redirect/KCURFM.mp3
-#EXTINF:-1,MO- Kansas City: KCUR 89.3 [AAC]
-http://playerservices.streamtheworld.com/api/livestream-redirect/KCURFM_ADP.aac
-#EXTINF:-1,MO- Kansas City: 91.9 Classical KC [MP3]
-http://playerservices.streamtheworld.com/api/livestream-redirect/KWJCFM.mp3
-#EXTINF:-1,MO- Kansas City: 91.9 Classical KC [AAC]
-http://playerservices.streamtheworld.com/api/livestream-redirect/KWJCFM_ADP.aac
-#EXTINF:-1,OK- Tulsa: Classical 88.7 [stereo/AAC]
-http://utulsa.streamguys1.com/KWTUHD1-AAC
-#EXTINF:-1,OK- Tulsa: Classical 88.7 [mono/MP3]
-http://utulsa.streamguys1.com/KWTUHD1-MP3
-#EXTINF:-1,OK- Tulsa: Public Radio 89.5 [stereo/AAC]
-http://utulsa.streamguys1.com/KWGSHD1-AAC
-#EXTINF:-1,OK- Tulsa: Public Radio 89.5 [mono/MP3]
-http://utulsa.streamguys1.com/KWGSHD1-MP3
-#EXTINF:-1,OK- Tulsa: Jazz 89.5 HD2 [stereo/AAC]
-http://utulsa.streamguys1.com/KWGSHD2-AAC
-#EXTINF:-1,OK- Tulsa: Jazz 89.5 HD2 [mono/MP3]
-http://utulsa.streamguys1.com/KWGSHD2-MP3
-#EXTINF:-1,OK- Tulsa: World Radio 89.5 HD3 [stereo/AAC]
-http://utulsa.streamguys1.com/KWGSHD3-AAC
-#EXTINF:-1,OK- Tulsa: World Radio 89.5 HD3 [mono/MP3]
-http://utulsa.streamguys1.com/KWGSHD3-MP3
-#EXTINF:-1,PA- Philadelphia: WXPN
+#4 - Philadelphia, PA
+#EXTINF:-1,WXPN
 http://wxpnhi.xpn.org/xpnhi
-#EXTINF:-1,PA- Philadelphia: XPN2
+#EXTINF:-1,XPN2
 http://xpn2hi.xpn.org/xpn2hi
-#EXTINF:-1,PA- Philadelphia: WRTI 90.1 Classical
+#EXTINF:-1,WRTI 90.1 Classical
 http://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_CLASSICAL.mp3
-#EXTINF:-1,PA- Philadelphia: WRTI 90.1 Jazz
+#EXTINF:-1,WRTI 90.1 Jazz
 http://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3
-#EXTINF:-1,PA- Philadelphia: WHYY-FM
+#EXTINF:-1,WHYY-FM
 http://whyy.streamguys1.com/whyy-mp3
-#EXTINF:-1,PA- Pittsburgh: Classical WQED-FM 89.3
-http://ice-1.streamhoster.com/lv_wqed--893
-#EXTINF:-1,PA- Pittsburgh: Pittsburgh Concert Channel
-http://ice-1.streamhoster.com/lv_wqed--concert
-#EXTINF:-1,PA- Pittsburgh: Q The Music
-http://ice-1.streamhoster.com/lv_wqed--qthemusic
-#EXTINF:-1,PA- Pittsburgh: 90.5 WESA
-http://ais-sa3.cdnstream1.com/2556_128.mp3
-#EXTINF:-1,PA- Pittsburgh: JazzWorks
-http://ais-sa3.cdnstream1.com/2558_128.mp3
-#EXTINF:-1,PA- Pittsburgh: 91.3 WYEP
-http://ais-sa3.cdnstream1.com/2557_128.mp3
-#EXTINF:-1,TX- Austin: KMFA 89.5
-http://kmfa.streamguys1.com/KMFA-mp3
-#EXTINF:-1,TX- Austin: KUT 90.5
-http://kut.streamguys1.com/kut-free
-#EXTINF:-1,TX- Austin: KUT 90.5 [AAC]
-http://kut.streamguys1.com/kut-free.aac
-#EXTINF:-1,TX- Austin: KUT2
-http://kut.streamguys1.com/kuthd2-free
-#EXTINF:-1,TX- Austin: KUT2 [AAC]
-http://kut.streamguys1.com/kuthd2-free.aac
-#EXTINF:-1,TX- Austin: KUTX 98.9
-http://kut.streamguys1.com/kutx-free
-#EXTINF:-1,TX- Austin: KUTX 98.9 [AAC]
-http://kut.streamguys1.com/kutx-free.aac
-#EXTINF:-1,TX- College Station: KAMU-FM [192kbps]
-http://kamu.streamguys1.com/hd1-192
-#EXTINF:-1,TX- College Station: KAMU-FM [64kbps]
-http://kamu.streamguys1.com/hd1-64
-#EXTINF:-1,TX- College Station: KAMU-Classical [192kbps]
-http://kamu.streamguys1.com/hd2-192
-#EXTINF:-1,TX- College Station: KAMU-Classical [64kbps]
-http://kamu.streamguys1.com/hd2-64
-#EXTINF:-1,TX- Dallas: KERA 90.1
+
+#5 - Dallas, TX
+#EXTINF:-1,KERA 90.1
 http://kera.streamguys1.com/keralive
-#EXTINF:-1,TX- Dallas: KERA 90.1 [AAC+]
+#EXTINF:-1,KERA 90.1 [AAC+]
 http://kera.streamguys1.com/keraliveaacplus
-#EXTINF:-1,TX- Dallas: KXT 91.7
+#EXTINF:-1,KXT 91.7
 http://kera.streamguys1.com/kxtlive128
-#EXTINF:-1,TX- Dallas: KXT 91.7 [AAC+]
+#EXTINF:-1,KXT 91.7 [AAC+]
 http://kera.streamguys1.com/kxtlive64aacplus
-#EXTINF:-1,TX- Dallas: Classical 101 WRR
+#EXTINF:-1,Classical 101 WRR
 http://playerservices.streamtheworld.com/api/livestream-redirect/WRRFM.mp3
-#EXTINF:-1,TX- Houston: HPM News 88.7
+
+#7 - Houston, TX
+#EXTINF:-1,HPM News 88.7
 http://stream.houstonpublicmedia.org/news-mp3
-#EXTINF:-1,TX- Houston: HPM News 88.7 [AAC]
+#EXTINF:-1,HPM News 88.7 [AAC]
 http://stream.houstonpublicmedia.org/news-aac
-#EXTINF:-1,TX- Houston: HPM Classical
+#EXTINF:-1,HPM Classical
 http://stream.houstonpublicmedia.org/classical-mp3
-#EXTINF:-1,TX- Houston: HPM Classical [AAC]
+#EXTINF:-1,HPM Classical [AAC]
 http://stream.houstonpublicmedia.org/classical-aac
-#EXTINF:-1,TX- Houston: HPM Mixtape
+#EXTINF:-1,HPM Mixtape
 http://stream.houstonpublicmedia.org/mixtape-mp3
-#EXTINF:-1,TX- Houston: HPM Mixtape [AAC]
+#EXTINF:-1,HPM Mixtape [AAC]
 http://stream.houstonpublicmedia.org/mixtape-aac
-#EXTINF:-1,WI: WPR The Ideas Network (MP3 64Kbps]
-http://wpr-ice.streamguys1.com/wpr-ideas-mp3-64
-#EXTINF:-1,WI: WPR The Ideas Network (AAC 32Kbps)
-http://wpr-ice.streamguys1.com/wpr-ideas-aac-32
-#EXTINF:-1,WI: WPR News & Music Network (MP3 128Kbps)
-http://wpr-ice.streamguys1.com/wpr-music-mp3-96
-#EXTINF:-1,WI: WPR News & Music Network (AAC 80Kbps)
-http://wpr-ice.streamguys1.com/wpr-music-aac-56
-#EXTINF:-1,WI: WPR All Classical Network (MP3 96Kbps)
-http://wpr-ice.streamguys1.com/wpr-hd2-mp3-96
-#EXTINF:-1,WI: WPR All Classical Network (AAC 56Kbps)
-http://wpr-ice.streamguys1.com/wpr-hd2-aac-56
-#EXTINF:-1,WI- Milwaukee: 88Nine Radio Milwaukee
+
+#8 - Washington, DC
+#EXTINF:-1,WAMU 88.5
+http://wamu-1.streamguys.com/
+#EXTINF:-1,WAMU 88.5 [AAC+]
+http://wamu-1.streamguys.com/wamu-1.aac
+#EXTINF:-1,WETA Classical
+http://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM.mp3
+#EXTINF:-1,WETA VivaLaVoce
+http://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3
+
+#9 - Boston, MA
+#EXTINF:-1,GBH 89.7
+http://wgbh-live.streamguys1.com/wgbh
+#EXTINF:-1,90.9 WBUR
+http://wbur-sc.streamguys.com/wbur
+#EXTINF:-1,WUMB Radio
+http://wumb.streamguys1.com/wumb919fast
+#EXTINF:-1,WUMB Radio [AAC]
+http://wumb.streamguys1.com/wumb919-aac
+#EXTINF:-1,WUMB Radio [Low]
+http://wumb.streamguys1.com/wumb919
+#EXTINF:-1,CRB Classical 99.5
+http://wgbh-live.streamguys1.com/classical-hi
+#EXTINF:-1,CRB Classical 99.5 [Low]
+http://wgbh-live.streamguys1.com/classical-lo
+
+#15 - Minneapolis, MN
+#EXTINF:-1,MPR News
+http://nis.stream.publicradio.org/nis.aac
+#EXTINF:-1,YourClassical MPR
+http://cms.stream.publicradio.org/cms.aac
+#EXTINF:-1,The Current
+http://current.stream.publicradio.org/kcmp.aac
+
+#26 - Pittsburgh, PA
+#EXTINF:-1,Classical WQED-FM 89.3
+http://ice-1.streamhoster.com/lv_wqed--893
+#EXTINF:-1,Pittsburgh Concert Channel
+http://ice-1.streamhoster.com/lv_wqed--concert
+#EXTINF:-1,Q The Music
+http://ice-1.streamhoster.com/lv_wqed--qthemusic
+#EXTINF:-1,90.5 WESA
+http://ais-sa3.cdnstream1.com/2556_128.mp3
+#EXTINF:-1,JazzWorks
+http://ais-sa3.cdnstream1.com/2558_128.mp3
+#EXTINF:-1,91.3 WYEP
+http://ais-sa3.cdnstream1.com/2557_128.mp3
+
+#27 - Nashville, TN
+#EXTINF:-1,WMOT 89.5 Roots Radio 
+http://playerservices.streamtheworld.com/pls/WMOTFM.pls
+#EXTINF:-1,MTSU Jazz Network
+http://ice64.securenetsystems.net/WMOT
+#EXTINF:-1,WMTS 88.3 College Radio
+http://s1.myradiostream.com:12824/listen.pls
+#EXTINF:-1,90.3 WPLN News
+http://wpln.streamguys1.com/wplnfm.mp3
+#EXTINF:-1,Nashville Classical Radio
+http://wpln.streamguys1.com/wfclfm.mp3
+#EXTINF:-1,WNXP 91.ONE
+http://wpln.streamguys1.com/wnxpfm.mp3
+
+#33 - Kansas City, MO
+#EXTINF:-1,KCUR 89.3 [MP3]
+http://playerservices.streamtheworld.com/api/livestream-redirect/KCURFM.mp3
+#EXTINF:-1,KCUR 89.3 [AAC]
+http://playerservices.streamtheworld.com/api/livestream-redirect/KCURFM_ADP.aac
+#EXTINF:-1,91.9 Classical KC [MP3]
+http://playerservices.streamtheworld.com/api/livestream-redirect/KWJCFM.mp3
+#EXTINF:-1,91.9 Classical KC [AAC]
+http://playerservices.streamtheworld.com/api/livestream-redirect/KWJCFM_ADP.aac
+
+#35 - Austin, TX
+#EXTINF:-1,KMFA 89.5
+http://kmfa.streamguys1.com/KMFA-mp3
+#EXTINF:-1,KUT 90.5
+http://kut.streamguys1.com/kut-free
+#EXTINF:-1,KUT 90.5 [AAC]
+http://kut.streamguys1.com/kut-free.aac
+#EXTINF:-1,KUT2
+http://kut.streamguys1.com/kuthd2-free
+#EXTINF:-1,KUT2 [AAC]
+http://kut.streamguys1.com/kuthd2-free.aac
+#EXTINF:-1,KUTX 98.9
+http://kut.streamguys1.com/kutx-free
+#EXTINF:-1,KUTX 98.9 [AAC]
+http://kut.streamguys1.com/kutx-free.aac
+
+#38 - Milwaukee, WI
+#EXTINF:-1,88Nine Radio Milwaukee
 http://radiomilwaukee.streamguys.net/live
-#EXTINF:-1,WI- Milwaukee: WUWM 89.7 Milwaukee's NPR
+#EXTINF:-1,WUWM 89.7 Milwaukee's NPR
 http://wuwm.streamguys1.com/live
+#EXTINF:-1,WMSE 91.7FM
+http://wmse.streamguys1.com/wmselivemp3
+
+#50 - New Orleans, LA
+#EXTINF:-1,89.9 WWNO
+https://tektite.streamguys1.com:5145/wwnolive
+#EXTINF:-1,Classical 104.9
+https://tektite.streamguys1.com:5145/wwnoclassical
+#EXTINF:-1,Jazz 89.9 HD3
+https://tektite.streamguys1.com:5145/wwnojazz
+#EXTINF:-1,WWOZ 90.7 FM
+http://wwoz-sc.streamguys.com/wwoz-hi.mp3
+#EXTINF:-1,WWOZ 90.7 FM [Low]
+http://wwoz-sc.streamguys.com/wwoz-lo.mp3
+
+#62 - Tulsa, OK
+#EXTINF:-1,Classical 88.7 [stereo/AAC]
+http://utulsa.streamguys1.com/KWTUHD1-AAC
+#EXTINF:-1,Classical 88.7 [mono/MP3]
+http://utulsa.streamguys1.com/KWTUHD1-MP3
+#EXTINF:-1,Public Radio 89.5 [stereo/AAC]
+http://utulsa.streamguys1.com/KWGSHD1-AAC
+#EXTINF:-1,Public Radio 89.5 [mono/MP3]
+http://utulsa.streamguys1.com/KWGSHD1-MP3
+#EXTINF:-1,Jazz 89.5 HD2 [stereo/AAC]
+http://utulsa.streamguys1.com/KWGSHD2-AAC
+#EXTINF:-1,Jazz 89.5 HD2 [mono/MP3]
+http://utulsa.streamguys1.com/KWGSHD2-MP3
+#EXTINF:-1,World Radio 89.5 HD3 [stereo/AAC]
+http://utulsa.streamguys1.com/KWGSHD3-AAC
+#EXTINF:-1,World Radio 89.5 HD3 [mono/MP3]
+http://utulsa.streamguys1.com/KWGSHD3-MP3
