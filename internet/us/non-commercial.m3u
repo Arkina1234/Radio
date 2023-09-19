@@ -155,6 +155,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WKNOHD2.mp3
 #EXTINF:-1,WKNO HD-3
 http://playerservices.streamtheworld.com/api/livestream-redirect/WFNOBBCWS.mp3
 #EXTINF:-1,WYXR 91.7 FM
+http://crosstown.streamguys1.com/live
+#EXTINF:-1,WYXR 91.7 FM [AAC]
 http://crosstown.streamguys1.com/live-aac
 
 #62 - Tulsa, OK
@@ -174,3 +176,21 @@ http://utulsa.streamguys1.com/KWGSHD2-MP3
 http://utulsa.streamguys1.com/KWGSHD3-AAC
 #EXTINF:-1,World Radio 89.5 HD3 [mono/MP3]
 http://utulsa.streamguys1.com/KWGSHD3-MP3
+
+#States
+#EXTINF:-1,MPB Think Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/WMPNHD3_128.mp3
+#EXTINF:-1,MPB Music Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/WMPNFM_128.mp3
+#EXTINF:-1,WPR The Ideas Network [MP3 64Kbps]
+http://wpr-ice.streamguys1.com/wpr-ideas-mp3-64
+#EXTINF:-1,WPR The Ideas Network [AAC 32Kbps]
+http://wpr-ice.streamguys1.com/wpr-ideas-aac-32
+#EXTINF:-1,WPR News & Music Network [MP3 128Kbps]
+http://wpr-ice.streamguys1.com/wpr-music-mp3-96
+#EXTINF:-1,WPR News & Music Network [AAC 80Kbps]
+http://wpr-ice.streamguys1.com/wpr-music-aac-56
+#EXTINF:-1,WPR All Classical Network [MP3 96Kbps]
+http://wpr-ice.streamguys1.com/wpr-hd2-mp3-96
+#EXTINF:-1,WPR All Classical Network [AAC 56Kbps]
+http://wpr-ice.streamguys1.com/wpr-hd2-aac-56
