@@ -71,6 +71,14 @@ http://cms.stream.publicradio.org/cms.aac
 #EXTINF:-1,The Current
 http://current.stream.publicradio.org/kcmp.aac
 
+#24 - St. Louis, MO
+#EXTINF:-1,St. Louis Public Radio
+http://kwmu1-ice.streamguys1.com/kwmu1
+#EXTINF:-1,Jazz KWMU-2
+http://kwmu2-ice.streamguys1.com/jazz-128
+#EXTINF:-1,Classical 90.7 KWMU-3/WQUB-3
+http://kwmu3-ice.streamguys1.com/kwmu3
+
 #26 - Pittsburgh, PA
 #EXTINF:-1,Classical WQED-FM 89.3
 http://ice-1.streamhoster.com/lv_wqed--893
