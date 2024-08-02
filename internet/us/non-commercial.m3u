@@ -197,9 +197,9 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WMPNHD3_128.mp3
 http://playerservices.streamtheworld.com/api/livestream-redirect/WMPNFM_128.mp3
 
 #Nebraska
-Nebraska Public Media - News/Classical
+#EXTINF:-1,Nebraska Public Media - News/Classical
 http://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM.mp3
-Nebraska Public Media - News/Jazz
+#EXTINF:-1,Nebraska Public Media - News/Jazz
 http://playerservices.streamtheworld.com/api/livestream-redirect/KUCVHD2.mp3
 
 #South Dakota
