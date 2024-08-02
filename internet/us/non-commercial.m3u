@@ -12,17 +12,18 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WRTI_JAZZ.mp3
 http://whyy.streamguys1.com/whyy-mp3
 
 #5 - Dallas, TX
-#EXTINF:-1,KERA 90.1
+#EXTINF:-1,KERA 90.1 [MP3]
 http://kera.streamguys1.com/keralive
 #EXTINF:-1,KERA 90.1 [AAC+]
 http://kera.streamguys1.com/keraliveaacplus
-#EXTINF:-1,KXT 91.7
+#EXTINF:-1,KXT 91.7 [MP3]
 http://kera.streamguys1.com/kxtlive128
 #EXTINF:-1,KXT 91.7 [AAC+]
 http://kera.streamguys1.com/kxtlive64aacplus
-#EXTINF:-1,Classical 101 WRR
-http://playerservices.streamtheworld.com/api/livestream-redirect/WRRFM.mp3
-
+#EXTINF:-1,WRR Classical 101.1 FM [MP3]
+http://kera.streamguys1.com/wrrlive
+#EXTINF:-1,WRR Classical 101.1 FM [AAC]
+http://kera.streamguys1.com/wrrlive-aac
 #7 - Houston, TX
 #EXTINF:-1,HPM News 88.7
 http://stream.houstonpublicmedia.org/news-mp3
@@ -39,9 +40,11 @@ http://stream.houstonpublicmedia.org/mixtape-aac
 
 #8 - Washington, DC
 #EXTINF:-1,WAMU 88.5
-http://wamu-1.streamguys.com/
-#EXTINF:-1,WAMU 88.5 [AAC+]
-http://wamu-1.streamguys.com/wamu-1.aac
+http://wamu.cdnstream1.com/wamu.mp3
+#EXTINF:-1,Bluegrass Country (WAMU 88.5 HD2) [AAC]
+http://ice24.securenetsystems.net/WAMU
+#EXTINF:-1,Bluegrass Country (WAMU 88.5 HD2) [MP3]
+http://ice24.securenetsystems.net/WAMU2
 #EXTINF:-1,WETA Classical
 http://playerservices.streamtheworld.com/api/livestream-redirect/WETAFM.mp3
 #EXTINF:-1,WETA VivaLaVoce
@@ -142,12 +145,14 @@ http://wuwm.streamguys1.com/live
 http://wmse.streamguys1.com/wmselivemp3
 
 #50 - New Orleans, LA
+#EXTINF:-1,WRBH 88.3FM
+http://184.188.96.244:8080/wrbh.mp3
 #EXTINF:-1,89.9 WWNO
-https://tektite.streamguys1.com:5145/wwnolive
+http://tektite.streamguys1.com:5145/wwnolive
 #EXTINF:-1,Classical 104.9
-https://tektite.streamguys1.com:5145/wwnoclassical
+http://tektite.streamguys1.com:5145/wwnoclassical
 #EXTINF:-1,Jazz 89.9 HD3
-https://tektite.streamguys1.com:5145/wwnojazz
+http://tektite.streamguys1.com:5145/wwnojazz
 #EXTINF:-1,WWOZ 90.7 FM
 http://wwoz-sc.streamguys.com/wwoz-hi.mp3
 #EXTINF:-1,WWOZ 90.7 FM [Low]
@@ -185,11 +190,25 @@ http://utulsa.streamguys1.com/KWGSHD3-AAC
 #EXTINF:-1,World Radio 89.5 HD3 [mono/MP3]
 http://utulsa.streamguys1.com/KWGSHD3-MP3
 
-#States
+#Mississippi
 #EXTINF:-1,MPB Think Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/WMPNHD3_128.mp3
 #EXTINF:-1,MPB Music Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/WMPNFM_128.mp3
+
+#Nebraska
+Nebraska Public Media - News/Classical
+http://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM.mp3
+Nebraska Public Media - News/Jazz
+http://playerservices.streamtheworld.com/api/livestream-redirect/KUCVHD2.mp3
+
+#South Dakota
+#EXTINF:-1,SDPB Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFM.mp3
+#EXTINF:-1,SDPB Classical
+http://playerservices.streamtheworld.com/api/livestream-redirect/KUSDHD2.mp3
+
+#Wisconsin
 #EXTINF:-1,WPR The Ideas Network [MP3 64Kbps]
 http://wpr-ice.streamguys1.com/wpr-ideas-mp3-64
 #EXTINF:-1,WPR The Ideas Network [AAC 32Kbps]
