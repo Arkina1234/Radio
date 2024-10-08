@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0,Public: NPR Program Stream (aac)
+http://npr-ice.streamguys1.com/live.aac
+#EXTINF:0,Public: NPR Program Stream (mp3)
+http://npr-ice.streamguys1.com/live.mp3
+#EXTINF:0,Classical: YourClassical Radio (aac)
+http://ycradio.stream.publicradio.org/ycradio.aac
+#EXTINF:0,Classical: YourClassical Radio (mp3)
+http://ycradio.stream.publicradio.org/ycradio.mp3
+#EXTINF:0,Eclectic: Radio Paradise (64k aac)
+http://stream.radioparadise.com/aac-64
+#EXTINF:0,Eclectic: Radio Paradise (128k mp3)
+http://stream.radioparadise.com/mp3-128
+#EXTINF:0,Americana: Radio Free Americana (64k aac)
+http://patmos.cdnstream.com:9659/live
+#EXTINF:0,Americana: Radio Free Americana (128k mp3)
+http://thassos.cdnstream.com:5479/live
+#EXTINF:0,Folk Alley (64k aac)
+http://freshgrass.streamguys1.com/folkalley-64aac
+#EXTINF:0,Folk Alley (128k mp3)
+http://freshgrass.streamguys1.com/folkalley-128mp3
+#EXTINF:0,Country: HPR1: Traditional Classic Country
+http://207.244.126.86:7713/stream
+#EXTINF:0,Country: HPR1: Traditional Classic Country [mobile]
+http://207.244.126.86:7733/stream
+#EXTINF:0,Country: HPR2: Today's Classic Country
+http://207.244.126.86:7735/stream
+#EXTINF:0,Country: HPR2: Today's Classic Country [mobile]
+http://207.244.126.86:7737/stream
