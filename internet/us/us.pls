@@ -33,11 +33,11 @@ Title8=Americana: Radio Free Americana (128k mp3)
 Length8=0
 
 File9=http://freshgrass.streamguys1.com/folkalley-64aac
-Title9=Folk Alley (64k aac)
+Title9=Folk: Folk Alley (64k aac)
 Length9=0
 
 File10=http://freshgrass.streamguys1.com/folkalley-128mp3
-Title10=Folk Alley (128k mp3)
+Title10=Folk: Folk Alley (128k mp3)
 Length10=0
 
 File11=http://207.244.126.86:7713/stream
