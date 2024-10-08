@@ -15,9 +15,9 @@ http://stream.radioparadise.com/mp3-128
 http://patmos.cdnstream.com:9659/live
 #EXTINF:0,Americana: Radio Free Americana (128k mp3)
 http://thassos.cdnstream.com:5479/live
-#EXTINF:0,Folk Alley (64k aac)
+#EXTINF:0,Folk: Folk Alley (64k aac)
 http://freshgrass.streamguys1.com/folkalley-64aac
-#EXTINF:0,Folk Alley (128k mp3)
+#EXTINF:0,Folk: Folk Alley (128k mp3)
 http://freshgrass.streamguys1.com/folkalley-128mp3
 #EXTINF:0,Country: HPR1: Traditional Classic Country
 http://207.244.126.86:7713/stream
