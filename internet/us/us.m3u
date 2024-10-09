@@ -11,9 +11,9 @@ http://ycradio.stream.publicradio.org/ycradio.aac
 http://stream.radioparadise.com/mp3-128
 #EXTINF:0,Eclectic: Radio Paradise (64k aac)
 http://stream.radioparadise.com/aac-64
-#EXTINF:0,Downtempo–Chillout: SomaFM: Groove Salad (128k mp3)
+#EXTINF:0,Downtempo/Chillout: SomaFM: Groove Salad (128k mp3)
 http://ice1.somafm.com/groovesalad-128-mp3
-#EXTINF:0,Downtempo–Chillout: SomaFM: Groove Salad (64k aac)
+#EXTINF:0,Downtempo/Chillout: SomaFM: Groove Salad (64k aac)
 http://ice2.somafm.com/groovesalad-64-aac
 #EXTINF:0,Freeform: Radio Free Americana (128k mp3)
 http://thassos.cdnstream.com:5479/live
@@ -31,3 +31,7 @@ http://207.244.126.86:7733/stream
 http://207.244.126.86:7735/stream
 #EXTINF:0,Country: HPR2: Today's Classic Country (aac)
 http://207.244.126.86:7737/stream
+#EXTINF:0,Chillout: Chilltrax (128k mp3)
+http://streams.electronicmusicradiogroup.org:9000/;
+#EXTINF:0,Chillout: Chilltrax (64k aac)
+http://streams.electronicmusicradiogroup.org:9010/;
