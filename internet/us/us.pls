@@ -25,11 +25,11 @@ Title6=Eclectic: Radio Paradise (64k aac)
 Length6=0
 
 File7=http://ice1.somafm.com/groovesalad-128-mp3
-Title7=Downtempo–Chillout: SomaFM: Groove Salad (128k mp3)
+Title7=Downtempo/Chillout: SomaFM: Groove Salad (128k mp3)
 Length7=0
 
 File8=http://ice2.somafm.com/groovesalad-64-aac
-Title8=Downtempo–Chillout: SomaFM: Groove Salad (64k aac)
+Title8=Downtempo/Chillout: SomaFM: Groove Salad (64k aac)
 Length8=0
 
 File9=http://thassos.cdnstream.com:5479/live
@@ -64,6 +64,14 @@ File16=http://207.244.126.86:7737/stream
 Title16=Country: HPR2: Today's Classic Country (aac)
 Length16=0
 
-NumberOfEntries=16
+File17=http://streams.electronicmusicradiogroup.org:9000/;
+Title17=Chillout: Chilltrax (128k mp3)
+Length17=0
+
+File18=http://streams.electronicmusicradiogroup.org:9010/;
+Title18=Chillout: Chilltrax (64k aac)
+Length18=0
+
+NumberOfEntries=18
 
 Version=2
