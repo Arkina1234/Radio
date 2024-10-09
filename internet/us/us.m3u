@@ -11,9 +11,13 @@ http://ycradio.stream.publicradio.org/ycradio.aac
 http://stream.radioparadise.com/mp3-128
 #EXTINF:0,Eclectic: Radio Paradise (64k aac)
 http://stream.radioparadise.com/aac-64
-#EXTINF:0,Americana: Radio Free Americana (128k mp3)
+#EXTINF:0,Downtempo–Chillout: SomaFM: Groove Salad (128k mp3)
+http://ice1.somafm.com/groovesalad-128-mp3
+#EXTINF:0,Downtempo–Chillout: SomaFM: Groove Salad (64k aac)
+http://ice2.somafm.com/groovesalad-64-aac
+#EXTINF:0,Freeform: Radio Free Americana (128k mp3)
 http://thassos.cdnstream.com:5479/live
-#EXTINF:0,Americana: Radio Free Americana (64k aac)
+#EXTINF:0,Freeform: Radio Free Americana (64k aac)
 http://patmos.cdnstream.com:9659/live
 #EXTINF:0,Folk: Folk Alley (128k mp3)
 http://freshgrass.streamguys1.com/folkalley-128mp3
