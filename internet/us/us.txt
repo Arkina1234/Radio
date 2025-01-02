@@ -1,0 +1,54 @@
+Chilltrax [128k MP3]
+http://streams.electronicmusicradiogroup.org:9000/;
+Chilltrax [128k AAC]
+http://streams.electronicmusicradiogroup.org:9050/;
+Chilltrax [80k AAC]
+http://streams.electronicmusicradiogroup.org:9020/;
+Chilltrax [64k AAC]
+http://streams.electronicmusicradiogroup.org:9010/;
+Folk Alley [128k MP3]
+http://freshgrass.streamguys1.com/folkalley-128mp3
+Folk Alley [64k AAC]
+http://freshgrass.streamguys1.com/folkalley-64aac
+HPR1: Traditional Classic Country [MP3]
+http://207.244.126.86:7713/stream
+HPR1: Traditional Classic Country [AAC]
+http://207.244.126.86:7733/stream
+HPR2: Today's Classic Country [MP3]
+http://207.244.126.86:7735/stream
+HPR2: Today's Classic Country [AAC]
+http://207.244.126.86:7737/stream
+NPR Program Stream [MP3]
+http://npr-ice.streamguys1.com/live.mp3
+NPR Program Stream [AAC]
+http://npr-ice.streamguys1.com/live.aac
+Radio Free Americana [128k MP3]
+http://thassos.cdnstream.com:5479/live
+Radio Free Americana [64k AAC]
+http://patmos.cdnstream.com:9659/live
+Radio Paradise [192k MP3]
+http://stream.radioparadise.com/mp3-192
+Radio Paradise [128k MP3]
+http://stream.radioparadise.com/mp3-128
+Radio Paradise [320k AAC]
+http://stream.radioparadise.com/aac-320
+Radio Paradise [128k AAC]
+http://stream.radioparadise.com/aac-128
+Radio Paradise [64k AAC]
+http://stream.radioparadise.com/aac-64
+Radio Paradise [32k AAC]
+http://stream.radioparadise.com/aac-32
+SomaFM: Groove Salad [256k MP3]
+http://ice5.somafm.com/groovesalad-256-mp3
+SomaFM: Groove Salad [128k MP3]
+http://ice5.somafm.com/groovesalad-128-mp3
+SomaFM: Groove Salad [128k AAC]
+http://ice5.somafm.com/groovesalad-128-aac
+SomaFM: Groove Salad [64k AAC]
+http://ice5.somafm.com/groovesalad-64-aac
+SomaFM: Groove Salad [32k AAC]
+http://ice5.somafm.com/groovesalad-64-aac
+YourClassical Radio [MP3]
+http://ycradio.stream.publicradio.org/ycradio.mp3
+YourClassical Radio [AAC]
+http://ycradio.stream.publicradio.org/ycradio.aac
