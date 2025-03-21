@@ -53,10 +53,10 @@ https://edge-bauerall-01-gos2.sharp-stream.com/jazz.aac
 https://edge-bauerall-01-gos2.sharp-stream.com/kerrang.aac
 #EXTINF:-1,KISS
 https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
-#EXTINF:-1,LBC Radio
-https://media-ice.musicradio.com/LBCUKMP3
 #EXTINF:-1,LBC News
 https://media-ice.musicradio.com/LBCNewsUKMP3
+#EXTINF:-1,LBC Radio
+https://media-ice.musicradio.com/LBCUKMP3
 #EXTINF:-1,Magic Radio
 https://edge-bauerall-01-gos2.sharp-stream.com/magicnational.aac
 #EXTINF:-1,Nation Radio UK
