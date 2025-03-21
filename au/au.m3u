@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,ABC Classic
+https://live-radio01.mediahubaustralia.com/2FMW/aac
+#EXTINF:-1,ABC Country
+https://live-radio01.mediahubaustralia.com/CTRW/aac
+#EXTINF:-1,ABC Jazz
+https://live-radio01.mediahubaustralia.com/JAZW/aac
+#EXTINF:-1,ABC Kids listen
+https://live-radio01.mediahubaustralia.com/XTDW/aac
+#EXTINF:-1,ABC NewsRadio
+https://live-radio01.mediahubaustralia.com/PBW/aac
+#EXTINF:-1,ABC Radio National
+https://live-radio01.mediahubaustralia.com/2RNW/aac
+#EXTINF:-1,ABC Sport
+https://live-radio01.mediahubaustralia.com/GSDW/aac
+#EXTINF:-1,Double J
+https://live-radio01.mediahubaustralia.com/DJDW/aac
+#EXTINF:-1,SBS Radio 1
+https://sbs-ice.streamguys1.com/sbs1-sbs-web
+#EXTINF:-1,SBS Radio 2
+https://sbs-ice.streamguys1.com/sbs2-sbs-web
+#EXTINF:-1,SBS Radio 3
+https://sbs-ice.streamguys1.com/sbs3-sbs-web
+#EXTINF:-1,triple j
+https://live-radio01.mediahubaustralia.com/2TJW/aac
