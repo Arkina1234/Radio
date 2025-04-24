@@ -2,27 +2,27 @@
 #EXTINF:-1,Absolute Radio
 https://edge-bauerall-01-gos2.sharp-stream.com/absoluteradiohigh.aac
 #EXTINF:-1,BBC Asian Network
-https://lstn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=128000
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_asian_network.m3u8
 #EXTINF:-1,BBC Radio 1
-https://lstn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=128000
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_one.m3u8
 #EXTINF:-1,BBC Radio 1Xtra
-https://lstn.lv/bbcradio.m3u8?station=bbc_1xtra&bitrate=128000
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_1xtra.m3u8
 #EXTINF:-1,BBC Radio 2
-https://lstn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=128000
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_two.m3u8
 #EXTINF:-1,BBC Radio 3
-https://lstn.lv/bbcradio.m3u8?station=bbc_radio_three&bitrate=128000
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_three.m3u8
 #EXTINF:-1,BBC Radio 4
-https://lstn.lv/bbcradio.m3u8?station=bbc_radio_fourfm&bitrate=128000
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_fourfm.m3u8
 #EXTINF:-1,BBC Radio 4 Extra
-https://lstn.lv/bbcradio.m3u8?station=bbc_radio_four_extra&bitrate=128000
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_four_extra.m3u8
 #EXTINF:-1,BBC Radio 5 Live
-https://lstn.lv/bbcradio.m3u8?station=bbc_radio_five_live&bitrate=128000
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_five_live.m3u8
 #EXTINF:-1,BBC Radio 5 Sports Extra
-https://lstn.lv/bbcradio.m3u8?station=bbc_radio_five_live_sports_extra&bitrate=128000
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_five_live_sports_extra.m3u8
 #EXTINF:-1,BBC Radio 6 Music
-https://lstn.lv/bbcradio.m3u8?station=bbc_6music&bitrate=128000
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_6music.m3u8
 #EXTINF:-1,BBC World Service
-https://lstn.lv/bbcradio.m3u8?station=bbc_world_service_news_internet&bitrate=128000
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_world_service.m3u8
 #EXTINF:-1,BFBS Radio
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
 #EXTINF:-1,Boom Radio
@@ -53,7 +53,7 @@ https://listen-gbnews.sharp-stream.com/gbnews.mp3
 https://media-ice.musicradio.com/GoldMP3
 #EXTINF:-1,Greatest Hits Radio
 https://edge-bauerall-01-gos2.sharp-stream.com/net2national.aac
-#EXTINF:-1,Heart Radio UK
+#EXTINF:-1,Heart UK
 https://media-ice.musicradio.com/HeartUKMP3
 #EXTINF:-1,Hits Radio
 https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
@@ -67,7 +67,7 @@ https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
 https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
 #EXTINF:-1,LBC News
 https://media-ice.musicradio.com/LBCNewsUKMP3
-#EXTINF:-1,LBC Radio
+#EXTINF:-1,LBC UK
 https://media-ice.musicradio.com/LBCUKMP3
 #EXTINF:-1,Magic Radio
 https://edge-bauerall-01-gos2.sharp-stream.com/magicnational.aac
@@ -81,7 +81,7 @@ https://pcr.streamguys1.com/pcrnational-96k.aac
 https://pcr.streamguys1.com/ppraise-96k.aac
 #EXTINF:-1,Radio X
 https://media-ice.musicradio.com/RadioXLondonMP3
-#EXTINF:-1,Smooth Radio UK
+#EXTINF:-1,Smooth UK
 https://media-ice.musicradio.com/SmoothUK
 #EXTINF:-1,Sunrise Radio
 https://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3
