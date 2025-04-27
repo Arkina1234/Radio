@@ -37,8 +37,12 @@ https://media-ice.musicradio.com/CapitalDance
 https://media-ice.musicradio.com/CapitalXTRANationalMP3
 #EXTINF:-1,Capital Xtra Reloaded
 https://media-ice.musicradio.com/CapitalXTRAReloadedMP3
+#EXTINF:-1,Gold Radio
+https://media-ice.musicradio.com/GoldMP3
 #EXTINF:-1,LBC News
 https://media-ice.musicradio.com/LBCNewsUKMP3
+#EXTINF:-1,Radio X
+https://media-ice.musicradio.com/RadioXLondonMP3
 #EXTINF:-1,talkSPORT
 https://radio.talksport.com/stream
 #EXTINF:-1,Times Radio
@@ -79,20 +83,16 @@ https://listen-boomradio.sharp-stream.com/65_boom_radio_live_64
 https://listen.centreforceradio.com/128
 #EXTINF:-1,Fix Radio
 https://stream.rcs.revma.com/pq7npt2nzbuvv
-#EXTINF:-1,Fun Kids Junior
-https://listen-funkids.sharp-stream.com/funkidsjunior.mp3
 #EXTINF:-1,Fun Kids Radio
 https://listen-funkids.sharp-stream.com/funkids.mp3
+#EXTINF:-1,Fun Kids Junior
+https://listen-funkids.sharp-stream.com/funkidsjunior.mp3
 #EXTINF:-1,Gaydio
 https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
 #EXTINF:-1,GB News Radio
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
-#EXTINF:-1,Gold Radio
-https://media-ice.musicradio.com/GoldMP3
 #EXTINF:-1,Nation Radio UK
 https://listen-nation.sharp-stream.com/thamesradio.mp3
-#EXTINF:-1,Radio X
-https://media-ice.musicradio.com/RadioXLondonMP3
 #EXTINF:-1,Sunrise Radio
 https://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3
 #EXTINF:-1,UCB 1
