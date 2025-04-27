@@ -1,44 +1,82 @@
 #EXTM3U
-#EXTINF:-1,Absolute Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/absoluteradiohigh.aac
-#EXTINF:-1,BBC Asian Network
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_asian_network.m3u8
 #EXTINF:-1,BBC Radio 1
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_one.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aksgc/bbc_radio_one.m3u8
 #EXTINF:-1,BBC Radio 1Xtra
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_1xtra.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aksgc/bbc_1xtra.m3u8
 #EXTINF:-1,BBC Radio 2
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_two.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aksgc/bbc_radio_two.m3u8
 #EXTINF:-1,BBC Radio 3
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_three.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aksgc/bbc_radio_three.m3u8
 #EXTINF:-1,BBC Radio 4
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_fourfm.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aksgc/bbc_radio_fourfm.m3u8
 #EXTINF:-1,BBC Radio 4 Extra
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_four_extra.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aksgc/bbc_radio_four_extra.m3u8
 #EXTINF:-1,BBC Radio 5 Live
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_five_live.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aksgc/bbc_radio_five_live.m3u8
 #EXTINF:-1,BBC Radio 5 Sports Extra
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_five_live_sports_extra.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aksgc/bbc_radio_five_live_sports_extra.m3u8
 #EXTINF:-1,BBC Radio 6 Music
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_6music.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aksgc/bbc_6music.m3u8
+#EXTINF:-1,BBC Asian Network
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aksgc/bbc_asian_network.m3u8
 #EXTINF:-1,BBC World Service
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_world_service.m3u8
-#EXTINF:-1,BFBS Radio
-https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
-#EXTINF:-1,Boom Radio
-https://listen-boomradio.sharp-stream.com/65_boom_radio_live_64
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/mobile_wifi_main_sd_abr_v2/aksgc/bbc_world_service.m3u8
+#EXTINF:-1,Smooth UK
+https://media-ice.musicradio.com/SmoothUK
 #EXTINF:-1,Capital UK
 https://media-ice.musicradio.com/CapitalUKMP3
+#EXTINF:-1,Heart UK
+https://media-ice.musicradio.com/HeartUKMP3
+#EXTINF:-1,Classic FM
+https://media-ice.musicradio.com/ClassicFMMP3
+#EXTINF:-1,LBC UK
+https://media-ice.musicradio.com/LBCUKMP3
 #EXTINF:-1,Capital Dance
 https://media-ice.musicradio.com/CapitalDance
 #EXTINF:-1,Capital XTRA
 https://media-ice.musicradio.com/CapitalXTRANationalMP3
 #EXTINF:-1,Capital Xtra Reloaded
 https://media-ice.musicradio.com/CapitalXTRAReloadedMP3
+#EXTINF:-1,LBC News
+https://media-ice.musicradio.com/LBCNewsUKMP3
+#EXTINF:-1,talkSPORT
+https://radio.talksport.com/stream
+#EXTINF:-1,Times Radio
+https://timesradio.wireless.radio/stream
+#EXTINF:-1,Virgin Radio
+https://radio.virginradio.co.uk/stream
+#EXTINF:-1,Talk
+https://radio.talkradio.co.uk/stream
+#EXTINF:-1,talkSPORT 2
+https://radio.talksport.com/stream2
+#EXTINF:-1,Premier Christian Radio
+https://pcr.streamguys1.com/pcrnational-96k.aac
+#EXTINF:-1,Premier Praise
+https://pcr.streamguys1.com/ppraise-96k.aac
+#EXTINF:-1,Absolute Radio
+https://edge-bauerall-01-gos2.sharp-stream.com/absoluteradiohigh.aac
+#EXTINF:-1,Greatest Hits Radio
+https://edge-bauerall-01-gos2.sharp-stream.com/net2national.aac
+#EXTINF:-1,Hits Radio
+https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
+#EXTINF:-1,Jazz FM
+https://edge-bauerall-01-gos2.sharp-stream.com/jazz.aac
+#EXTINF:-1,Kerrang! Radio
+https://edge-bauerall-01-gos2.sharp-stream.com/kerrang.aac
+#EXTINF:-1,KISS
+https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
+#EXTINF:-1,KISSTORY
+https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
+#EXTINF:-1,Magic Radio
+https://edge-bauerall-01-gos2.sharp-stream.com/magicnational.aac
+#EXTINF:-1,Planet Rock
+https://edge-bauerall-01-gos2.sharp-stream.com/planetrock.aac
+#EXTINF:-1,BFBS Radio
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
+#EXTINF:-1,Boom Radio
+https://listen-boomradio.sharp-stream.com/65_boom_radio_live_64
 #EXTINF:-1,CentreForce Radio
 https://listen.centreforceradio.com/128
-#EXTINF:-1,Classic FM
-https://media-ice.musicradio.com/ClassicFMMP3
 #EXTINF:-1,Fix Radio
 https://stream.rcs.revma.com/pq7npt2nzbuvv
 #EXTINF:-1,Fun Kids Junior
@@ -51,51 +89,13 @@ https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
 #EXTINF:-1,Gold Radio
 https://media-ice.musicradio.com/GoldMP3
-#EXTINF:-1,Greatest Hits Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/net2national.aac
-#EXTINF:-1,Heart UK
-https://media-ice.musicradio.com/HeartUKMP3
-#EXTINF:-1,Hits Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
-#EXTINF:-1,Jazz FM
-https://edge-bauerall-01-gos2.sharp-stream.com/jazz.aac
-#EXTINF:-1,Kerrang! Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/kerrang.aac
-#EXTINF:-1,KISS
-https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
-#EXTINF:-1,KISSTORY
-https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
-#EXTINF:-1,LBC News
-https://media-ice.musicradio.com/LBCNewsUKMP3
-#EXTINF:-1,LBC UK
-https://media-ice.musicradio.com/LBCUKMP3
-#EXTINF:-1,Magic Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/magicnational.aac
 #EXTINF:-1,Nation Radio UK
 https://listen-nation.sharp-stream.com/thamesradio.mp3
-#EXTINF:-1,Planet Rock
-https://edge-bauerall-01-gos2.sharp-stream.com/planetrock.aac
-#EXTINF:-1,Premier Christian Radio
-https://pcr.streamguys1.com/pcrnational-96k.aac
-#EXTINF:-1,Premier Praise
-https://pcr.streamguys1.com/ppraise-96k.aac
 #EXTINF:-1,Radio X
 https://media-ice.musicradio.com/RadioXLondonMP3
-#EXTINF:-1,Smooth UK
-https://media-ice.musicradio.com/SmoothUK
 #EXTINF:-1,Sunrise Radio
 https://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3
-#EXTINF:-1,talkRADIO
-https://radio.talkradio.co.uk/stream
-#EXTINF:-1,talkSPORT
-https://radio.talksport.com/stream
-#EXTINF:-1,talkSPORT 2
-https://radio.talksport.com/stream2
-#EXTINF:-1,Times Radio
-https://timesradio.wireless.radio/stream
 #EXTINF:-1,UCB 1
 https://direct.sharp-stream.com/ucbuk.mp3
 #EXTINF:-1,UCB 2
 https://direct.sharp-stream.com/ucbinspirational.mp3
-#EXTINF:-1,Virgin Radio
-https://radio.virginradio.co.uk/stream
