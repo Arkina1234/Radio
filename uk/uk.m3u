@@ -14,13 +14,23 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 #EXTINF:-1,BBC Radio 5 Live
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_five_live.m3u8
 #EXTINF:-1,BBC Radio 5 Sports Extra
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_five_live_sports_extra.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_five_live_sports_extra.m3u8
 #EXTINF:-1,BBC Radio 6 Music
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_6music.m3u8
 #EXTINF:-1,BBC Asian Network
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_asian_network.m3u8
 #EXTINF:-1,BBC World Service
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_world_service.m3u8
+#EXTINF:-1,BBC Radio 1 Anthems
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_one_anthems.mpd
+#EXTINF:-1,BBC Radio 1 Dance
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_one_dance.mpd
+#EXTINF:-1,BBC Radio 3 Unwind
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_three_unwind.mpd
+#EXTINF:-1,BBC Live News
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_sounds_news.mpd
+#EXTINF:-1,CBeebies Radio
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_sd_abr_v2/cfs/cbeebies_radio.mpd
 #EXTINF:-1,Smooth UK
 https://media-ice.musicradio.com/SmoothUK
 #EXTINF:-1,Capital UK
@@ -39,10 +49,54 @@ https://media-ice.musicradio.com/CapitalXTRANationalMP3
 https://media-ice.musicradio.com/CapitalXTRAReloadedMP3
 #EXTINF:-1,Gold Radio
 https://media-ice.musicradio.com/GoldMP3
-#EXTINF:-1,LBC News
-https://media-ice.musicradio.com/LBCNewsUKMP3
 #EXTINF:-1,Radio X
 https://media-ice.musicradio.com/RadioXLondonMP3
+#EXTINF:-1,Capital Anthems
+https://media-ssl.musicradio.com/CapitalAnthems
+#EXTINF:-1,Capital Chill
+https://media-ssl.musicradio.com/CapitalChill
+#EXTINF:-1,Heart 70s
+https://media-ssl.musicradio.com/Heart70s
+#EXTINF:-1,Heart 80s
+https://media-ssl.musicradio.com/Heart80s
+#EXTINF:-1,Heart 90s
+https://media-ssl.musicradio.com/Heart90s
+#EXTINF:-1,Heart 00s
+https://media-ssl.musicradio.com/Heart00s
+#EXTINF:-1,Heart 10s
+https://media-ssl.musicradio.com/Heart10s
+#EXTINF:-1,Heart Dance
+https://media-ssl.musicradio.com/HeartDance
+#EXTINF:-1,Heart Musicals
+https://media-ssl.musicradio.com/HeartMusicals
+#EXTINF:-1,Heart Love
+https://media-ssl.musicradio.com/HeartLove
+#EXTINF:-1,Smooth Relax
+https://media-ssl.musicradio.com/SmoothRelax
+#EXTINF:-1,Smooth Chill
+https://media-ssl.musicradio.com/SmoothChill
+#EXTINF:-1,Smooth Country
+https://media-ssl.musicradio.com/SmoothCountry
+#EXTINF:-1,Smooth Soul
+https://media-ssl.musicradio.com/SmoothSoul
+#EXTINF:-1,Smooth 70s
+https://media-ssl.musicradio.com/Smooth70s
+#EXTINF:-1,Smooth 80s
+https://media-ssl.musicradio.com/Smooth80s
+#EXTINF:-1,Radio X 90s
+https://media-ssl.musicradio.com/RadioX90s
+#EXTINF:-1,Radio X 00s
+https://media-ssl.musicradio.com/RadioX00s
+#EXTINF:-1,Radio X Chilled
+https://media-ssl.musicradio.com/RadioXChilled
+#EXTINF:-1,Radio X Classic Rock
+https://media-ssl.musicradio.com/RadioXClassicRock
+#EXTINF:-1,Classic FM Movies
+https://media-ssl.musicradio.com/ClassicFMMovies
+#EXTINF:-1,Classic FM Calm
+https://media-ssl.musicradio.com/ClassicFMCalm
+#EXTINF:-1,LBC News
+https://media-ice.musicradio.com/LBCNewsUKMP3
 #EXTINF:-1,talkSPORT
 https://radio.talksport.com/stream
 #EXTINF:-1,Times Radio
