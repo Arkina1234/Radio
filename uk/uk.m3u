@@ -23,77 +23,131 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/mobile_wifi_main_sd_abr_v2/aks/bbc_world_service.m3u8
 #EXTINF:-1,Capital UK
 https://media-ice.musicradio.com/CapitalUKMP3
+#EXTINF:-1,Capital Anthems
+https://media-ssl.musicradio.com/CapitalAnthems
+#EXTINF:-1,Capital XTRA
+https://media-ice.musicradio.com/CapitalXTRANationalMP3
+#EXTINF:-1,Capital XTRA Reloaded
+https://media-ssl.musicradio.com/CapitalXTRAReloaded
+#EXTINF:-1,Capital Dance
+https://media-ice.musicradio.com/CapitalDanceMP3
 #EXTINF:-1,Heart UK
 https://media-ice.musicradio.com/HeartUKMP3
+#EXTINF:-1,Heart 70s
+https://media-ice.musicradio.com/Heart70sMP3
+#EXTINF:-1,Heart 80s
+https://media-ice.musicradio.com/Heart80sMP3
+#EXTINF:-1,Heart 90s
+https://media-ice.musicradio.com/Heart90sMP3
+#EXTINF:-1,Heart 00s
+https://media-ssl.musicradio.com/Heart00sMP3
 #EXTINF:-1,Smooth UK
-https://media-ice.musicradio.com/SmoothUK
-#EXTINF:-1,Gold Radio
-https://media-ice.musicradio.com/GoldMP3
+https://media-ice.musicradio.com/SmoothUKMP3
+#EXTINF:-1,Smooth Relax
+https://media-ice.musicradio.com/SmoothRelaxMP3
+#EXTINF:-1,Smooth Chill
+https://media-ice.musicradio.com/SmoothChillMP3
+#EXTINF:-1,Smooth 80s
+https://media-ssl.musicradio.com/Smooth80s
 #EXTINF:-1,Radio X
 https://media-ice.musicradio.com/RadioXLondonMP3
+#EXTINF:-1,Radio X Classic Rock
+https://media-ssl.musicradio.com/RadioXClassicRock
+#EXTINF:-1,Gold Radio
+https://media-ice.musicradio.com/GoldMP3
 #EXTINF:-1,Classic FM
 https://media-ice.musicradio.com/ClassicFMMP3
 #EXTINF:-1,LBC UK
 https://media-ice.musicradio.com/LBCUKMP3
-#EXTINF:-1,Capital Dance
-https://media-ice.musicradio.com/CapitalDance
-#EXTINF:-1,Capital XTRA
-https://media-ice.musicradio.com/CapitalXTRANationalMP3
-#EXTINF:-1,Capital Xtra Reloaded
-https://media-ice.musicradio.com/CapitalXTRAReloadedMP3
+#EXTINF:-1,LBC News
+https://media-ice.musicradio.com/LBCNewsUKMP3
 #EXTINF:-1,talkSPORT
 https://radio.talksport.com/stream
-#EXTINF:-1,Times Radio
-https://timesradio.wireless.radio/stream
+#EXTINF:-1,talkSPORT 2
+https://radio.talksport.com/stream2-mobile
 #EXTINF:-1,Virgin Radio
 https://radio.virginradio.co.uk/stream
+#EXTINF:-1,Virgin Chilled
+https://radio.virginradio.co.uk/stream-chilled-mobile
+#EXTINF:-1,Virgin Legends
+https://radio.virginradio.co.uk/stream-legends-mobile
+#EXTINF:-1,Times Radio
+https://timesradio.wireless.radio/stream
 #EXTINF:-1,Talk
-https://radio.talkradio.co.uk/stream
-#EXTINF:-1,talkSPORT 2
-https://radio.talksport.com/stream2
-#EXTINF:-1,Premier Christian Radio
-https://pcr.streamguys1.com/pcrnational-96k.aac
-#EXTINF:-1,Premier Praise
-https://pcr.streamguys1.com/ppraise-96k.aac
+https://radio.talkradio.co.uk/stream-mobile
 #EXTINF:-1,Absolute Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/absoluteradiohigh.aac
+https://edge-bauerall-01-gos2.sharp-stream.com/absoluteradio.mp3
+#EXTINF:-1,Absolute Radio 80s
+https://edge-bauerall-01-gos2.sharp-stream.com/absolute80s.aac
+#EXTINF:-1,Absolute Radio 90s
+https://edge-bauerall-01-gos2.sharp-stream.com/absolute90s.aac
+#EXTINF:-1,Absolute Radio Classic Rock
+https://edge-bauerall-01-gos2.sharp-stream.com/absoluteclassicrock.aac
+#EXTINF:-1,Absolute Radio Country
+https://edge-bauerall-01-gos2.sharp-stream.com/absolutecountry.aac
 #EXTINF:-1,Greatest Hits Radio
 https://edge-bauerall-01-gos2.sharp-stream.com/net2national.aac
+#EXTINF:-1,Greatest Hits Radio 60s
+https://edge-bauerall-01-gos2.sharp-stream.com/ghr60s.aac
+#EXTINF:-1,Greatest Hits Radio 70s
+https://edge-bauerall-01-gos2.sharp-stream.com/ghr70s.mp3
+#EXTINF:-1,Greatest Hits Radio 80s
+https://edge-bauerall-01-gos2.sharp-stream.com/ghr80s.mp3
 #EXTINF:-1,Hits Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/hits.aac
-#EXTINF:-1,Jazz FM
-https://edge-bauerall-01-gos2.sharp-stream.com/jazz.aac
-#EXTINF:-1,Kerrang! Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/kerrang.aac
-#EXTINF:-1,KISS
-https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
-#EXTINF:-1,KISSTORY
-https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
+https://edge-bauerall-01-gos2.sharp-stream.com/hits.mp3
+#EXTINF:-1,Hits Radio 90s
+https://edge-bauerall-01-gos2.sharp-stream.com/hitsradio90s.mp3
+#EXTINF:-1,Hits Radio 00s
+https://edge-bauerall-01-gos2.sharp-stream.com/hitsradio00s.mp3
+#EXTINF:-1,Hits Radio Chilled
+https://edge-bauerall-01-gos2.sharp-stream.com/magicchilled.aac
 #EXTINF:-1,Magic Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/magicnational.aac
+https://edge-bauerall-01-gos2.sharp-stream.com/magicnational.mp3
+#EXTINF:-1,Magic at the Musicals
+https://edge-bauerall-01-gos2.sharp-stream.com/magicmusicals.aac
+#EXTINF:-1,Magic Classical
+https://edge-bauerall-01-gos2.sharp-stream.com/scala.aac
+#EXTINF:-1,Magic Soul
+https://edge-bauerall-01-gos2.sharp-stream.com/magicsoul.aac
+#EXTINF:-1,Mellow Magic
+https://edge-bauerall-01-gos2.sharp-stream.com/magicmellow.aac
 #EXTINF:-1,Planet Rock
 https://edge-bauerall-01-gos2.sharp-stream.com/planetrock.aac
+#EXTINF:-1,KISS
+https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.mp3
+#EXTINF:-1,KISSTORY
+https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.mp3
+#EXTINF:-1,Kisstory R&B
+https://edge-bauerall-01-gos2.sharp-stream.com/kisstoryrb.aac
+#EXTINF:-1,Kerrang! Radio
+https://edge-bauerall-01-gos2.sharp-stream.com/kerrang.aac
+#EXTINF:-1,Jazz FM
+https://edge-bauerall-01-gos2.sharp-stream.com/jazz.aac
+#EXTINF:-1,GB News Radio
+https://listen-gbnews.sharp-stream.com/gbnews.mp3
+#EXTINF:-1,UCB 1
+https://direct.sharp-stream.com/ucbuk.mp3
+#EXTINF:-1,UCB 2
+https://direct.sharp-stream.com/ucbinspirational.mp3
+#EXTINF:-1,Fix Radio
+https://stream.rcs.revma.com/pq7npt2nzbuvv
 #EXTINF:-1,BFBS Radio
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
 #EXTINF:-1,Boom Radio
 https://listen-boomradio.sharp-stream.com/65_boom_radio_live_64
+#EXTINF:-1,Premier Christian Radio
+https://pcr.streamguys1.com/pcrnational-64k.mp3
+#EXTINF:-1,Premier Praise
+https://pcr.streamguys1.com/ppraise-64k.mp3
+#EXTINF:-1,Sunrise Radio
+https://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3
 #EXTINF:-1,CentreForce Radio
-https://listen.centreforceradio.com/128
-#EXTINF:-1,Fix Radio
-https://stream.rcs.revma.com/pq7npt2nzbuvv
+https://listen.centreforceradio.com/64
 #EXTINF:-1,Fun Kids Radio
 https://listen-funkids.sharp-stream.com/funkids.mp3
 #EXTINF:-1,Fun Kids Junior
 https://listen-funkids.sharp-stream.com/funkidsjunior.mp3
 #EXTINF:-1,Gaydio
 https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
-#EXTINF:-1,GB News Radio
-https://listen-gbnews.sharp-stream.com/gbnews.mp3
 #EXTINF:-1,Nation Radio UK
 https://listen-nation.sharp-stream.com/thamesradio.mp3
-#EXTINF:-1,Sunrise Radio
-https://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3
-#EXTINF:-1,UCB 1
-https://direct.sharp-stream.com/ucbuk.mp3
-#EXTINF:-1,UCB 2
-https://direct.sharp-stream.com/ucbinspirational.mp3
