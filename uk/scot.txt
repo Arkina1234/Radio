@@ -1,0 +1,12 @@
+BBC Radio Scotland
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_scotland_fm.m3u8
+BBC Radio nan Gàidheal
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/mobile_wifi_main_sd_abr_v2/aks/bbc_radio_nan_gaidheal.m3u8
+Capital Scotland
+https://media-ssl.musicradio.com/CapitalGlasgow
+Heart Scotland
+https://media-ssl.musicradio.com/HeartGlasgow
+Clyde 1
+https://edge-bauerall-01-gos2.sharp-stream.com/clyde1.aac
+Greatest Hits Radio (Glasgow & the West)
+https://edge-bauerall-01-gos2.sharp-stream.com/clyde2.aac
