@@ -71,6 +71,8 @@ https://radio.virginradio.co.uk/stream
 https://radio.virginradio.co.uk/stream-chilled-mobile
 #EXTINF:-1,Virgin Legends
 https://radio.virginradio.co.uk/stream-legends-mobile
+#EXTINF:-1,Virgin Radio 80s Plus
+https://radio.virginradio.co.uk/stream-virginradio4
 #EXTINF:-1,Times Radio
 https://timesradio.wireless.radio/stream
 #EXTINF:-1,Talk
@@ -151,3 +153,5 @@ https://listen-funkids.sharp-stream.com/funkidsjunior.mp3
 https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
 #EXTINF:-1,Nation Radio UK
 https://listen-nation.sharp-stream.com/thamesradio.mp3
+#EXTINF:-1,Nation Radio 80s
+https://listen-nation.sharp-stream.com/nationradio80s.mp3
