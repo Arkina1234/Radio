@@ -20,7 +20,7 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 #EXTINF:-1,BBC Asian Network
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_asian_network.m3u8
 #EXTINF:-1,BBC World Service
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_world_service.m3u8
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_low_sbr_v1/cfs/bbc_world_service.m3u8
 #EXTINF:-1,Capital UK
 https://media-ice.musicradio.com/CapitalUK
 #EXTINF:-1,Capital Anthems
@@ -61,22 +61,6 @@ https://media-ice.musicradio.com/ClassicFM
 https://media-ice.musicradio.com/LBCUKMP3
 #EXTINF:-1,LBC News
 https://media-ice.musicradio.com/LBCNewsUK
-#EXTINF:-1,talkSPORT
-https://radio.talksport.com/stream
-#EXTINF:-1,talkSPORT 2
-https://radio.talksport.com/stream2-mobile
-#EXTINF:-1,Virgin Radio
-https://radio.virginradio.co.uk/stream
-#EXTINF:-1,Virgin Chilled
-https://radio.virginradio.co.uk/stream-chilled-mobile
-#EXTINF:-1,Virgin Legends
-https://radio.virginradio.co.uk/stream-legends-mobile
-#EXTINF:-1,Virgin Radio 80s Plus
-https://radio.virginradio.co.uk/stream-virginradio4-mobile
-#EXTINF:-1,Times Radio
-https://timesradio.wireless.radio/stream
-#EXTINF:-1,Talk
-https://radio.talkradio.co.uk/stream-mobile
 #EXTINF:-1,Absolute Radio
 https://edge-bauerall-01-gos2.sharp-stream.com/absoluteradio.aac
 #EXTINF:-1,Absolute Radio 80s
@@ -123,37 +107,89 @@ https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
 https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
 #EXTINF:-1,Kisstory R&B
 https://edge-bauerall-01-gos2.sharp-stream.com/kisstoryrb.aac
+#EXTINF:-1,KISS XTRA
+http://edge-bauerall-01-gos2.sharp-stream.com/kissfresh.aac
 #EXTINF:-1,Kerrang! Radio
 https://edge-bauerall-01-gos2.sharp-stream.com/kerrang.aac
 #EXTINF:-1,Jazz FM
 https://edge-bauerall-01-gos2.sharp-stream.com/jazz.aac
-#EXTINF:-1,GB News Radio
-https://listen-gbnews.sharp-stream.com/gbnews.aac
-#EXTINF:-1,UCB 1
-https://direct.sharp-stream.com/ucbuk.aac
-#EXTINF:-1,UCB 2
-https://direct.sharp-stream.com/ucbinspirational.aac
-#EXTINF:-1,Fix Radio
-https://stream.rcs.revma.com/pq7npt2nzbuvv
+#EXTINF:-1,talkSPORT
+https://radio.talksport.com/stream
+#EXTINF:-1,talkSPORT 2
+https://radio.talksport.com/stream2-mobile
+#EXTINF:-1,Virgin Radio
+https://radio.virginradio.co.uk/stream
+#EXTINF:-1,Virgin Chilled
+https://radio.virginradio.co.uk/stream-chilled-mobile
+#EXTINF:-1,Virgin Legends
+https://radio.virginradio.co.uk/stream-legends-mobile
+#EXTINF:-1,Virgin Radio 80s Plus
+https://radio.virginradio.co.uk/stream-virginradio4-mobile
+#EXTINF:-1,Times Radio
+https://timesradio.wireless.radio/stream
+#EXTINF:-1,Talk
+https://radio.talkradio.co.uk/stream-mobile
 #EXTINF:-1,BFBS Radio
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
 #EXTINF:-1,Boom Radio
 https://listen-boomradio.sharp-stream.com/65_boom_radio_live_64
+#EXTINF:-1,Boom Light [Boom Radio/Radioplayer]
+https://listen-boomradio.sharp-stream.com/65_boom_light_128_mp3
+#EXTINF:-1,Boom Rock [Boom Radio/Radioplayer]
+https://listen-boomradio.sharp-stream.com/65_boom_rock_128_mp3
+#EXTINF:-1,CentreForce Radio
+https://listen.centreforceradio.com/64
+#EXTINF:-1,GB News Radio
+https://listen-gbnews.sharp-stream.com/gbnews.aac
+#EXTINF:-1,Fix Radio
+https://stream.rcs.revma.com/pq7npt2nzbuvv
+#EXTINF:-1,Fun Kids Radio
+https://listen-funkids.sharp-stream.com/funkids.aac
+#EXTINF:-1,Fun Kids Junior
+https://listen-funkids.sharp-stream.com/funkidsjunior.aac
+#EXTINF:-1,Fun Kids Soundtracks [Fun Kids]
+https://stream.rcs.revma.com/x8wbda03tm0uv
+#EXTINF:-1,Fun Kids Pop Hits [Fun Kids]
+https://stream.rcs.revma.com/6m5ucmz3tm0uv
+#EXTINF:-1,Fun Kids Party [Fun Kids]
+https://stream.rcs.revma.com/0gpwvpz3tm0uv
+#EXTINF:-1,Fun Kids Naps [Fun Kids]
+https://stream.rcs.revma.com/pp2cg1z3tm0uv
+#EXTINF:-1,Fun Kids Sleep Sounds [Fun Kids]
+https://stream.rcs.revma.com/5skkr2gtuy8uv
+#EXTINF:-1,Fun Kids Space Station [Fun Kids/Radioplayer]
+https://stream.rcs.revma.com/n2tzvkr3tm0uv
+#EXTINF:-1,Gaydio
+https://listen-gaydio.sharp-stream.com/gaydiouk.aac
+#EXTINF:-1,Nation Radio UK
+https://listen-nation.sharp-stream.com/thamesradio.aac
+#EXTINF:-1,Nation 60s [Nation Player/TuneIn]
+https://listen-nation.sharp-stream.com/nation60s-tunein.mp3
+#EXTINF:-1,Nation 70s [Nation Player/TuneIn]
+https://listen-nation.sharp-stream.com/nationradio70s-tunein.mp3
+#EXTINF:-1,Nation 80s [Nation Player/TuneIn]
+https://listen-nation.sharp-stream.com/nationradio80s-tunein.mp3
+#EXTINF:-1,Nation 90s [Nation Player/TuneIn]
+https://listen-nation.sharp-stream.com/nationradio90s-tunein.mp3
+#EXTINF:-1,Nation 00s [Nation Player/TuneIn]
+https://listen-nation.sharp-stream.com/nationradio00s-tunein.mp3
+#EXTINF:-1,Nation Dance [Nation Player/TuneIn]
+https://listen-nation.sharp-stream.com/nationdance-tunein.mp3
+#EXTINF:-1,Nation Hits [Nation Player/TuneIn]
+https://listen-nation.sharp-stream.com/nationhits-tunein.mp3
+#EXTINF:-1,Nation Love [Nation Player/TuneIn]
+https://listen-nation.sharp-stream.com/lovenation-tunein.mp4
+#EXTINF:-1,Nation Classic Hits [Nation Player/TuneIn]
+https://listen-nation.sharp-stream.com/nationparty-tunein.mp3
+#EXTINF:-1,Nation Rocks [Nation Player/TuneIn]
+https://listen-nation.sharp-stream.com/nationrocks-tunein.mp3
 #EXTINF:-1,Premier Christian Radio
 https://pcr.streamguys1.com/pcrnational-64k.mp3
 #EXTINF:-1,Premier Praise
 https://pcr.streamguys1.com/ppraise-64k.mp3
 #EXTINF:-1,Sunrise Radio
 https://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3
-#EXTINF:-1,CentreForce Radio
-https://listen.centreforceradio.com/64
-#EXTINF:-1,Fun Kids Radio
-https://listen-funkids.sharp-stream.com/funkids.aac
-#EXTINF:-1,Fun Kids Junior
-https://listen-funkids.sharp-stream.com/funkidsjunior.aac
-#EXTINF:-1,Gaydio
-https://listen-gaydio.sharp-stream.com/gaydiouk.aac
-#EXTINF:-1,Nation Radio UK
-https://listen-nation.sharp-stream.com/thamesradio.aac
-#EXTINF:-1,Nation Radio 80s
-https://listen-nation.sharp-stream.com/nationradio80s.aac
+#EXTINF:-1,UCB 1
+https://direct.sharp-stream.com/ucbuk.aac
+#EXTINF:-1,UCB 2
+https://direct.sharp-stream.com/ucbinspirational.aac
