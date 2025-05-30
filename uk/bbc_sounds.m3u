@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,BBC Radio 1 Anthems [BBC Sounds (UK only)]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/bbc_radio_one_anthems.mpd
+#EXTINF:-1,BBC Radio 1 Dance [BBC Sounds (UK only)]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/bbc_radio_one_dance.mpd
+#EXTINF:-1,BBC Radio 3 Unwind [BBC Sounds (UK only)]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/bbc_radio_three_unwind.mpd
+#EXTINF:-1,Radio 5 Live Sports Extra 2 [BBC Sounds (UK only)]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/bbc_radio_five_sports_extra_2.mpd
+#EXTINF:-1,Radio 5 Live Sports Extra 3 [BBC Sounds (UK only)]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/bbc_radio_five_sports_extra_3.mpd
+#EXTINF:-1,Live News [BBC Sounds (UK only)]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/bbc_sounds_news.mpd
+#EXTINF:-1,CBeebies Radio [BBC Sounds (UK only)]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/cfs/cbeebies_radio.mpd
