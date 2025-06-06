@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1,Radio France Inter
+https://icecast.radiofrance.fr/franceinter-midfi.mp3
+#EXTINF:-1,Franceinfo
+https://icecast.radiofrance.fr/franceinfo-midfi.mp3
+#EXTINF:-1,Radio France Culture
+https://icecast.radiofrance.fr/franceculture-midfi.mp3
+#EXTINF:-1,France Musique
+https://icecast.radiofrance.fr/francemusique-midfi.mp3
+#EXTINF:-1,FIP
+https://icecast.radiofrance.fr/fip-midfi.mp3
+#EXTINF:-1,Mouv'
+https://icecast.radiofrance.fr/mouv-midfi.mp3
+#EXTINF:-1,RFI
+https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
+#EXTINF:-1,NRJ
+https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3
+#EXTINF:-1,Chérie FM
+https://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3
+#EXTINF:-1,Rire et Chansons
+https://scdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3
+#EXTINF:-1,Nostalgie
+https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3
+#EXTINF:-1,RTL
+https://streamer-01.rtl.fr/rtl-1-44-128
+#EXTINF:-1,RTL2
+https://streamer-01.rtl.fr/rtl2-1-44-128
+#EXTINF:-1,Fun Radio
+https://streamer-02.rtl.fr/fun-1-44-128
+#EXTINF:-1,M Radio
+https://mfm.ice.infomaniak.ch/mfm-128.mp3
+#EXTINF:-1,Radio Classique
+https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
+#EXTINF:-1,Skyrock
+https://icecast.skyrock.net/s/natio_aac_128k
+#EXTINF:-1,BFM Radio
+https://audio.bfmtv.com/bfmradio_128.mp3
+#EXTINF:-1,BFM Business Radio
+https://audio.bfmtv.com/bfmbusiness_128.mp3
+#EXTINF:-1,RMC
+https://audio.bfmtv.com/rmcradio_128.mp3
+#EXTINF:-1,Europe 1
+https://ais-live.cloud-services.paris/europe1.mp3
+#EXTINF:-1,Europe 2
+https://ais-live.cloud-services.paris/europe2.mp3
+#EXTINF:-1,RFM
+https://ais-live.cloud-services.paris/rfm.mp3
+#EXTINF:-1,Radio Nova
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1,TSF Jazz
+http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
