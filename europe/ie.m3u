@@ -13,7 +13,7 @@ https://icecast.rte.ie/pulse
 https://icecast.rte.ie/2xm
 #EXTINF:-1,RTÉ Gold [RTÉ Radio Player]
 https://icecast.rte.ie/gold
-#EXTINF:-1,RTÉ Jr Radio [RTÉ Radio Player]
+#EXTINF:-1,RTÉ Jr Radio / RTÉ Chill [RTÉ Radio Player]
 https://icecast.rte.ie/junior
 #EXTINF:-1,RTÉ Radio 1 Extra [RTÉ Radio Player]
 https://icecast.rte.ie/radio1extra
