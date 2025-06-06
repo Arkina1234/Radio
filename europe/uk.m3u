@@ -110,7 +110,7 @@ https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.mp3
 #EXTINF:-1,Kisstory R&B
 https://edge-bauerall-01-gos2.sharp-stream.com/kisstoryrb.aac
 #EXTINF:-1,KISS XTRA
-https://edge-bauerall-01-gos2.sharp-stream.com/kissfresh.mp3
+https://edge-bauerall-01-gos2.sharp-stream.com/kissfresh.aac
 #EXTINF:-1,Kerrang! Radio
 https://edge-bauerall-01-gos2.sharp-stream.com/kerrang.mp3
 #EXTINF:-1,Jazz FM
@@ -130,17 +130,17 @@ https://radio.virginradio.co.uk/stream-virginradio4-mobile
 #EXTINF:-1,Times Radio
 https://timesradio.wireless.radio/stream
 #EXTINF:-1,Talk
-https://radio.talkradio.co.uk/stream-mobile
+https://radio.talkradio.co.uk/stream
 #EXTINF:-1,Boom Radio
-https://listen-boomradio.sharp-stream.com/65_boom_radio_live_64
-#EXTINF:-1,CentreForce Radio
-https://listen.centreforceradio.com/64
+https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128
 #EXTINF:-1,GB News Radio
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
 #EXTINF:-1,Fix Radio
 https://stream.rcs.revma.com/pq7npt2nzbuvv
 #EXTINF:-1,Sunrise Radio
 https://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3
+#EXTINF:-1,CentreForce Radio
+https://listen.centreforceradio.com/128
 #EXTINF:-1,Fun Kids Radio
 https://listen-funkids.sharp-stream.com/funkids.mp3
 #EXTINF:-1,Fun Kids Junior
