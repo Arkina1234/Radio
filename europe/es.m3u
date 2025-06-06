@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,Radio Nacional
+https://dispatcher.rndfnk.com/crtve/rne1/main/mp3/high
+#EXTINF:-1,Radio Clásica
+https://dispatcher.rndfnk.com/crtve/rnerc/mainhq/mp3/hq
+#EXTINF:-1,Radio 3
+https://dispatcher.rndfnk.com/crtve/rner3/main/mp3/high
+#EXTINF:-1,Radio 5
+https://dispatcher.rndfnk.com/crtve/rne5/main/mp3/high
+#EXTINF:-1,Radio Exterior
+https://dispatcher.rndfnk.com/crtve/rneree/main/mp3/high
+#EXTINF:-1,Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:-1,LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40.mp3
+#EXTINF:-1,Cadena Dial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+#EXTINF:-1,Cadena COPE
+https://net1-cope-rrcast.flumotion.com/cope/net1.mp3
+#EXTINF:-1,Cadena 100
+https://cadena100-cope-rrcast.flumotion.com/cope/cadena100.mp3
+#EXTINF:-1,MegaStar FM
+https://megastar-cope-rrcast.flumotion.com/cope/megastar.mp3
+#EXTINF:-1,Rock FM
+https://rockfm-cope-rrcast.flumotion.com/cope/rockfm.mp3
+#EXTINF:-1,Onda Cero
+https://atres-live.ondacero.es/live/ondacero/master.m3u8
+#EXTINF:-1,Europa FM
+https://atres-live.europafm.com/live/europafm/master.m3u8
+#EXTINF:-1,Melodía FM
+https://atres-live.melodia-fm.com/live/melodiafm/master.m3u8
+#EXTINF:-1,Kiss FM
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+#EXTINF:-1,Hit FM
+https://hitfm.kissfmradio.cires21.com/hitfm.mp3
+#EXTINF:-1,Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
+#EXTINF:-1,esRadio
+https://libertaddigital-radio-rrcast.flumotion.com/libertaddigital/ld-live1-med.aac
+#EXTINF:-1,Radio Intercontinental
+https://cast5.servcast.net/proxy/inter/stream
+#EXTINF:-1,Radio Intereconomía
+https://streaming.intereconomia.com/
