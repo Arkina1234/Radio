@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,Rai Radio 1
+https://icestreaming.rai.it/1.mp3
+#EXTINF:-1,Rai Radio 2
+https://icestreaming.rai.it/2.mp3
+#EXTINF:-1,Rai Radio 3
+https://icestreaming.rai.it/3.mp3
+#EXTINF:-1,Rai Radio Tutta Italiana
+https://icestreaming.rai.it/4.mp3
+#EXTINF:-1,Rai Radio 3 Classica
+https://icestreaming.rai.it/5.mp3
+#EXTINF:-1,Rai Isoradio
+https://icestreaming.rai.it/6.mp3
+#EXTINF:-1,Rai Gr Parlamento
+https://icestreaming.rai.it/7.mp3
+#EXTINF:-1,Rai Radio 1 Sport
+httpss://icestreaming.rai.it/8.mp3
+#EXTINF:-1,Rai Radio Techetè
+https://icestreaming.rai.it/9.mp3
+#EXTINF:-1,Rai Radio Live Napoli
+https://icestreaming.rai.it/10.mp3
+#EXTINF:-1,Rai Radio Kids
+https://icestreaming.rai.it/11.mp3
+#EXTINF:-1,Rai Radio 1 Sport (Alt)
+https://icestreaming.rai.it/13.mp3
+#EXTINF:-1,Rai No Name Radio
+https://icestreaming.rai.it/15.mp3
+#EXTINF:-1,R101
+https://icecast.unitedradio.it/r101.mp3
+#EXTINF:-1,Radio 105
+https://icecast.unitedradio.it/Radio105.mp3
+#EXTINF:-1,Virgin Radio (Italy)
+https://icecast.unitedradio.it/Virgin.mp3
+#EXTINF:-1,Radio Monte Carlo
+https://icecast.unitedradio.it/RMC.mp3
+#EXTINF:-1,News 24
+http://shoutcast2.radio24.ilsole24ore.com:8000/;
+#EXTINF:-1,Radio DeeJay
+https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
+#EXTINF:-1,Radio Capital
+https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8
+#EXTINF:-1,m2o
+https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
+#EXTINF:-1,Radio Maria (Italia)
+https://dreamsiteradiocp5.com/proxy/rmitalia?mp=/stream
+#EXTINF:-1,Radio Radicale
+https://livemp3.radioradicale.it/live.mp3
+#EXTINF:-1,RDS
+https://icstream.rds.radio/rds
