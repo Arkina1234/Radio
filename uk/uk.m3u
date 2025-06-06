@@ -139,6 +139,8 @@ https://listen.centreforceradio.com/64
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
 #EXTINF:-1,Fix Radio
 https://stream.rcs.revma.com/pq7npt2nzbuvv
+#EXTINF:-1,Sunrise Radio
+https://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3
 #EXTINF:-1,Fun Kids Radio
 https://listen-funkids.sharp-stream.com/funkids.mp3
 #EXTINF:-1,Fun Kids Junior
@@ -151,11 +153,9 @@ https://listen-nation.sharp-stream.com/thamesradio.mp3
 https://pcr.streamguys1.com/pcrnational-64k.mp3
 #EXTINF:-1,Premier Praise
 https://pcr.streamguys1.com/ppraise-64k.mp3
-#EXTINF:-1,Sunrise Radio
-https://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3
 #EXTINF:-1,UCB 1
-https://direct.sharp-stream.com/ucbuk.aac
+https://direct.sharp-stream.com/ucbuk.mp3
 #EXTINF:-1,UCB 2
-https://direct.sharp-stream.com/ucbinspirational.aac
+https://direct.sharp-stream.com/ucbinspirational.mp3
 #EXTINF:-1,BFBS Radio
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.mp3
