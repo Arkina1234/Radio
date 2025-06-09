@@ -25,19 +25,19 @@ https://icestreaming.rai.it/11.mp3
 https://icestreaming.rai.it/13.mp3
 #EXTINF:-1,Rai No Name Radio
 https://icestreaming.rai.it/15.mp3
-RTL 102.5
+#EXTINF:-1,RTL 102.5
 https://streamingv2.shoutcast.com/rtl-1025
-Radio Zeta
+#EXTINF:-1,Radio Zeta
 https://streamingv2.shoutcast.com/radio-zeta
-Radio Freccia
+#EXTINF:-1,Radio Freccia
 https://streamingv2.shoutcast.com/radiofreccia
-Radio Italia
+#EXTINF:-1,Radio Italia
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8
-Radio Kiss Kiss
+#EXTINF:-1,Radio Kiss Kiss
 https://ice08.fluidstream.net/KissKiss.mp3
-Radio Libertà
+#EXTINF:-1,Radio Libertà
 https://stream6.xdevel.com/audio0s976574-1328/stream/icecast.audio
-Radio Vaticana (Italia)
+#EXTINF:-1,Radio Vaticana (Italia)
 https://radio.vaticannews.va/stream-it
 #EXTINF:-1,R101
 https://icecast.unitedradio.it/r101_mp3
