@@ -31,8 +31,6 @@ https://web.streams.brillux.radio/brillux-radio
 https://frontend.streamonkey.net/energy-digital/stream/mp3
 #EXTINF:-1,Radio Nostalgie
 https://frontend.streamonkey.net/nostalgie-live/stream/mp3
-#EXTINF:-1,ERF Jess
-https://addrad.io/44599qg
 #EXTINF:-1,ERF Plus
 https://addrad.io/44599kb
 #EXTINF:-1,Klassik Radio
@@ -47,12 +45,8 @@ https://s3-webradio.rockantenne.de/rockantenne
 https://streams.radiobob.de/bob-national/mp3-192
 #EXTINF:-1,Radio Horeb
 https://dreamsiteradiocp2.com/proxy/horeb2/stream
-#EXTINF:-1,Radio Paloma
-http://pool.radiopaloma.de/RADIOPALOMA.mp3
 #EXTINF:-1,Radio Schlagerparadies
 http://stream.schlagerparadies.de:30842/
-#EXTINF:-1,Radio Teddy
-https://streamtdy.ir-media-tec.com/live/mp3-128
 #EXTINF:-1,RTL Radio
 https://stream.rtlradio.de/rtl-de-national/mp3-128
 #EXTINF:-1,TOGGO Radio
@@ -61,3 +55,10 @@ https://radio.toggo.de/live/mp3-128
 https://edge13.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3
 #EXTINF:-1,sunshine live
 https://stream.sunshine-live.de/live/mp3-192
+rbb
+#EXTINF:-1,ERF Jess
+https://addrad.io/44599qg
+#EXTINF:-1,Radio Paloma
+http://pool.radiopaloma.de/RADIOPALOMA.mp3
+#EXTINF:-1,Radio Teddy
+https://streamtdy.ir-media-tec.com/live/mp3-128
