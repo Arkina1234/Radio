@@ -25,8 +25,18 @@ https://icestreaming.rai.it/11.mp3
 https://icestreaming.rai.it/13.mp3
 #EXTINF:-1,Rai No Name Radio
 https://icestreaming.rai.it/15.mp3
+RTL 102.5
+https://streamingv2.shoutcast.com/rtl-1025
+Radio Zeta
+https://streamingv2.shoutcast.com/radio-zeta
+Radio Freccia
+https://streamingv2.shoutcast.com/radiofreccia
+Radio Italia
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8
+Radio Kiss Kiss
+https://ice08.fluidstream.net/KissKiss.mp3
 #EXTINF:-1,R101
-https://icecast.unitedradio.it/r101
+https://icecast.unitedradio.it/r101_mp3
 #EXTINF:-1,Radio 105
 https://icecast.unitedradio.it/Radio105.mp3
 #EXTINF:-1,Virgin Radio (Italy)
