@@ -9,8 +9,6 @@ https://icecast.radiofrance.fr/franceculture-midfi.mp3
 https://icecast.radiofrance.fr/francemusique-midfi.mp3
 #EXTINF:-1,FIP
 https://icecast.radiofrance.fr/fip-midfi.mp3
-#EXTINF:-1,ici Paris
-https://icecast.radiofrance.fr/fb1071-midfi.mp3
 #EXTINF:-1,Mouv'
 https://icecast.radiofrance.fr/mouv-midfi.mp3
 #EXTINF:-1,RFI
@@ -35,12 +33,6 @@ https://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3
 https://scdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3
 #EXTINF:-1,Nostalgie
 https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3
-#EXTINF:-1,TSF Jazz
-https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
-#EXTINF:-1,Radio Nova
-https://novazz.ice.infomaniak.ch/novazz-128.mp3
-#EXTINF:-1,Radio FG
-https://radiofg.impek.com/fg
 #EXTINF:-1,M Radio
 https://mfm.ice.infomaniak.ch/mfm-128.mp3
 #EXTINF:-1,Jazz Radio
@@ -49,12 +41,17 @@ https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
 https://icecast.skyrock.net/s/natio_mp3_128k
 #EXTINF:-1,Radio Classique
 https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
-#EXTINF:-1,Beur FM
-https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
 #EXTINF:-1,BFM Radio
 https://audio.bfmtv.com/bfmradio_128.mp3
 #EXTINF:-1,BFM Business Radio
 https://audio.bfmtv.com/bfmbusiness_128.mp3
 #EXTINF:-1,RMC
 https://audio.bfmtv.com/rmcradio_128.mp3
-
+#EXTINF:-1,TSF Jazz
+https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+#EXTINF:-1,Radio Nova
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1,Radio FG
+https://radiofg.impek.com/fg
+#EXTINF:-1,Beur FM
+https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
