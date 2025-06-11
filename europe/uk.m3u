@@ -103,6 +103,8 @@ https://direct.sharp-stream.com/ucbuk.mp3
 https://direct.sharp-stream.com/ucbinspirational.mp3
 #EXTINF:-1,BFBS Radio
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.mp3
+#EXTINF:-1,Angel Radio
+https://edge.clrmedia.co.uk/angel_hb
 #EXTINF:-1,CentreForce Radio
 https://listen.centreforceradio.com/128
 #EXTINF:-1,Fun Kids Radio
@@ -113,3 +115,7 @@ https://listen-funkids.sharp-stream.com/funkidsjunior.mp3
 https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
 #EXTINF:-1,Nation Radio UK
 https://listen-nation.sharp-stream.com/thamesradio.mp3
+#EXTINF:-1,Panjab Radio
+http://s1.voscast.com:7918/;
+#EXTINF:-1,Radio Caroline
+https://stream.radiocaroline.net/rc128/;
