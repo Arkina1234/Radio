@@ -1,12 +1,136 @@
 #EXTM3U
+#EXTINF:-1,Bayern 1 (Oberbayern)
+https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid
+#EXTINF:-1,Bayern 2
+https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
+#EXTINF:-1,Bayern 3
+https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
+#EXTINF:-1,BR-Klassik
+https://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid
+#EXTINF:-1,BR24
+https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
+#EXTINF:-1,BR24live
+https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid
+#EXTINF:-1,BR Schlager
+https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid
+#EXTINF:-1,BR Heimat
+https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid
+#EXTINF:-1,Puls
+https://dispatcher.rndfnk.com/br/puls/live/mp3/mid
+#EXTINF:-1,hr1
+https://dispatcher.rndfnk.com/hr/hr1/live/mp3/high
+#EXTINF:-1,hr2-Kultur
+https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high
+#EXTINF:-1,hr3
+https://dispatcher.rndfnk.com/hr/hr3/live/mp3/high
+#EXTINF:-1,hr4 (Rhein-Main)
+https://dispatcher.rndfnk.com/hr/hr4/live/mp3/high
+#EXTINF:-1,hr-info
+https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high
+#EXTINF:-1,YOU FM
+https://dispatcher.rndfnk.com/hr/youfm/live/mp3/high
+#EXTINF:-1,MDR Sachsen
+https://mdr-284280-0.sslcast.mdr.de/mdr/284280/0/mp3/high/stream.mp3
+#EXTINF:-1,MDR Sachsen-Anhalt
+https://mdr-284290-0.sslcast.mdr.de/mdr/284290/0/mp3/high/stream.mp3
+#EXTINF:-1,MDR Thüringen
+https://mdr-284300-0.sslcast.mdr.de/mdr/284300/0/mp3/high/stream.mp3
+#EXTINF:-1,MDR Kultur
+https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3
+#EXTINF:-1,MDR Jump
+https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
+#EXTINF:-1,MDR Sputnik
+https://mdr-284330-0.sslcast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
+#EXTINF:-1,MDR Aktuell
+https://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
+#EXTINF:-1,MDR Klassik
+https://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
+#EXTINF:-1,NDR 903
+https://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3
+#EXTINF:-1,NDR 1 Radio MV
+https://icecast.ndr.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3
+#EXTINF:-1,NDR 1 Niedersachsen
+https://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
+#EXTINF:-1,NDR 1 Welle Nord
+https://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3
+#EXTINF:-1,NDR 2
+https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+#EXTINF:-1,NDR Kultur
+https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3
+#EXTINF:-1,NDR Info
+https://icecast.ndr.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3
+#EXTINF:-1,NDR Info Spezial
+https://icecast.ndr.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3
+#EXTINF:-1,N-Joy
+https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3
+#EXTINF:-1,NDR Blue
+https://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
+#EXTINF:-1,NDR Schlager
+https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3
+#EXTINF:-1,Bremen Eins
+https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3
+#EXTINF:-1,Bremen Zwei
+https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
+#EXTINF:-1,Bremen Vier
+https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3
+#EXTINF:-1,Bremen Next
+https://icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio Eins
+https://radioeins.de/livemp3
+#EXTINF:-1,rbb24 Inforadio
+https://inforadio.de/livemp3
+#EXTINF:-1,Radio 3
+https://rbbkultur.de/livemp3
+#EXTINF:-1,Fritz
+https://fritz.de/livemp3
+#EXTINF:-1,Antenne Brandenburg
+https://www.antennebrandenburg.de/livemp3
+#EXTINF:-1,rbb 88.8
+https://rbb888.de/livemp3
+#EXTINF:-1,SR 1
+https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3
+#EXTINF:-1,SR Kultur
+https://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3
+#EXTINF:-1,SR 3 Saarlandwelle
+https://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3
+#EXTINF:-1,SWR1 (Baden-Württemberg)
+https://liveradio.swr.de/sw282p3/swr1bw/play.mp3
+#EXTINF:-1,SWR Kultur
+https://liveradio.swr.de/sw282p3/swr2/play.mp3
+#EXTINF:-1,SWR3
+https://liveradio.swr.de/sw282p3/swr3/play.mp3
+#EXTINF:-1,SWR4 (Stuttgart)
+https://liveradio.swr.de/sw282p3/swr4bw/play.mp3
+#EXTINF:-1,SWR4 (Mainz)
+https://liveradio.swr.de/sw282p3/swr4rp/play.mp3
+#EXTINF:-1,Dasding
+https://liveradio.swr.de/sw282p3/dasding/play.mp3
+#EXTINF:-1,SWR Aktuell
+https://liveradio.swr.de/sw282p3/swraktuell/play.mp3
+#EXTINF:-1,1 Live
+https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+#EXTINF:-1,1 Live Diggi
+https://wdr-1live-diggi.icecastssl.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+#EXTINF:-1,WDR 2 (Rheinland)
+https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
+#EXTINF:-1,WDR 3
+https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
+#EXTINF:-1,WDR 4 (Ruhrgebiet)
+https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
+#EXTINF:-1,WDR Maus
+https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
+#EXTINF:-1,WDR Event
+https://wdr-wdr-event.icecastssl.wdr.de/wdr/wdr/event/mp3/128/stream.mp3
+#EXTINF:-1,Cosmo
+https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
 #EXTINF:-1,Deutschlandfunk
 https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
 #EXTINF:-1,Deutschlandfunk Kultur
 https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3
-#EXTINF:-1,Deutschlandradio Dokumente und Debatten
-https://st04.sslstream.dlf.de/dlf/04/128/mp3/stream.mp3
 #EXTINF:-1,Deutschlandfunk Nova
 https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3
+#EXTINF:-1,Deutschlandradio Dokumente und Debatten
+https://st04.sslstream.dlf.de/dlf/04/128/mp3/stream.mp3
 #EXTINF:-1,Absolut Bella
 https://absolut-bella.live-sm.absolutradio.de/absolut-bella
 #EXTINF:-1,Absolut HOT
