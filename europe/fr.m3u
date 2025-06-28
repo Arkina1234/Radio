@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1,Radio France Inter
+#EXTINF:-1,France Inter
 https://icecast.radiofrance.fr/franceinter-midfi.mp3
-#EXTINF:-1,Franceinfo
+#EXTINF:-1,franceinfo
 https://icecast.radiofrance.fr/franceinfo-midfi.mp3
-#EXTINF:-1,Radio France Culture
+#EXTINF:-1,ici Paris Île-de-France
+https://icecast.radiofrance.fr/fb1071-midfi.mp3
+#EXTINF:-1,France Culture
 https://icecast.radiofrance.fr/franceculture-midfi.mp3
 #EXTINF:-1,France Musique
 https://icecast.radiofrance.fr/francemusique-midfi.mp3
