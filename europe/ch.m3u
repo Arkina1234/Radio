@@ -19,3 +19,9 @@ https://stream.srg-ssr.ch/m/espace-2/mp3_128
 https://stream.srg-ssr.ch/m/couleur3/mp3_128
 #EXTINF:-1,RTS Option Musique
 https://stream.srg-ssr.ch/m/option-musique/mp3_128
+#EXTINF:-1,RSI Rete Uno
+https://stream.srg-ssr.ch/m/reteuno/mp3_128
+#EXTINF:-1,RSI Rete Due
+https://stream.srg-ssr.ch/m/retedue/mp3_128
+#EXTINF:-1,RSI Rete Tre
+https://stream.srg-ssr.ch/m/retetre/mp3_128
