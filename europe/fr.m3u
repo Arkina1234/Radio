@@ -16,11 +16,11 @@ https://icecast.radiofrance.fr/mouv-midfi.mp3
 #EXTINF:-1,RFI
 https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
 #EXTINF:-1,Europe 1
-https://ais-live.cloud-services.paris/europe1.mp3
+https://stream.europe1.fr/europe1.mp3
 #EXTINF:-1,Europe 2
-https://ais-live.cloud-services.paris/europe2.mp3
+https://europe2.lmn.fm/europe2.mp3
 #EXTINF:-1,RFM
-https://ais-live.cloud-services.paris/rfm.mp3
+https://stream.rfm.fr/rfm.mp3
 #EXTINF:-1,RTL
 https://streamer-01.rtl.fr/rtl-1-44-128
 #EXTINF:-1,RTL2
