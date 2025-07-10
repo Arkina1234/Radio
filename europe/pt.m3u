@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Antena 1
+https://radiocast.rtp.pt/antena180a.mp3
+#EXTINF:-1,Antena 2
+https://radiocast.rtp.pt/antena280a.mp3
+#EXTINF:-1,Antena 3
+https://radiocast.rtp.pt/antena380a.mp3
+#EXTINF:-1,Rádio Renascença
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3
+#EXTINF:-1,RFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3
+#EXTINF:-1,Mega Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS.mp3
+#EXTINF:-1,Rádio Comercial
+https://stream-icy.bauermedia.pt/comercial.mp3
+#EXTINF:-1,M80 Radio
+https://stream-icy.bauermedia.pt/m80.mp3
+#EXTINF:-1,Cidade FM
+https://stream-icy.bauermedia.pt/cidade.mp3
+#EXTINF:-1,Smooth FM
+https://stream-icy.bauermedia.pt/smooth.mp3
+#EXTINF:-1,Batida FM
+https://stream-icy.bauermedia.pt/batidafm.mp3
+#EXTINF:-1,TSF
+https://tsfdirecto.tsf.pt/tsfdirecto.mp3
