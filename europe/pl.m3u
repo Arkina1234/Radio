@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Jedynka
+http://mp3.polskieradio.pl:8900/;
+#EXTINF:-1,Dwójka
+http://mp3.polskieradio.pl:8902/;
+#EXTINF:-1,Trójka
+http://mp3.polskieradio.pl:8904/;
+#EXTINF:-1,Czwórka
+http://mp3.polskieradio.pl:8906/;
+#EXTINF:-1,Polskie Radio 24
+http://mp3.polskieradio.pl:8080/;
+#EXTINF:-1,Polskie Radio Dzieciom
+http://mp3.polskieradio.pl:8916/;
+#EXTINF:-1,Polskie Radio Chopin
+http://mp3.polskieradio.pl:8910/;
+#EXTINF:-1,Polskie Radio Kierowców
+http://mp3.polskieradio.pl:8918/;
+#EXTINF:-1,Radio Poland DAB+
+http://mp3.polskieradio.pl:8912/;
