@@ -1,20 +1,89 @@
 #EXTM3U
-#EXTINF:-1,NPO Radio 1 http://icecast.omroep.nl/radio1-bb-mp3
+#EXTINF:-1,NPO Radio 1
+https://icecast.omroep.nl/radio1-bb-mp3
 #EXTINF:-1,NPO Radio 2
-http://icecast.omroep.nl/radio2-bb-mp3
+https://icecast.omroep.nl/radio2-bb-mp3
 #EXTINF:-1,NPO 3FM
-http://icecast.omroep.nl/3fm-bb-mp3
+https://icecast.omroep.nl/3fm-bb-mp3
 #EXTINF:-1,NPO Klassiek
-http://icecast.omroep.nl/radio4-bb-mp3
+https://icecast.omroep.nl/radio4-bb-mp3
 #EXTINF:-1,NPO Radio 5
-http://icecast.omroep.nl/radio5-bb-mp3
-#EXTINF:-1,NPO FunX
-http://icecast.omroep.nl/funx-bb-mp3
-#EXTINF:-1,NPO SterrenNL
-http://icecast.omroep.nl/radio2-sterrennl-mp3
+https://icecast.omroep.nl/radio5-bb-mp3
 #EXTINF:-1,NPO Soul & Jazz
-http://icecast.omroep.nl/radio6-bb-mp3
-#EXTINF:-1,NPO BLEND
-http://icecast.omroep.nl/npoblend-bb-mp3
+https://icecast.omroep.nl/radio6-bb-mp3
+#EXTINF:-1,NPO FunX
+https://icecast.omroep.nl/funx-bb-mp3
+#EXTINF:-1,NPO SterrenNL
+https://icecast.omroep.nl/radio2-sterrennl-mp3
 #EXTINF:-1,NPO Campus
-http://icecast.omroep.nl/3fm-serioustalent-mp3
+https://icecast.omroep.nl/3fm-serioustalent-mp3
+#EXTINF:-1,NPO BLEND
+https://icecast.omroep.nl/npoblend-bb-mp3
+#EXTINF:-1,Sky Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
+#EXTINF:-1,Skyradio Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3
+#EXTINF:-1,Radio 10
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3
+#EXTINF:-1,Radio 10 60's & 70's Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3
+#EXTINF:-1,Radio 10 80's Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3
+#EXTINF:-1,Radio 538
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
+#EXTINF:-1,538 NON STOP
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
+#EXTINF:-1,538 Greatest Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3
+#EXTINF:-1,Qmusic
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3
+#EXTINF:-1,Qmusic non-stop
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop.mp3
+#EXTINF:-1,Qmusic Foute Uur
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur.mp3
+#EXTINF:-1,Qmusic Top 40
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40.mp3
+#EXTINF:-1,Qmusic 90s & 00s
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_90s00s.mp3
+#EXTINF:-1,Joe
+https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3
+#EXTINF:-1,Radio Veronica
+https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
+#EXTINF:-1,Radio Veronica Non-stop
+https://playerservices.streamtheworld.com/api/livestream-redirect/DAB02_MP3.mp3
+#EXTINF:-1,Radio Veronica Goud van Oud
+https://playerservices.streamtheworld.com/api/livestream-redirect/DAB01_MP3.mp3
+#EXTINF:-1,100% NL
+https://playerservices.streamtheworld.com/api/livestream-redirect/100PNL_MP3.mp3
+#EXTINF:-1,SLAM!
+https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_MP3.mp3
+#EXTINF:-1,Sublime
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3
+#EXTINF:-1,KINK
+https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3
+#EXTINF:-1,KINK 80s
+https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNA.mp3
+#EXTINF:-1,KINK Distortion
+https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTION.mp3
+#EXTINF:-1,BNR Nieuwsradio
+https://stream.bnr.nl/bnr_mp3_128_01
+#EXTINF:-1,Yoursafe Radio
+https://radiostream.yoursafe.nl/stream
+#EXTINF:-1,Groot Nieuws Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GNR.mp3
+#EXTINF:-1,Groot Nieuws Radio Nonstop
+https://playerservices.streamtheworld.com/api/livestream-redirect/GNRNONSTOP.mp3
+#EXTINF:-1,GLXY.RADIO
+https://stream.glxy.radio/GLXY
+#EXTINF:-1,VIBE Radio
+https://stream.viberadio.nl/viberadio
+#EXTINF:-1,Magic FM
+https://stream.magicfm.nl/magicfm
+#EXTINF:-1,CREAM Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CREAM.mp3
+#EXTINF:-1,4ever49 Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/4EVER49.mp3
+#EXTINF:-1,GOD Radio
+https://stream.wildfm.nl/GOD_Radio
+#EXTINF:-1,Grand Prix Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO.mp3
