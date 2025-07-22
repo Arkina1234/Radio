@@ -7,3 +7,33 @@ https://orf-live.ors-shoutcast.at/bgl-q2a
 https://orf-live.ors-shoutcast.at/oe3-q2a
 #EXTINF:-1,Radio FM4
 https://orf-live.ors-shoutcast.at/fm4-q2a
+#EXTINF:-1,Radio Arabella Magic
+https://frontend.streams.arabella.at/arabella-magic/stream/mp3
+#EXTINF:-1,Radio Arabella Hot
+https://frontend.streams.arabella.at/arabella-hot/stream/mp3
+#EXTINF:-1,Energy Österreich
+https://scdn.nrjaudio.fm/adwz1/at/36001/mp3_128.mp3
+#EXTINF:-1,jö.live
+https://frontend.streamonkey.net/max5-joelive/stream/mp3
+#EXTINF:-1,Rock Antenne Österreich
+https://mp3channels.webradio.de/rockantenne-oesterreichstream
+#EXTINF:-1,Radio ONE
+https://stream.radiotechnikum.at/TECHONE
+#EXTINF:-1,ERF Süd
+https://erfradio.com/ERF_Sued
+#EXTINF:-1,radio klassik Stephansdom
+https://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
+#EXTINF:-1,Welle 1
+https://live.welle1.at:19000/live
+#EXTINF:-1,Radio 88.6
+https://radio886.at/streams/radio_88.6/mp3
+#EXTINF:-1,Mein Kinderradio
+https://stream01.zogl.net:8907/stream
+#EXTINF:-1,Antenne Österreich
+https://frontend.streamonkey.net/antoesterreich-live/stream/mp3
+#EXTINF:-1,Radio Flamingo
+https://live.antenne.at/rf.mp3
+#EXTINF:-1,oe24 Radio
+https://frontend.streamonkey.net/oe24-live/stream/mp3
+#EXTINF:-1,Klassik Radio Österreich
+https://stream.klassikradio.de/klassikradio-oesterreich/mp3-128
