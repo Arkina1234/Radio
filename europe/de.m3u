@@ -133,57 +133,53 @@ https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3
 https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3
 #EXTINF:-1,Deutschlandradio Dokumente und Debatten
 https://st04.sslstream.dlf.de/dlf/04/128/mp3/stream.mp3
-#EXTINF:-1,Absolut Bella
-https://absolut-bella.live-sm.absolutradio.de/absolut-bella
-#EXTINF:-1,Absolut HOT
-https://absolut-hot.live-sm.absolutradio.de/absolut-hot
-#EXTINF:-1,Absolut Germany
-https://absolut-germany.live-sm.absolutradio.de/absolut-germany
-#EXTINF:-1,Absolut Oldie Classics
-https://absolut-oldieclassics.live-sm.absolutradio.de/absolut-oldieclassics
 #EXTINF:-1,Absolut relax
 https://absolut-relax.live-sm.absolutradio.de/absolut-relax
+#EXTINF:-1,Absolut HOT
+https://absolut-hot.live-sm.absolutradio.de/absolut-hot
 #EXTINF:-1,Absolut TOP
 https://absolut-top.live-sm.absolutradio.de/absolut-top
-#EXTINF:-1,80s80s
-https://streams.80s80s.de/web/mp3-192
-#EXTINF:-1,90s90s
-https://streams.90s90s.de/pop/mp3-192
-#EXTINF:-1,AIDAradio
-https://frontend.streamonkey.net/aidaradio-meergefuehl/stream/mp3
-#EXTINF:-1,Brillux Radio
-https://web.streams.brillux.radio/brillux-radio
+#EXTINF:-1,Absolut Bella
+https://absolut-bella.live-sm.absolutradio.de/absolut-bella
+#EXTINF:-1,Absolut Oldie Classics
+https://absolut-oldieclassics.live-sm.absolutradio.de/absolut-oldieclassics
+#EXTINF:-1,Absolut Germany
+https://absolut-germany.live-sm.absolutradio.de/absolut-germany
+#EXTINF:-1,ERF Plus
+https://addrad.io/44599kb
 #EXTINF:-1,Energy Digital
 https://frontend.streamonkey.net/energy-digital/stream/mp3
 #EXTINF:-1,Radio Nostalgie
 https://frontend.streamonkey.net/nostalgie-live/stream/mp3
-#EXTINF:-1,ERF Plus
-https://addrad.io/44599kb
+#EXTINF:-1,Radio Horeb
+https://dreamsiteradiocp2.com/proxy/horeb2/stream
 #EXTINF:-1,Klassik Radio
 https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
 #EXTINF:-1,Beats Radio
 https://stream.klassikradio.de/beats-national/mp3-128
-#EXTINF:-1,Oldie Antenne
-https://s7-webradio.webradio.de/oldies-but-goldies
-#EXTINF:-1,Rock Antenne
-https://s3-webradio.rockantenne.de/rockantenne
-#EXTINF:-1,Radio BOB!
-https://streams.radiobob.de/bob-national/mp3-192
-#EXTINF:-1,Radio Horeb
-https://dreamsiteradiocp2.com/proxy/horeb2/stream
 #EXTINF:-1,Radio Schlagerparadies
 http://stream.schlagerparadies.de:30842/
-#EXTINF:-1,RTL Radio
-https://stream.rtlradio.de/rtl-de-national/mp3-128
-#EXTINF:-1,TOGGO Radio
-https://radio.toggo.de/live/mp3-128
 #EXTINF:-1,Schwarzwaldradio
 https://edge13.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3
 #EXTINF:-1,sunshine live
 https://stream.sunshine-live.de/live/mp3-192
-#EXTINF:-1,ERF Jess
-https://addrad.io/44599qg
-#EXTINF:-1,Radio Paloma
-http://pool.radiopaloma.de/RADIOPALOMA.mp3
-#EXTINF:-1,Radio Teddy
-https://streamtdy.ir-media-tec.com/live/mp3-128
+#EXTINF:-1,Radio BOB!
+https://streams.radiobob.de/bob-national/mp3-192
+#EXTINF:-1,Rock Antenne
+https://s3-webradio.rockantenne.de/rockantenne
+#EXTINF:-1,Oldie Antenne
+https://s7-webradio.webradio.de/oldies-but-goldies
+#EXTINF:-1,RTL Radio
+https://stream.rtlradio.de/rtl-de-national/mp3-128
+#EXTINF:-1,TOGGO Radio
+https://radio.toggo.de/live/mp3-128
+#EXTINF:-1,Ballermann Radio
+https://stream.bmr-radio.de/ballermann-radio.mp3
+#EXTINF:-1,80s80s
+https://streams.80s80s.de/web/mp3-192
+#EXTINF:-1,90s90s
+https://streams.90s90s.de/pop/mp3-192
+#EXTINF:-1,Brillux Radio
+https://web.streams.brillux.radio/brillux-radio
+#EXTINF:-1,AIDAradio
+https://frontend.streamonkey.net/aidaradio-meergefuehl/stream/mp3
