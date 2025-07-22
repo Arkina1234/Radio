@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1,La Première
-https://radio.rtbf.be/lapremiere/mp3
-#EXTINF:-1,VivaCité (Bruxelles)
-https://radio.rtbf.be/viva-bxl/mp3
-#EXTINF:-1,Classic 21
-https://radio.rtbf.be/c21/mp3
-#EXTINF:-1,Tipik
-https://radio.rtbf.be/tipik/mp3
-#EXTINF:-1,Musiq'3
-https://radio.rtbf.be/musiq3/mp3
-#EXTINF:-1,BRF1
-https://streaming.brf.be/brf1-high.mp3
-#EXTINF:-1,BRF2
-https://streaming.brf.be/brf2-high.mp3
 #EXTINF:-1,Radio 1
 https://icecast.vrtcdn.be/radio1-high.mp3
 #EXTINF:-1,Radio 2 (Vlaams-Brabant)
@@ -63,3 +49,35 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_ZILLION.mp
 http://randstad.wirelessbelgie.be:8330/;stream.mp3
 #EXTINF:-1,MENTpop radio
 https://s29.myradiostream.com/19742/listen.mp3
+#EXTINF:-1,La Première
+https://radio.rtbf.be/lapremiere/mp3
+#EXTINF:-1,VivaCité (Bruxelles)
+https://radio.rtbf.be/viva-bxl/mp3
+#EXTINF:-1,Classic 21
+https://radio.rtbf.be/c21/mp3
+#EXTINF:-1,Tipik
+https://radio.rtbf.be/tipik/mp3
+#EXTINF:-1,Musiq'3
+https://radio.rtbf.be/musiq3/mp3
+#EXTINF:-1,Jam.
+https://radio.rtbf.be/jam/mp3
+#EXTINF:-1,Viva+
+https://radio.rtbf.be/vivaplus/mp3
+#EXTINF:-1,Viva Sport
+https://radio.rtbf.be/viva-sport/mp3
+#EXTINF:-1,bel RTL
+https://belrtl.ice.infomaniak.ch/belrtl-mp3-128.mp3
+#EXTINF:-1,Radio Contact
+https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3
+#EXTINF:-1,NRJ Belgique
+https://stream.rcs.revma.com/xh00fwuptg0uv
+#EXTINF:-1,Nostalgie Wallonie
+https://stream.rcs.revma.com/5gd04cwptg0uv
+#EXTINF:-1,Fun Radio
+https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3
+#EXTINF:-1,LN Radio
+https://stream.rcs.revma.com/anew1ctrgzzuv
+#EXTINF:-1,BRF1
+https://streaming.brf.be/brf1-high.mp3
+#EXTINF:-1,BRF2
+https://streaming.brf.be/brf2-high.mp3
