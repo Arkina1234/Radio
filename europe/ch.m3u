@@ -25,3 +25,13 @@ https://stream.srg-ssr.ch/m/reteuno/mp3_128
 https://stream.srg-ssr.ch/m/retedue/mp3_128
 #EXTINF:-1,RSI Rete Tre
 https://stream.srg-ssr.ch/m/retetre/mp3_128
+#EXTINF:-1,Radio RTR
+https://stream.srg-ssr.ch/m/rr/mp3_128
+#EXTINF:-1,Radio Swiss Pop
+http://stream.srg-ssr.ch/m/rsp/mp3_128
+#EXTINF:-1,Radio Swiss Jazz
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1,Radio Swiss Classic (Deutsch)
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1,Radio Swiss Classic (Français)
+http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
