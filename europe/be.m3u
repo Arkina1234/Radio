@@ -69,14 +69,26 @@ https://radio.rtbf.be/viva-sport/mp3
 https://belrtl.ice.infomaniak.ch/belrtl-mp3-128.mp3
 #EXTINF:-1,Radio Contact
 https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3
+#EXTINF:-1,Radio Contact MAX
+https://contactmax.ice.infomaniak.ch/contactmax-128.mp3
 #EXTINF:-1,NRJ Belgique
-https://stream.rcs.revma.com/xh00fwuptg0uv
+https://stream.rcs.revma.com/xh00fwuptg0uv.mp3
+#EXTINF:-1,NRJ+
+https://stream.rcs.revma.com/1a6hdnzbebuvv.mp3
 #EXTINF:-1,Nostalgie Wallonie
-https://stream.rcs.revma.com/5gd04cwptg0uv
+https://stream.rcs.revma.com/5gd04cwptg0uv.mp3
+#EXTINF:-1,Nostalgie+
+https://stream.rcs.revma.com/s9mkgtsqtg0uv.mp3
 #EXTINF:-1,Fun Radio
-https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3
+#EXTINF:-1,https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3
 #EXTINF:-1,LN Radio
-https://stream.rcs.revma.com/anew1ctrgzzuv
+https://stream.rcs.revma.com/anew1ctrgzzuv.mp3
+#EXTINF:-1,Sud Radio
+https://stream.ceit.be/sudradio-hainaut
+#EXTINF:-1,1RCF Belgique
+https://rcf.streamakaci.com/rcfbe.mp3
+#EXTINF:-1,Antipode
+https://streaming.antipode.be/antipode.mp3
 #EXTINF:-1,BRF1
 https://streaming.brf.be/brf1-high.mp3
 #EXTINF:-1,BRF2
