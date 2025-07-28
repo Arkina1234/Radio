@@ -37,6 +37,8 @@ https://scdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3
 https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3
 #EXTINF:-1,M Radio
 https://mfm.ice.infomaniak.ch/mfm-128.mp3
+#EXTINF:-1,Jazz Radio
+https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
 #EXTINF:-1,AirZen Radio
 https://streams.airzen.fr/airzen-radio-main-live
 #EXTINF:-1,Radio Classique
@@ -53,3 +55,15 @@ https://audio.bfmtv.com/bfmradio_128.mp3
 https://audio.bfmtv.com/bfmbusiness_128.mp3
 #EXTINF:-1,RMC
 https://audio.bfmtv.com/rmcradio_128.mp3
+#EXTINF:-1,Sud Radio
+https://ice.creacast.com/sudradio
+#EXTINF:-1,TSF Jazz
+https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+#EXTINF:-1,Radio Nova
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1,Radio FG
+https://stream.rcs.revma.com/wknqhm4yuchvv.mp3
+#EXTINF:-1,Radio Contact
+https://stream.rcs.revma.com/6gygqc1gy7uvv.mp3
+#EXTINF:-1,Melody Vintage Radio
+https://stream.rcs.revma.com/5a05fstup42vv.mp3
