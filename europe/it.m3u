@@ -25,39 +25,69 @@ https://icestreaming.rai.it/11.mp3
 https://icestreaming.rai.it/13.mp3
 #EXTINF:-1,Rai No Name Radio
 https://icestreaming.rai.it/15.mp3
+#EXTINF:-1,Radio 105
+https://icecast.unitedradio.it/Radio105.mp3
+#EXTINF:-1,R101
+https://icecast.unitedradio.it/r101_mp3
+#EXTINF:-1,Radio Monte Carlo
+https://icecast.unitedradio.it/RMC.mp3
+#EXTINF:-1,Virgin Radio (Italy)
+https://icecast.unitedradio.it/Virgin.mp3
+#EXTINF:-1,Radio DeeJay
+https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
+#EXTINF:-1,Radio Deejay 30 Songs
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/play1.m3u8
+#EXTINF:-1,Radio Capital
+https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8
+#EXTINF:-1,Radio Capital Funky Town
+https://streamcdnb8-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8
+#EXTINF:-1,m2o
+https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
+#EXTINF:-1,m2o Dance
+https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/play1.m3u8
 #EXTINF:-1,RTL 102.5
 https://streamingv2.shoutcast.com/rtl-1025
 #EXTINF:-1,Radio Zeta
 https://streamingv2.shoutcast.com/radio-zeta
 #EXTINF:-1,Radio Freccia
 https://streamingv2.shoutcast.com/radiofreccia
-#EXTINF:-1,Radio Italia
-https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8
-#EXTINF:-1,Radio Kiss Kiss
-https://ice08.fluidstream.net/KissKiss.mp3
-#EXTINF:-1,Radio Libertà
-https://stream6.xdevel.com/audio0s976574-1328/stream/icecast.audio
-#EXTINF:-1,Radio Vaticana (Italia)
-https://radio.vaticannews.va/stream-it
-#EXTINF:-1,R101
-https://icecast.unitedradio.it/r101_mp3
-#EXTINF:-1,Radio 105
-https://icecast.unitedradio.it/Radio105.mp3
-#EXTINF:-1,Virgin Radio (Italy)
-https://icecast.unitedradio.it/Virgin.mp3
-#EXTINF:-1,Radio Monte Carlo
-https://icecast.unitedradio.it/RMC.mp3
-#EXTINF:-1,News 24
-http://shoutcast2.radio24.ilsole24ore.com:8000/;
-#EXTINF:-1,Radio DeeJay
-https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
-#EXTINF:-1,Radio Capital
-https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8
-#EXTINF:-1,m2o
-https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
+#EXTINF:-1,RTL 102.5 Best
+https://streamingv2.shoutcast.com/rtl-1025-best
+#EXTINF:-1,RTL 102.5 Bro&Sis
+https://streamingv2.shoutcast.com/rtl-1025-broandsis
+#EXTINF:-1,RTL 102.5 Caliente
+https://streamingv2.shoutcast.com/rtl-1025-romeoandjuliet
+#EXTINF:-1,RTL 102.5 Traffic
+https://streamingv2.shoutcast.com/rtl-1025-news
+#EXTINF:-1,RTL 102.5 Napulè
+https://streamingv2.shoutcast.com/rtl-1025-napule
+#EXTINF:-1,RTL 102.5 Disco
+https://streamingv2.shoutcast.com/rtl-1025-disco
 #EXTINF:-1,Radio Maria (Italia)
 https://dreamsiteradiocp5.com/proxy/rmitalia?mp=/stream
+#EXTINF:-1,Radio 24
+http://shoutcast2.radio24.ilsole24ore.com:8000/;
 #EXTINF:-1,Radio Radicale
 https://livemp3.radioradicale.it/live.mp3
+#EXTINF:-1,Radio Radicale News
+https://live.radioradicale.it/dab.mp3
 #EXTINF:-1,RDS
 https://icstream.rds.radio/rds
+#EXTINF:-1,RDS Relax
+https://icstream.rds.radio/rdsrelax
+#EXTINF:-1,ACI Radio
+https://nr7.newradio.it:18003/stream
+#EXTINF:-1,Radio Italia
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8
+#EXTINF:-1,Radio Italia Trend
+https://stream4.xdevel.com/audio0s976608-1379/stream/icecast.audio
+#EXTINF:-1,Radio Libertà
+https://stream6.xdevel.com/audio0s976574-1328/stream/icecast.audio
+#EXTINF:-1,Radio Kiss Kiss
+https://ice08.fluidstream.net/KissKiss.mp3
+#EXTINF:-1,Radio Vaticana (Italia)
+https://radio.vaticannews.va/stream-it
+#EXTINF:-1,Radio Subasio XL
+https://icy.unitedradio.it/SubasioXL.mp3
+#EXTINF:-1,Radio InBlu
+https://www.radioinblu.it/live-stream/inblu2000-playlist.m3u8
