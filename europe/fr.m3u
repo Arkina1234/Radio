@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1,France Inter
-https://icecast.radiofrance.fr/franceinter-midfi.mp3
+https://direct.radiofrance.fr/live/franceinter-midfi.mp3
 #EXTINF:-1,franceinfo
-https://icecast.radiofrance.fr/franceinfo-midfi.mp3
+https://direct.radiofrance.fr/live/franceinfo-midfi.mp3
 #EXTINF:-1,ici Paris Île-de-France
-https://icecast.radiofrance.fr/fb1071-midfi.mp3
+https://direct.radiofrance.fr/live/fb1071-midfi.mp3
 #EXTINF:-1,France Culture
-https://icecast.radiofrance.fr/franceculture-midfi.mp3
+https://direct.radiofrance.fr/live/franceculture-midfi.mp3
 #EXTINF:-1,France Musique
-https://icecast.radiofrance.fr/francemusique-midfi.mp3
+https://direct.radiofrance.fr/live/francemusique-midfi.mp3
 #EXTINF:-1,FIP
-https://icecast.radiofrance.fr/fip-midfi.mp3
+https://direct.radiofrance.fr/live/fip-midfi.mp3
 #EXTINF:-1,Mouv'
-https://icecast.radiofrance.fr/mouv-midfi.mp3
+https://direct.radiofrance.fr/live/mouv-midfi.mp3
 #EXTINF:-1,RFI
 https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3
 #EXTINF:-1,Europe 1
