@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="701" tvg-id="" radio="true",Rai Radio 1
+https://radiounoest-live.akamaized.net/hls/live/2032586/radiounoest/radiounoest/playlist.m3u8
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="702" tvg-id="" radio="true",Rai Radio 2
+https://radiodue-live.akamaized.net/hls/live/2032592/radiodue/radiodue/playlist.m3u8
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="703" tvg-id="" radio="true",Rai Radio 3
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiotreest1/hls/playlist_mo.m3u8
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="713" tvg-id="" radio="true",Radio Capital
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma2.m3u8
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="714" tvg-id="" radio="true",Radio Deejay
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="715" tvg-id="" radio="true",Radio m2o
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="724" tvg-id="" radio="true",RDS 100% Grandi Successi
+https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="728" tvg-id="" radio="true",inBlu2000
+https://www.radioinblu.it/live-stream/inblu2000-playlist.m3u8
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="733" tvg-id="" radio="true",Radio Vaticana Italia
+https://radio.vaticannews.va/stream-it
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="736" tvg-id="" radio="true",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="737" tvg-id="" radio="true",RADIO ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/clhI2IJWRnn7/playlist_audio.m3u8
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="738" tvg-id="" radio="true",RADIOFRECCIA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="770" tvg-id="" radio="true",Radio Italia SMI
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="771" tvg-id="" radio="true",Radio R101
+https://icecast.unitedradio.it/r101
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="772" tvg-id="" radio="true",Radio Monte Carlo
+https://icy.unitedradio.it/RMC.aac
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="785" tvg-id="" radio="true",RADIO 105
+https://icy.unitedradio.it/Radio105.aac
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="786" tvg-id="" radio="true",VIRGIN RADIO
+https://icy.unitedradio.it/Virgin.aac
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="789" tvg-id="" radio="true",Radio Maria
+https://dreamsiteradiocp6.com/proxy/rmusait?mp=/stream
+#EXTINF:-1 group-title="Radio - Italy" tvg-chno="825" tvg-id="" radio="true",Radio Margherita Piu'
+https://streaming.radiomargherita.com/stream/radiomargherita
