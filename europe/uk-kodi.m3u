@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio 1
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio 1Xtra
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_1xtra.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio 2
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_two.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio 3
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_three.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio 4
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_fourfm.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio 4 Extra
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_four_extra.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio 5 Live
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_five_live.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio 5 Sports Extra
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/ak/bbc_radio_five_live_sports_extra.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC 6 Music
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_6music.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Asian Network
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_asian_network.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC World Service
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_world_service.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio Scotland
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_scotland_fm.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio nan Gàidheal
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_nan_gaidheal.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio Ulster
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_ulster.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio Foyle
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_foyle.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio Wales
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_wales_fm.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio Cymru
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_cymru.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio Cymru 2
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_cymru_2.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",BBC Radio London [London]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_london.m3u8
+#EXTINF:-1 group-title="Radio - UK" radio="true",Capital
+https://media-ssl.musicradio.com/CapitalUK
+#EXTINF:-1 group-title="Radio - UK" radio="true",Capital XTRA
+https://media-ice.musicradio.com/CapitalXTRANational
+#EXTINF:-1 group-title="Radio - UK" radio="true",Heart
+https://media-ssl.musicradio.com/HeartUK
+#EXTINF:-1 group-title="Radio - UK" radio="true",Smooth Radio
+https://media-ssl.musicradio.com/SmoothUK
+#EXTINF:-1 group-title="Radio - UK" radio="true",Radio X
+https://media-ice.musicradio.com/RadioXUK
+#EXTINF:-1 group-title="Radio - UK" radio="true",Gold Radio
+https://media-ice.musicradio.com/Gold
+#EXTINF:-1 group-title="Radio - UK" radio="true",Classic FM
+https://media-ssl.musicradio.com/ClassicFM
+#EXTINF:-1 group-title="Radio - UK" radio="true",LBC
+https://media-ssl.musicradio.com/LBCUK
+#EXTINF:-1 group-title="Radio - UK" radio="true",talkSPORT
+https://radio.talksport.com/stream-mobile
+#EXTINF:-1 group-title="Radio - UK" radio="true",Virgin Radio
+https://radio.virginradio.co.uk/stream-mobile
+#EXTINF:-1 group-title="Radio - UK" radio="true",BFBS Radio
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
