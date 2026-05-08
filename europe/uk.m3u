@@ -205,6 +205,14 @@ https://timesradio.wireless.radio/stream-mobile
 https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128
 #EXTINF:-1,Boom Radio (64)
 https://listen-boomradio.sharp-stream.com/65_boom_radio_live_64
+#EXTINF:-1,Boom Light
+https://listen-boomradio.sharp-stream.com/65_boom_light_128_mp3
+#EXTINF:-1,Boom Light (64)
+https://listen-boomradio.sharp-stream.com/65_boom_light_64_aac
+#EXTINF:-1,Boom Rock
+https://listen-boomradio.sharp-stream.com/65_boom_rock_128_mp3
+#EXTINF:-1,Boom Rock (64)
+https://listen-boomradio.sharp-stream.com/65_boom_rock_64_aac
 #EXTINF:-1,GB News Radio
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
 #EXTINF:-1,Fix Radio
@@ -227,8 +235,24 @@ https://edge.clrmedia.co.uk/angel_hb
 https://listen.centreforceradio.com/128
 #EXTINF:-1,Fun Kids Radio
 https://listen-funkids.sharp-stream.com/funkids.mp3
+#EXTINF:-1,Fun Kids Radio (aac)
+https://listen-funkids.sharp-stream.com/funkids.aac
 #EXTINF:-1,Fun Kids Junior
 https://listen-funkids.sharp-stream.com/funkidsjunior.mp3
+#EXTINF:-1,Fun Kids Junior (aac)
+https://listen-funkids.sharp-stream.com/funkidsjunior.aac
+#EXTINF:-1,Fun Kids Soundtracks
+https://stream.rcs.revma.com/x8wbda03tm0uv
+#EXTINF:-1,Fun Kids Pop Hits
+https://stream.rcs.revma.com/6m5ucmz3tm0uv
+#EXTINF:-1,Fun Kids Party
+https://stream.rcs.revma.com/0gpwvpz3tm0uv
+#EXTINF:-1,Fun Kids Naps
+https://stream.rcs.revma.com/pp2cg1z3tm0uv
+#EXTINF:-1,Fun Kids Sleep Sounds
+https://stream.rcs.revma.com/5skkr2gtuy8uv
+#EXTINF:-1,Fun Kids Silly
+https://stream.rcs.revma.com/n2tzvkr3tm0uv
 #EXTINF:-1,Gaydio
 https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
 #EXTINF:-1,Panjab Radio
@@ -239,14 +263,6 @@ https://stream.radiocaroline.net/rc128/;
 https://listen-nation.sharp-stream.com/thamesradio.mp3
 #EXTINF:-1,Nation Radio (London) (aac)
 https://listen-nation.sharp-stream.com/thamesradio.aac
-#EXTINF:-1,Nation Radio (Wales)
-https://listen-nation.sharp-stream.com/tcnation.mp3
-#EXTINF:-1,Nation Radio (Wales) (aac)
-https://listen-nation.sharp-stream.com/tcnation.aac
-#EXTINF:-1,Nation Radio (Scotland)
-https://listen-nation.sharp-stream.com/nationscotland.mp3
-#EXTINF:-1,Nation Radio (Scotland) (aac)
-https://listen-nation.sharp-stream.com/nationscotland.aac
 #EXTINF:-1,Nation 60s
 https://listen-nation.sharp-stream.com/nation60s.mp3
 #EXTINF:-1,Nation 60s (aac)
