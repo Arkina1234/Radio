@@ -165,10 +165,14 @@ https://edge-bauerall-01-gos2.sharp-stream.com/kisstoryrb.mp3
 https://edge-bauerall-01-gos2.sharp-stream.com/kerrang.mp3
 #EXTINF:-1,Jazz FM
 https://edge-bauerall-01-gos2.sharp-stream.com/jazz.mp3
+#EXTINF:-1,Times Radio
+https://timesradio.wireless.radio/stream
+#EXTINF:-1,Times Radio (low)
+https://timesradio.wireless.radio/stream-mobile
 #EXTINF:-1,Talk
 https://radio.talkradio.co.uk/stream
 #EXTINF:-1,Talk (low)
-https://radio.talkradio.co.uk/stream
+https://radio.talkradio.co.uk/stream-mobile
 #EXTINF:-1,talkSPORT
 https://radio.talksport.com/stream
 #EXTINF:-1,talkSPORT (low)
@@ -197,10 +201,6 @@ https://radio.virginradio.co.uk/stream-virginradio4-mobile
 https://radio.virginradio.co.uk/stream-britpop
 #EXTINF:-1,Virgin Radio 90s (low)
 https://radio.virginradio.co.uk/stream-britpop-mobile
-#EXTINF:-1,Times Radio
-https://timesradio.wireless.radio/stream
-#EXTINF:-1,Times Radio (low)
-https://timesradio.wireless.radio/stream-mobile
 #EXTINF:-1,Boom Radio
 https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128
 #EXTINF:-1,Boom Radio (64)
@@ -231,7 +231,9 @@ https://direct.sharp-stream.com/ucbinspirational.mp3
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.mp3
 #EXTINF:-1,Angel Radio
 https://edge.clrmedia.co.uk/angel_hb
-#EXTINF:-1,CentreForce Radio
+#EXTINF:-1,CentreForce 883 (London) (192k)
+https://listen2.centreforceradio.com:8830/192
+#EXTINF:-1,CentreForce 883 (London) (128k)
 https://listen.centreforceradio.com/128
 #EXTINF:-1,Fun Kids Radio
 https://listen-funkids.sharp-stream.com/funkids.mp3
@@ -255,6 +257,8 @@ https://stream.rcs.revma.com/5skkr2gtuy8uv
 https://stream.rcs.revma.com/n2tzvkr3tm0uv
 #EXTINF:-1,Gaydio
 https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
+#EXTINF:-1,Gaydio (aac)
+https://listen-gaydio.sharp-stream.com/gaydiouk.aac
 #EXTINF:-1,Panjab Radio
 http://s1.voscast.com:7918/;
 #EXTINF:-1,Radio Caroline
@@ -303,3 +307,11 @@ https://listen-nation.sharp-stream.com/clubnation.aac
 https://listen-nation.sharp-stream.com/lovenation.mp3
 #EXTINF:-1,Nation Love (aac)
 https://listen-nation.sharp-stream.com/lovenation.aac
+#EXTINF:-1,Nation Easy Radio (Portsmouth)
+https://listen-nation.sharp-stream.com/nationeasyports.mp3
+#EXTINF:-1,Nation Easy Radio (Portsmouth) (aac)
+https://listen-nation.sharp-stream.com/nationeasyports.aac
+#EXTINF:-1,LGR (London Greek Radio)
+https://live3.istoikona.net:9203/stream
+#EXTINF:-1,Shine 879 (Southeast England)
+https://s3.radio.co/sd4abfe69e/listen
