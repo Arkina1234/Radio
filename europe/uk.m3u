@@ -1,12 +1,18 @@
 #EXTM3U
 #EXTINF:-1,BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one.m3u8
+#EXTINF:-1,BBC Radio 1 Anthems
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one_anthems.m3u8
+#EXTINF:-1,BBC Radio 1 Dance
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one_dance.m3u8
 #EXTINF:-1,BBC Radio 1Xtra
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_1xtra.m3u8
 #EXTINF:-1,BBC Radio 2
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_two.m3u8
 #EXTINF:-1,BBC Radio 3
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_three.m3u8
+#EXTINF:-1,BBC Radio 3 Unwind
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_three_unwind.m3u8
 #EXTINF:-1,BBC Radio 4
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_fourfm.m3u8
 #EXTINF:-1,BBC Radio 4 Extra
@@ -116,55 +122,105 @@ https://media-ice.musicradio.com/LBCNewsUK
 #EXTINF:-1,LBC News (MP3)
 https://media-ice.musicradio.com/LBCNewsUKMP3
 #EXTINF:-1,Absolute Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/absoluteradio.mp3
+https://stream-al.hellorayo.co.uk/absoluteradio.mp3
+#EXTINF:-1,Absolute Radio (AAC)
+https://stream-al.hellorayo.co.uk/absoluteradio.aac
 #EXTINF:-1,Absolute Radio 80s
-https://edge-bauerall-01-gos2.sharp-stream.com/absolute80s.mp3
+https://stream-al.hellorayo.co.uk/absolute80s.mp3
+#EXTINF:-1,Absolute Radio 80s (AAC)
+https://stream-al.hellorayo.co.uk/absolute80s.aac
 #EXTINF:-1,Absolute Radio 90s
-https://edge-bauerall-01-gos2.sharp-stream.com/absolute90s.mp3
+https://stream-al.hellorayo.co.uk/absolute90s.mp3
+#EXTINF:-1,Absolute Radio 90s (AAC)
+https://stream-al.hellorayo.co.uk/absolute90s.aac
 #EXTINF:-1,Absolute Radio Classic Rock
-https://edge-bauerall-01-gos2.sharp-stream.com/absoluteclassicrock.mp3
+https://stream-al.hellorayo.co.uk/absoluteclassicrock.mp3
+#EXTINF:-1,Absolute Radio Classic Rock (AAC)
+https://stream-al.hellorayo.co.uk/absoluteclassicrock.aac
 #EXTINF:-1,Absolute Radio Country
-https://edge-bauerall-01-gos2.sharp-stream.com/absolutecountry.mp3
+https://stream-al.hellorayo.co.uk/absolutecountry.mp3
+#EXTINF:-1,Absolute Radio Country (AAC)
+https://stream-al.hellorayo.co.uk/absolutecountry.aac
 #EXTINF:-1,Greatest Hits Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/net2national.mp3
+https://stream-al.hellorayo.co.uk/net2national.mp3
+#EXTINF:-1,Greatest Hits Radio (AAC)
+https://stream-al.hellorayo.co.uk/net2national.aac
 #EXTINF:-1,Greatest Hits Radio 60s
-https://edge-bauerall-01-gos2.sharp-stream.com/ghr60s.mp3
+https://stream-al.hellorayo.co.uk/ghr60s.mp3
+#EXTINF:-1,Greatest Hits Radio 60s (AAC)
+https://stream-al.hellorayo.co.uk/ghr60s.aac
 #EXTINF:-1,Greatest Hits Radio 70s
-https://edge-bauerall-01-gos2.sharp-stream.com/ghr70s.mp3
+https://stream-al.hellorayo.co.uk/ghr70s.mp3
+#EXTINF:-1,Greatest Hits Radio 70s (AAC)
+https://stream-al.hellorayo.co.uk/ghr70s.aac
 #EXTINF:-1,Greatest Hits Radio 80s
-https://edge-bauerall-01-gos2.sharp-stream.com/ghr80s.mp3
+https://stream-al.hellorayo.co.uk/ghr80s.mp3
+#EXTINF:-1,Greatest Hits Radio 80s (AAC)
+https://stream-al.hellorayo.co.uk/ghr80s.aac
 #EXTINF:-1,Hits Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/hits.mp3
+https://stream-al.hellorayo.co.uk/hits.mp3
+#EXTINF:-1,Hits Radio (AAC)
+https://stream-al.hellorayo.co.uk/hits.aac
 #EXTINF:-1,Hits Radio Chilled
-https://edge-bauerall-01-gos2.sharp-stream.com/magicchilled.mp3
+https://stream-al.hellorayo.co.uk/magicchilled.mp3
+#EXTINF:-1,Hits Radio Chilled (AAC)
+https://stream-al.hellorayo.co.uk/magicchilled.aac
 #EXTINF:-1,Hits Radio 90s
-https://edge-bauerall-01-gos2.sharp-stream.com/hitsradio90s.mp3
+https://stream-al.hellorayo.co.uk/hitsradio90s.mp3
+#EXTINF:-1,Hits Radio 90s (AAC)
+https://stream-al.hellorayo.co.uk/hitsradio90s.aac
 #EXTINF:-1,Hits Radio 00s
-https://edge-bauerall-01-gos2.sharp-stream.com/hitsradio00s.mp3
+https://stream-al.hellorayo.co.uk/hitsradio00s.mp3
+#EXTINF:-1,Hits Radio 00s (AAC)
+https://stream-al.hellorayo.co.uk/hitsradio00s.aac
 #EXTINF:-1,Magic Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/magicnational.mp3
+https://stream-al.hellorayo.co.uk/magicnational.mp3
+#EXTINF:-1,Magic Radio (AAC)
+https://stream-al.hellorayo.co.uk/magicnational.aac
 #EXTINF:-1,Mellow Magic
-https://edge-bauerall-01-gos2.sharp-stream.com/magicmellow.mp3
+https://stream-al.hellorayo.co.uk/magicmellow.mp3
+#EXTINF:-1,Mellow Magic (AAC)
+https://stream-al.hellorayo.co.uk/magicmellow.aac
 #EXTINF:-1,Magic Soul
-https://edge-bauerall-01-gos2.sharp-stream.com/magicsoul.mp3
+https://stream-al.hellorayo.co.uk/magicsoul.mp3
+#EXTINF:-1,Magic Soul (AAC)
+https://stream-al.hellorayo.co.uk/magicsoul.aac
 #EXTINF:-1,Magic at the Musicals
-https://edge-bauerall-01-gos2.sharp-stream.com/magicmusicals.mp3
+https://stream-al.hellorayo.co.uk/magicmusicals.mp3
+#EXTINF:-1,Magic at the Musicals (AAC)
+https://stream-al.hellorayo.co.uk/magicmusicals.aac
 #EXTINF:-1,Magic Classical
-https://edge-bauerall-01-gos2.sharp-stream.com/scala.mp3
+https://stream-al.hellorayo.co.uk/scala.mp3
+#EXTINF:-1,Magic Classical (AAC)
+https://stream-al.hellorayo.co.uk/scala.aac
 #EXTINF:-1,Planet Rock
-https://edge-bauerall-01-gos2.sharp-stream.com/planetrock.mp3
+https://stream-al.hellorayo.co.uk/planetrock.mp3
+#EXTINF:-1,Planet Rock (AAC)
+https://stream-al.hellorayo.co.uk/planetrock.aac
 #EXTINF:-1,KISS
-https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.mp3
+https://stream-al.hellorayo.co.uk/kissnational.mp3
+#EXTINF:-1,KISS (AAC)
+https://stream-al.hellorayo.co.uk/kissnational.aac
 #EXTINF:-1,KISSTORY
-https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.mp3
+https://stream-al.hellorayo.co.uk/kisstory.mp3
+#EXTINF:-1,KISSTORY (AAC)
+https://stream-al.hellorayo.co.uk/kisstory.aac
 #EXTINF:-1,KISS XTRA
-https://edge-bauerall-01-gos2.sharp-stream.com/kissfresh.mp3
+https://stream-al.hellorayo.co.uk/kissfresh.mp3
+#EXTINF:-1,KISS XTRA (AAC)
+https://stream-al.hellorayo.co.uk/kissfresh.aac
 #EXTINF:-1,KISSTORY R&B
-https://edge-bauerall-01-gos2.sharp-stream.com/kisstoryrb.mp3
+https://stream-al.hellorayo.co.uk/kisstoryrb.mp3
+#EXTINF:-1,KISSTORY R&B (AAC)
+https://stream-al.hellorayo.co.uk/kisstoryrb.aac
 #EXTINF:-1,Kerrang! Radio
-https://edge-bauerall-01-gos2.sharp-stream.com/kerrang.mp3
+https://stream-al.hellorayo.co.uk/kerrang.mp3
+#EXTINF:-1,Kerrang! Radio (AAC)
+https://stream-al.hellorayo.co.uk/kerrang.aac
 #EXTINF:-1,Jazz FM
-https://edge-bauerall-01-gos2.sharp-stream.com/jazz.mp3
+https://stream-al.hellorayo.co.uk/jazz.mp3
+#EXTINF:-1,Jazz FM (AAC)
+https://stream-al.hellorayo.co.uk/jazz.aac
 #EXTINF:-1,Times Radio
 https://timesradio.wireless.radio/stream
 #EXTINF:-1,Times Radio (low)
