@@ -61,13 +61,13 @@ https://media-ice.musicradio.com/CapitalXTRAReloadedMP3
 https://media-ice.musicradio.com/CapitalDance
 #EXTINF:-1,Capital Dance (MP3)
 https://media-ice.musicradio.com/CapitalDanceMP3
-#EXTINF:-1,Heart UK (MP3)
-https://media-ice.musicradio.com/HeartUK
 #EXTINF:-1,Heart UK
+https://media-ice.musicradio.com/HeartUK
+#EXTINF:-1,Heart UK (MP3)
 https://media-ice.musicradio.com/HeartUKMP3
-#EXTINF:-1,Heart 70s (MP3)
-https://media-ice.musicradio.com/Heart70s
 #EXTINF:-1,Heart 70s
+https://media-ice.musicradio.com/Heart70s
+#EXTINF:-1,Heart 70s (MP3)
 https://media-ice.musicradio.com/Heart70sMP3
 #EXTINF:-1,Heart 80s
 https://media-ice.musicradio.com/Heart80s
@@ -122,105 +122,55 @@ https://media-ice.musicradio.com/LBCNewsUK
 #EXTINF:-1,LBC News (MP3)
 https://media-ice.musicradio.com/LBCNewsUKMP3
 #EXTINF:-1,Absolute Radio
-https://stream-al.hellorayo.co.uk/absoluteradio.mp3
-#EXTINF:-1,Absolute Radio (AAC)
-https://stream-al.hellorayo.co.uk/absoluteradio.aac
+https://stream-ar.hellorayo.co.uk/absoluteradio.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Absolute Radio 80s
-https://stream-al.hellorayo.co.uk/absolute80s.mp3
-#EXTINF:-1,Absolute Radio 80s (AAC)
-https://stream-al.hellorayo.co.uk/absolute80s.aac
+https://stream-ar.hellorayo.co.uk/absolute80s.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Absolute Radio 90s
-https://stream-al.hellorayo.co.uk/absolute90s.mp3
-#EXTINF:-1,Absolute Radio 90s (AAC)
-https://stream-al.hellorayo.co.uk/absolute90s.aac
+https://stream-ar.hellorayo.co.uk/absolute90s.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Absolute Radio Classic Rock
-https://stream-al.hellorayo.co.uk/absoluteclassicrock.mp3
-#EXTINF:-1,Absolute Radio Classic Rock (AAC)
-https://stream-al.hellorayo.co.uk/absoluteclassicrock.aac
+https://stream-ar.hellorayo.co.uk/absoluteclassicrock.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Absolute Radio Country
-https://stream-al.hellorayo.co.uk/absolutecountry.mp3
-#EXTINF:-1,Absolute Radio Country (AAC)
-https://stream-al.hellorayo.co.uk/absolutecountry.aac
+https://stream-ar.hellorayo.co.uk/absolutecountry.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Greatest Hits Radio
-https://stream-al.hellorayo.co.uk/net2national.mp3
-#EXTINF:-1,Greatest Hits Radio (AAC)
-https://stream-al.hellorayo.co.uk/net2national.aac
+https://stream-mz.hellorayo.co.uk/net2national.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Greatest Hits Radio 60s
-https://stream-al.hellorayo.co.uk/ghr60s.mp3
-#EXTINF:-1,Greatest Hits Radio 60s (AAC)
-https://stream-al.hellorayo.co.uk/ghr60s.aac
+https://stream-al.hellorayo.co.uk/ghr60s.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Greatest Hits Radio 70s
-https://stream-al.hellorayo.co.uk/ghr70s.mp3
-#EXTINF:-1,Greatest Hits Radio 70s (AAC)
-https://stream-al.hellorayo.co.uk/ghr70s.aac
+https://stream-al.hellorayo.co.uk/ghr70s.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Greatest Hits Radio 80s
-https://stream-al.hellorayo.co.uk/ghr80s.mp3
-#EXTINF:-1,Greatest Hits Radio 80s (AAC)
-https://stream-al.hellorayo.co.uk/ghr80s.aac
+https://stream-al.hellorayo.co.uk/ghr80s.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Hits Radio
-https://stream-al.hellorayo.co.uk/hits.mp3
-#EXTINF:-1,Hits Radio (AAC)
-https://stream-al.hellorayo.co.uk/hits.aac
+https://stream-al.hellorayo.co.uk/hits.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Hits Radio Chilled
-https://stream-al.hellorayo.co.uk/magicchilled.mp3
-#EXTINF:-1,Hits Radio Chilled (AAC)
-https://stream-al.hellorayo.co.uk/magicchilled.aac
+https://stream-mz.hellorayo.co.uk/magicchilled.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Hits Radio 90s
-https://stream-al.hellorayo.co.uk/hitsradio90s.mp3
-#EXTINF:-1,Hits Radio 90s (AAC)
-https://stream-al.hellorayo.co.uk/hitsradio90s.aac
+https://stream-al.hellorayo.co.uk/hitsradio90s.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Hits Radio 00s
-https://stream-al.hellorayo.co.uk/hitsradio00s.mp3
-#EXTINF:-1,Hits Radio 00s (AAC)
-https://stream-al.hellorayo.co.uk/hitsradio00s.aac
+https://stream-al.hellorayo.co.uk/hitsradio00s.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Magic Radio
-https://stream-al.hellorayo.co.uk/magicnational.mp3
-#EXTINF:-1,Magic Radio (AAC)
-https://stream-al.hellorayo.co.uk/magicnational.aac
+https://stream-mz.hellorayo.co.uk/magicnational.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Mellow Magic
-https://stream-al.hellorayo.co.uk/magicmellow.mp3
-#EXTINF:-1,Mellow Magic (AAC)
-https://stream-al.hellorayo.co.uk/magicmellow.aac
+https://stream-mz.hellorayo.co.uk/magicmellow.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Magic Soul
-https://stream-al.hellorayo.co.uk/magicsoul.mp3
-#EXTINF:-1,Magic Soul (AAC)
-https://stream-al.hellorayo.co.uk/magicsoul.aac
+https://stream-mz.hellorayo.co.uk/magicsoul.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Magic at the Musicals
-https://stream-al.hellorayo.co.uk/magicmusicals.mp3
-#EXTINF:-1,Magic at the Musicals (AAC)
-https://stream-al.hellorayo.co.uk/magicmusicals.aac
+https://stream-mz.hellorayo.co.uk/magicmusicals.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Magic Classical
-https://stream-al.hellorayo.co.uk/scala.mp3
-#EXTINF:-1,Magic Classical (AAC)
-https://stream-al.hellorayo.co.uk/scala.aac
+https://stream-mz.hellorayo.co.uk/scala.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Planet Rock
-https://stream-al.hellorayo.co.uk/planetrock.mp3
-#EXTINF:-1,Planet Rock (AAC)
-https://stream-al.hellorayo.co.uk/planetrock.aac
+https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,KISS
-https://stream-al.hellorayo.co.uk/kissnational.mp3
-#EXTINF:-1,KISS (AAC)
-https://stream-al.hellorayo.co.uk/kissnational.aac
+https://live-bauerkiss.sharp-stream.com/kissnational.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,KISSTORY
-https://stream-al.hellorayo.co.uk/kisstory.mp3
-#EXTINF:-1,KISSTORY (AAC)
-https://stream-al.hellorayo.co.uk/kisstory.aac
+https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,KISS XTRA
-https://stream-al.hellorayo.co.uk/kissfresh.mp3
-#EXTINF:-1,KISS XTRA (AAC)
-https://stream-al.hellorayo.co.uk/kissfresh.aac
+https://live-bauerkiss.sharp-stream.com/kissfresh.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,KISSTORY R&B
-https://stream-al.hellorayo.co.uk/kisstoryrb.mp3
-#EXTINF:-1,KISSTORY R&B (AAC)
-https://stream-al.hellorayo.co.uk/kisstoryrb.aac
+https://live-bauerkiss.sharp-stream.com/kisstoryrb.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Kerrang! Radio
-https://stream-al.hellorayo.co.uk/kerrang.mp3
-#EXTINF:-1,Kerrang! Radio (AAC)
-https://stream-al.hellorayo.co.uk/kerrang.aac
+https://stream-al.hellorayo.co.uk/kerrang.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Jazz FM
-https://stream-al.hellorayo.co.uk/jazz.mp3
-#EXTINF:-1,Jazz FM (AAC)
-https://stream-al.hellorayo.co.uk/jazz.aac
+https://stream-al.hellorayo.co.uk/jazz.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~
 #EXTINF:-1,Times Radio
 https://timesradio.wireless.radio/stream
 #EXTINF:-1,Times Radio (low)
